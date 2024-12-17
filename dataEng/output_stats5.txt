@@ -1,0 +1,3 @@
+Mean Price: 5196.144578313253
+Max Price: 9943
+Min Price: 294

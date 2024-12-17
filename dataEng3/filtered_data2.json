@@ -1,0 +1,352 @@
+[
+    {
+        "name": "5.6\" Xiaomi Mi 160GB",
+        "price": 467375.0,
+        "bonuses": 4673,
+        "characteristics": {
+            "processor": "4x1.1 ГГц",
+            "resolution": "2560x2160",
+            "camera": "117 MP"
+        }
+    },
+    {
+        "name": "6.7\" Xiaomi Mi 192GB",
+        "price": 126229.0,
+        "bonuses": 1262,
+        "characteristics": {
+            "matrix": "IPS",
+            "resolution": "1366x768",
+            "camera": "28 MP",
+            "acc": "2808 мА * ч"
+        }
+    },
+    {
+        "name": "5.7\" Xiaomi Mi 96GB",
+        "price": 328001.0,
+        "bonuses": 3280,
+        "characteristics": {
+            "processor": "2x1.3 ГГц",
+            "sim": "1 SIM",
+            "matrix": "AMOLED",
+            "camera": "97 MP"
+        }
+    },
+    {
+        "name": "7.0\" Xiaomi Mi 96GB",
+        "price": 405681.0,
+        "bonuses": 4056,
+        "characteristics": {
+            "processor": "2x2.4 ГГц",
+            "ram": "4 GB",
+            "sim": "3 SIM",
+            "matrix": "OLED",
+            "resolution": "1366x2160",
+            "camera": "73 MP",
+            "acc": "6770 мА * ч"
+        }
+    },
+    {
+        "name": "7.3\" Xiaomi Mi 192GB",
+        "price": 188290.0,
+        "bonuses": 1882,
+        "characteristics": {
+            "processor": "2x1.3 ГГц",
+            "ram": "9 GB",
+            "camera": "36 MP"
+        }
+    },
+    {
+        "name": "7.3\" Xiaomi Mi 256GB",
+        "price": 497292.0,
+        "bonuses": 4972,
+        "characteristics": {
+            "processor": "2x3.5 ГГц",
+            "ram": "12 GB",
+            "matrix": "AMOLED",
+            "acc": "5490 мА * ч"
+        }
+    },
+    {
+        "name": "5.5\" Xiaomi Mi 144GB",
+        "price": 470801.0,
+        "bonuses": 4708,
+        "characteristics": {
+            "processor": "4x4.2 ГГц",
+            "ram": "9 GB",
+            "matrix": "AMOLED",
+            "acc": "3830 мА * ч"
+        }
+    },
+    {
+        "name": "6.6\" Xiaomi Mi 192GB",
+        "price": 435147.0,
+        "bonuses": 4351,
+        "characteristics": {
+            "processor": "4x1.7 ГГц",
+            "ram": "14 GB",
+            "sim": "3 SIM"
+        }
+    },
+    {
+        "name": "6.1\" Xiaomi Mi 176GB",
+        "price": 69392.0,
+        "bonuses": 693,
+        "characteristics": {
+            "processor": "4x3.5 ГГц",
+            "sim": "2 SIM",
+            "resolution": "1024x2160",
+            "camera": "35 MP"
+        }
+    },
+    {
+        "name": "7.5\" Xiaomi Mi 80GB",
+        "price": 124393.0,
+        "bonuses": 1243,
+        "characteristics": {
+            "ram": "6 GB",
+            "matrix": "OLED",
+            "camera": "48 MP",
+            "acc": "2871 мА * ч"
+        }
+    },
+    {
+        "name": "5.1\" Xiaomi Mi 32GB",
+        "price": 77368.0,
+        "bonuses": 773,
+        "characteristics": {
+            "processor": "6x1.8 ГГц",
+            "sim": "2 SIM",
+            "matrix": "OLED",
+            "resolution": "1280x1440",
+            "camera": "19 MP",
+            "acc": "2355 мА * ч"
+        }
+    },
+    {
+        "name": "7.2\" Xiaomi Mi 256GB",
+        "price": 90317.0,
+        "bonuses": 903,
+        "characteristics": {
+            "processor": "2x4.8 ГГц",
+            "ram": "8 GB",
+            "sim": "3 SIM",
+            "resolution": "1280x2160",
+            "camera": "121 MP"
+        }
+    },
+    {
+        "name": "5.2\" Xiaomi Mi 80GB",
+        "price": 56103.0,
+        "bonuses": 561,
+        "characteristics": {
+            "processor": "8x2.2 ГГц",
+            "ram": "14 GB",
+            "sim": "4 SIM",
+            "matrix": "OLED",
+            "camera": "42 MP"
+        }
+    },
+    {
+        "name": "7.4\" Xiaomi Mi 96GB",
+        "price": 329840.0,
+        "bonuses": 3298,
+        "characteristics": {
+            "processor": "4x1.9 ГГц",
+            "resolution": "1366x768",
+            "camera": "118 MP"
+        }
+    },
+    {
+        "name": "5.6\" Xiaomi Mi 16GB",
+        "price": 164702.0,
+        "bonuses": 1647,
+        "characteristics": {
+            "matrix": "OLED",
+            "resolution": "1366x1080",
+            "acc": "6478 мА * ч"
+        }
+    },
+    {
+        "name": "6.8\" Xiaomi Mi 48GB",
+        "price": 292470.0,
+        "bonuses": 2924,
+        "characteristics": {
+            "sim": "2 SIM",
+            "matrix": "AMOLED",
+            "resolution": "1280x1366"
+        }
+    },
+    {
+        "name": "6.4\" Xiaomi Mi 176GB",
+        "price": 215980.0,
+        "bonuses": 2159,
+        "characteristics": {
+            "resolution": "2560x1366",
+            "camera": "57 MP"
+        }
+    },
+    {
+        "name": "5.5\" Xiaomi Mi 176GB",
+        "price": 27473.0,
+        "bonuses": 274,
+        "characteristics": {
+            "sim": "2 SIM",
+            "matrix": "OLED",
+            "camera": "97 MP"
+        }
+    },
+    {
+        "name": "6.1\" Xiaomi Mi 32GB",
+        "price": 103202.0,
+        "bonuses": 1032,
+        "characteristics": {
+            "processor": "2x2.1 ГГц",
+            "matrix": "OLED",
+            "acc": "7898 мА * ч"
+        }
+    },
+    {
+        "name": "7.0\" Xiaomi Mi 96GB",
+        "price": 67069.0,
+        "bonuses": 670,
+        "characteristics": {
+            "processor": "8x1.5 ГГц",
+            "sim": "1 SIM",
+            "camera": "60 MP",
+            "acc": "2374 мА * ч"
+        }
+    },
+    {
+        "name": "6.2\" Xiaomi Mi 96GB",
+        "price": 355223.0,
+        "bonuses": 3552,
+        "characteristics": {
+            "processor": "4x1.9 ГГц",
+            "ram": "11 GB",
+            "sim": "1 SIM",
+            "matrix": "OLED",
+            "acc": "5006 мА * ч"
+        }
+    },
+    {
+        "name": "7.4\" Xiaomi Mi 112GB",
+        "price": 320865.0,
+        "bonuses": 3208,
+        "characteristics": {
+            "ram": "5 GB",
+            "sim": "4 SIM",
+            "resolution": "1366x768"
+        }
+    },
+    {
+        "name": "7.5\" Xiaomi Mi 192GB",
+        "price": 80513.0,
+        "bonuses": 805,
+        "characteristics": {
+            "processor": "2x3.5 ГГц",
+            "ram": "5 GB",
+            "matrix": "AMOLED",
+            "resolution": "1366x1200",
+            "camera": "25 MP"
+        }
+    },
+    {
+        "name": "6.8\" Xiaomi Mi 112GB",
+        "price": 417583.0,
+        "bonuses": 4175,
+        "characteristics": {
+            "sim": "3 SIM",
+            "resolution": "1920x1440",
+            "acc": "2284 мА * ч"
+        }
+    },
+    {
+        "name": "6.8\" Xiaomi Mi 176GB",
+        "price": 200117.0,
+        "bonuses": 2001,
+        "characteristics": {
+            "processor": "6x2.9 ГГц",
+            "ram": "2 GB",
+            "sim": "1 SIM",
+            "resolution": "1600x1200",
+            "camera": "66 MP"
+        }
+    },
+    {
+        "name": "6.4\" Xiaomi Mi 176GB",
+        "price": 139203.0,
+        "bonuses": 1392,
+        "characteristics": {
+            "sim": "4 SIM",
+            "matrix": "IPS",
+            "camera": "103 MP",
+            "acc": "7794 мА * ч"
+        }
+    },
+    {
+        "name": "6.5\" Xiaomi Mi 112GB",
+        "price": 296080.0,
+        "bonuses": 2960,
+        "characteristics": {
+            "ram": "15 GB",
+            "sim": "1 SIM",
+            "resolution": "1600x1200",
+            "camera": "116 MP",
+            "acc": "3311 мА * ч"
+        }
+    },
+    {
+        "name": "6.7\" Xiaomi Mi 16GB",
+        "price": 87308.0,
+        "bonuses": 873,
+        "characteristics": {
+            "processor": "2x3.3 ГГц",
+            "sim": "1 SIM",
+            "matrix": "OLED",
+            "camera": "100 MP",
+            "acc": "5462 мА * ч"
+        }
+    },
+    {
+        "name": "5.4\" Xiaomi Mi 64GB",
+        "price": 391854.0,
+        "bonuses": 3918,
+        "characteristics": {
+            "processor": "2x3.5 ГГц",
+            "ram": "16 GB",
+            "matrix": "AMOLED",
+            "resolution": "1366x2160",
+            "camera": "24 MP"
+        }
+    },
+    {
+        "name": "6.6\" Xiaomi Mi 192GB",
+        "price": 94914.0,
+        "bonuses": 949,
+        "characteristics": {
+            "processor": "2x3.5 ГГц",
+            "sim": "3 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "name": "5.0\" Xiaomi Mi 208GB",
+        "price": 232037.0,
+        "bonuses": 2320,
+        "characteristics": {
+            "processor": "2x4.9 ГГц",
+            "ram": "3 GB",
+            "matrix": "OLED",
+            "resolution": "1280x1440"
+        }
+    },
+    {
+        "name": "6.5\" Xiaomi Mi 64GB",
+        "price": 131561.0,
+        "bonuses": 1315,
+        "characteristics": {
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    }
+]

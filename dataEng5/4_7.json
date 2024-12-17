@@ -1,0 +1,9162 @@
+[
+    {
+        "_id": "Hqn",
+        "count": 30
+    },
+    {
+        "_id": "Focal Press",
+        "count": 9
+    },
+    {
+        "_id": "Simon and Schuster",
+        "count": 27
+    },
+    {
+        "_id": "Conari Press",
+        "count": 15
+    },
+    {
+        "_id": "Victor Gollancz",
+        "count": 15
+    },
+    {
+        "_id": "Farrar Straus and Giroux",
+        "count": 18
+    },
+    {
+        "_id": "Walter de Gruyter",
+        "count": 3
+    },
+    {
+        "_id": "Fawcett Books",
+        "count": 93
+    },
+    {
+        "_id": "Corgi",
+        "count": 186
+    },
+    {
+        "_id": "Delta Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Warne",
+        "count": 45
+    },
+    {
+        "_id": "Leisure Books",
+        "count": 189
+    },
+    {
+        "_id": "Amherst Media  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Bloomsbury UK",
+        "count": 15
+    },
+    {
+        "_id": "Atheneum Books",
+        "count": 9
+    },
+    {
+        "_id": "British Film Institute",
+        "count": 18
+    },
+    {
+        "_id": "Acropolis Books (NY)",
+        "count": 3
+    },
+    {
+        "_id": "MacAdam/Cage",
+        "count": 15
+    },
+    {
+        "_id": "Phoenix Books/University of Chicago Press (IL)",
+        "count": 3
+    },
+    {
+        "_id": "Hackett Publishing Company (Indianapolis  IN)",
+        "count": 3
+    },
+    {
+        "_id": "Praeger",
+        "count": 3
+    },
+    {
+        "_id": "Red Fox",
+        "count": 45
+    },
+    {
+        "_id": "Zenith Press",
+        "count": 6
+    },
+    {
+        "_id": "Century",
+        "count": 3
+    },
+    {
+        "_id": "FASA Corp.",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Books Ltd",
+        "count": 294
+    },
+    {
+        "_id": "Blackwell Publishing  Inc.",
+        "count": 15
+    },
+    {
+        "_id": "Dalkey Archive Press",
+        "count": 72
+    },
+    {
+        "_id": "ReganBooks",
+        "count": 30
+    },
+    {
+        "_id": "No Exit Press",
+        "count": 75
+    },
+    {
+        "_id": "Bloomsbury Childrens Books",
+        "count": 15
+    },
+    {
+        "_id": "Penguin Group",
+        "count": 33
+    },
+    {
+        "_id": "Firebird",
+        "count": 204
+    },
+    {
+        "_id": "Harlequin Readers' Choice",
+        "count": 3
+    },
+    {
+        "_id": "Libros para ninos",
+        "count": 3
+    },
+    {
+        "_id": "Spectra Books",
+        "count": 153
+    },
+    {
+        "_id": "Grasset",
+        "count": 6
+    },
+    {
+        "_id": "Vertical",
+        "count": 33
+    },
+    {
+        "_id": "ASCD",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Books (London)",
+        "count": 3
+    },
+    {
+        "_id": "Liveright",
+        "count": 15
+    },
+    {
+        "_id": "American Girl Publishing Inc",
+        "count": 15
+    },
+    {
+        "_id": "The Harvill Press",
+        "count": 6
+    },
+    {
+        "_id": "Random House Large Print",
+        "count": 18
+    },
+    {
+        "_id": "The Overlook Press",
+        "count": 30
+    },
+    {
+        "_id": "Russell Enterprises",
+        "count": 3
+    },
+    {
+        "_id": "Joshua Odell Editions",
+        "count": 3
+    },
+    {
+        "_id": "LSU Press",
+        "count": 3
+    },
+    {
+        "_id": "St. Martin's Griffin",
+        "count": 405
+    },
+    {
+        "_id": "Tor",
+        "count": 60
+    },
+    {
+        "_id": "Vintage Books/Vintage Classics",
+        "count": 15
+    },
+    {
+        "_id": "Columbia University Press",
+        "count": 66
+    },
+    {
+        "_id": "Ebury Press",
+        "count": 24
+    },
+    {
+        "_id": "Penguin Group (USA)",
+        "count": 45
+    },
+    {
+        "_id": "Rough Guides",
+        "count": 15
+    },
+    {
+        "_id": "Headline Review",
+        "count": 141
+    },
+    {
+        "_id": "Geoplaneta",
+        "count": 3
+    },
+    {
+        "_id": "A & C Black (Childrens books)",
+        "count": 3
+    },
+    {
+        "_id": "Four Ninety-Eight Productions",
+        "count": 3
+    },
+    {
+        "_id": "Inkling Books",
+        "count": 3
+    },
+    {
+        "_id": "Orion Publishing Group",
+        "count": 33
+    },
+    {
+        "_id": "New Page Books",
+        "count": 3
+    },
+    {
+        "_id": "Starscape",
+        "count": 39
+    },
+    {
+        "_id": "East Bay Municipal Utility District",
+        "count": 3
+    },
+    {
+        "_id": "Atria Books",
+        "count": 264
+    },
+    {
+        "_id": "Izdavačka agencija \"Draganić\"",
+        "count": 3
+    },
+    {
+        "_id": "Orb Books",
+        "count": 219
+    },
+    {
+        "_id": "Urban Books",
+        "count": 3
+    },
+    {
+        "_id": "Versus Press",
+        "count": 3
+    },
+    {
+        "_id": "Cumberland House Publishing",
+        "count": 6
+    },
+    {
+        "_id": "Vintage/Ebury",
+        "count": 3
+    },
+    {
+        "_id": "Fourth Estate",
+        "count": 12
+    },
+    {
+        "_id": "Akashic Books/Punk Planet Books",
+        "count": 15
+    },
+    {
+        "_id": "Chelsea House Publications",
+        "count": 42
+    },
+    {
+        "_id": "Walter Foster Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Moody Publishers (Chicago)",
+        "count": 3
+    },
+    {
+        "_id": "l'ecole des loisirs",
+        "count": 3
+    },
+    {
+        "_id": "Times Books",
+        "count": 12
+    },
+    {
+        "_id": "Soft Skull Press",
+        "count": 18
+    },
+    {
+        "_id": "Scribner",
+        "count": 807
+    },
+    {
+        "_id": "Grafton",
+        "count": 3
+    },
+    {
+        "_id": "Stackpole Books",
+        "count": 3
+    },
+    {
+        "_id": "Ace Books",
+        "count": 324
+    },
+    {
+        "_id": "Samhain Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Rick Steves",
+        "count": 6
+    },
+    {
+        "_id": "Blood Moon Productions",
+        "count": 3
+    },
+    {
+        "_id": "Plaza y Janes",
+        "count": 126
+    },
+    {
+        "_id": "W. W. Norton  Company",
+        "count": 660
+    },
+    {
+        "_id": "DK Children",
+        "count": 42
+    },
+    {
+        "_id": "Abraham Guillen Press",
+        "count": 3
+    },
+    {
+        "_id": "Brilliance Audio",
+        "count": 75
+    },
+    {
+        "_id": "Springer",
+        "count": 15
+    },
+    {
+        "_id": "Virago",
+        "count": 30
+    },
+    {
+        "_id": "Modern Library (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Hakusen Sha",
+        "count": 3
+    },
+    {
+        "_id": "Destino Ediciones",
+        "count": 3
+    },
+    {
+        "_id": "Yosemite Conservancy",
+        "count": 3
+    },
+    {
+        "_id": "Parker Publishing Llc",
+        "count": 3
+    },
+    {
+        "_id": "Cybereditions Corp",
+        "count": 3
+    },
+    {
+        "_id": "Diogenes Verlag",
+        "count": 3
+    },
+    {
+        "_id": "NAL Jam",
+        "count": 15
+    },
+    {
+        "_id": "Dial Press",
+        "count": 183
+    },
+    {
+        "_id": "Atheneum/Richard Jackson Books",
+        "count": 6
+    },
+    {
+        "_id": "Cook's Illustrated",
+        "count": 6
+    },
+    {
+        "_id": "Transworld Publishers Ltd",
+        "count": 15
+    },
+    {
+        "_id": "Hearst Communications",
+        "count": 15
+    },
+    {
+        "_id": "Harcourt Brace Jovanovich (NY)",
+        "count": 3
+    },
+    {
+        "_id": "皇冠文化出版有限公司",
+        "count": 6
+    },
+    {
+        "_id": "Yoruba Theological Archministry",
+        "count": 3
+    },
+    {
+        "_id": "Motorbooks International",
+        "count": 3
+    },
+    {
+        "_id": "Indiana University Press",
+        "count": 33
+    },
+    {
+        "_id": "Challenge Press  Inc./Challcrest Press",
+        "count": 3
+    },
+    {
+        "_id": "Pimlico",
+        "count": 21
+    },
+    {
+        "_id": "Picador  Macmillan Publishers Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Aris & Phillips",
+        "count": 3
+    },
+    {
+        "_id": "IndyPublish.com",
+        "count": 3
+    },
+    {
+        "_id": "Arrow (A Division of Random House Group)",
+        "count": 3
+    },
+    {
+        "_id": "Macmillan Publishing Company/Collier Books",
+        "count": 15
+    },
+    {
+        "_id": "Paraglyph Press",
+        "count": 15
+    },
+    {
+        "_id": "Augsburg Fortress Publishing",
+        "count": 9
+    },
+    {
+        "_id": "Firebird Books",
+        "count": 30
+    },
+    {
+        "_id": "School Specialty Publishing",
+        "count": 3
+    },
+    {
+        "_id": "The Chicken House",
+        "count": 15
+    },
+    {
+        "_id": "Grand Central Publishing (Formerly Warner Books)",
+        "count": 30
+    },
+    {
+        "_id": "Ace",
+        "count": 333
+    },
+    {
+        "_id": "Abingdon Press",
+        "count": 15
+    },
+    {
+        "_id": "Mira Books",
+        "count": 153
+    },
+    {
+        "_id": "Hodder Wayland",
+        "count": 3
+    },
+    {
+        "_id": "Worth Publishers",
+        "count": 3
+    },
+    {
+        "_id": "New York: Random House",
+        "count": 15
+    },
+    {
+        "_id": "Boston Common Press",
+        "count": 3
+    },
+    {
+        "_id": "Faber and Faber & Penguin India",
+        "count": 3
+    },
+    {
+        "_id": "Sasquatch Books",
+        "count": 15
+    },
+    {
+        "_id": "Square Fish",
+        "count": 90
+    },
+    {
+        "_id": "Atheneum",
+        "count": 18
+    },
+    {
+        "_id": "Pfeiffer & Company",
+        "count": 3
+    },
+    {
+        "_id": "Sudamericana",
+        "count": 6
+    },
+    {
+        "_id": "Penguin Classic",
+        "count": 3
+    },
+    {
+        "_id": "VIZ Media",
+        "count": 102
+    },
+    {
+        "_id": "Routledge Falmer",
+        "count": 3
+    },
+    {
+        "_id": "Hackett Publishing Company",
+        "count": 15
+    },
+    {
+        "_id": "St. Martin's Paperbacks",
+        "count": 459
+    },
+    {
+        "_id": "Monkfish Book Publishing",
+        "count": 3
+    },
+    {
+        "_id": "RH Audio Price-less",
+        "count": 3
+    },
+    {
+        "_id": "Piper Taschenbuch",
+        "count": 3
+    },
+    {
+        "_id": "AHA! Process",
+        "count": 15
+    },
+    {
+        "_id": "Henry Holt and Co.",
+        "count": 15
+    },
+    {
+        "_id": "Jessica Kingsley Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Sage Publications  Inc",
+        "count": 3
+    },
+    {
+        "_id": "Picador",
+        "count": 408
+    },
+    {
+        "_id": "Marlowe & Company",
+        "count": 3
+    },
+    {
+        "_id": "Chicago Review Press",
+        "count": 69
+    },
+    {
+        "_id": "Virgin Publishing",
+        "count": 9
+    },
+    {
+        "_id": "Beacon Press",
+        "count": 78
+    },
+    {
+        "_id": "HarperCollinsChildren’sBooks",
+        "count": 48
+    },
+    {
+        "_id": "Audio Partners",
+        "count": 12
+    },
+    {
+        "_id": "Beach Lane Books",
+        "count": 9
+    },
+    {
+        "_id": "Sticker Design (DC Comics)",
+        "count": 3
+    },
+    {
+        "_id": "Night Shade",
+        "count": 3
+    },
+    {
+        "_id": "Rowohlt Verlag",
+        "count": 9
+    },
+    {
+        "_id": "Harper Element",
+        "count": 3
+    },
+    {
+        "_id": "Wizarding World Press",
+        "count": 15
+    },
+    {
+        "_id": "Casa Creacion",
+        "count": 3
+    },
+    {
+        "_id": "Alfred A.Knopf",
+        "count": 15
+    },
+    {
+        "_id": "New York Review Children's Collection",
+        "count": 15
+    },
+    {
+        "_id": "Dragon Door Publications",
+        "count": 3
+    },
+    {
+        "_id": "Canongate Books",
+        "count": 48
+    },
+    {
+        "_id": "Harlequin Temptation",
+        "count": 6
+    },
+    {
+        "_id": "David C Cook",
+        "count": 3
+    },
+    {
+        "_id": "Mariner Books / Harvest Books",
+        "count": 15
+    },
+    {
+        "_id": "Cooper Square Press",
+        "count": 6
+    },
+    {
+        "_id": "Dorling Kindersley Children",
+        "count": 3
+    },
+    {
+        "_id": "Bantam Books",
+        "count": 408
+    },
+    {
+        "_id": "時報出版",
+        "count": 3
+    },
+    {
+        "_id": "Pelican Publishing Company",
+        "count": 3
+    },
+    {
+        "_id": "Arden Shakespeare",
+        "count": 18
+    },
+    {
+        "_id": "Summit University Press",
+        "count": 6
+    },
+    {
+        "_id": "Gold Eagle",
+        "count": 18
+    },
+    {
+        "_id": "Severn House",
+        "count": 3
+    },
+    {
+        "_id": "Laurel Leaf Library",
+        "count": 111
+    },
+    {
+        "_id": "Basil Blackwell (Cambridge  MA/Oxford)",
+        "count": 3
+    },
+    {
+        "_id": "Martínez Roca",
+        "count": 3
+    },
+    {
+        "_id": "Warner",
+        "count": 30
+    },
+    {
+        "_id": "Roberts Rinehart Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Larousse Kingfisher Chambers",
+        "count": 3
+    },
+    {
+        "_id": "Forge",
+        "count": 33
+    },
+    {
+        "_id": "Learning Matters",
+        "count": 3
+    },
+    {
+        "_id": "Arrow Books Ltd",
+        "count": 15
+    },
+    {
+        "_id": "Metropolitan Books/Henry Holt & Co. (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Ohio State University Press",
+        "count": 3
+    },
+    {
+        "_id": "St. Martins Press-3PL",
+        "count": 99
+    },
+    {
+        "_id": "Jump At The Sun",
+        "count": 3
+    },
+    {
+        "_id": "Arléa",
+        "count": 3
+    },
+    {
+        "_id": "Orion Publishing",
+        "count": 9
+    },
+    {
+        "_id": "Dafina Books",
+        "count": 15
+    },
+    {
+        "_id": "Berkley Hardcover",
+        "count": 45
+    },
+    {
+        "_id": "David R. Godine",
+        "count": 6
+    },
+    {
+        "_id": "Schwartz & Wade Books",
+        "count": 15
+    },
+    {
+        "_id": "Atlas Books/HarperCollins Publishers",
+        "count": 15
+    },
+    {
+        "_id": "Providence Forum Press",
+        "count": 3
+    },
+    {
+        "_id": "House of Stratus",
+        "count": 15
+    },
+    {
+        "_id": "Bookspan",
+        "count": 3
+    },
+    {
+        "_id": "North Star Publications (MA)",
+        "count": 3
+    },
+    {
+        "_id": "Critica (Grijalbo Mondadori)",
+        "count": 3
+    },
+    {
+        "_id": "Readers Digest",
+        "count": 3
+    },
+    {
+        "_id": "Watkins",
+        "count": 3
+    },
+    {
+        "_id": "Dramatists Play Service  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Impact",
+        "count": 6
+    },
+    {
+        "_id": "Kingfisher",
+        "count": 42
+    },
+    {
+        "_id": "Academy Chicago Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Black Dog & Leventhal Publishers",
+        "count": 138
+    },
+    {
+        "_id": "William Morrow / Harper",
+        "count": 15
+    },
+    {
+        "_id": "Clarity Press",
+        "count": 3
+    },
+    {
+        "_id": "Academica Press",
+        "count": 3
+    },
+    {
+        "_id": "Vintage Classics",
+        "count": 201
+    },
+    {
+        "_id": "Ballantine Books",
+        "count": 1668
+    },
+    {
+        "_id": "Random House Vintage Books",
+        "count": 15
+    },
+    {
+        "_id": "Wordsworth Editions",
+        "count": 63
+    },
+    {
+        "_id": "Arrow Books",
+        "count": 39
+    },
+    {
+        "_id": "Henry Holt and Co. (BYR)",
+        "count": 21
+    },
+    {
+        "_id": "Holiday House",
+        "count": 9
+    },
+    {
+        "_id": "Collins Publishers",
+        "count": 15
+    },
+    {
+        "_id": "Farrar  Strauss & Giroux-3pl",
+        "count": 3
+    },
+    {
+        "_id": "Nimble Books",
+        "count": 3
+    },
+    {
+        "_id": "Stanford University Press",
+        "count": 9
+    },
+    {
+        "_id": "Adams Media",
+        "count": 18
+    },
+    {
+        "_id": "Fischer TB",
+        "count": 3
+    },
+    {
+        "_id": "Phaidon Press",
+        "count": 12
+    },
+    {
+        "_id": "Gurze Books",
+        "count": 3
+    },
+    {
+        "_id": "Harbor Press",
+        "count": 3
+    },
+    {
+        "_id": "Fulcrum Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Crossing Press",
+        "count": 15
+    },
+    {
+        "_id": "Aladdin Paperbacks",
+        "count": 105
+    },
+    {
+        "_id": "Penguin Books  Limited (UK)",
+        "count": 15
+    },
+    {
+        "_id": "Rodale Books",
+        "count": 42
+    },
+    {
+        "_id": "Insel  Frankfurt",
+        "count": 3
+    },
+    {
+        "_id": "Vertigo (DC Comics)",
+        "count": 3
+    },
+    {
+        "_id": "Prestel Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Pan Childrens",
+        "count": 15
+    },
+    {
+        "_id": "Applause Books",
+        "count": 33
+    },
+    {
+        "_id": "TokyoPop",
+        "count": 129
+    },
+    {
+        "_id": "Lectorum",
+        "count": 3
+    },
+    {
+        "_id": "Ecco",
+        "count": 213
+    },
+    {
+        "_id": "Kids Can Press",
+        "count": 3
+    },
+    {
+        "_id": "Xulon Press",
+        "count": 3
+    },
+    {
+        "_id": "Northwestern Univ Press",
+        "count": 3
+    },
+    {
+        "_id": "Taschen",
+        "count": 12
+    },
+    {
+        "_id": "FonoLibro",
+        "count": 3
+    },
+    {
+        "_id": "New Falcon Publications",
+        "count": 15
+    },
+    {
+        "_id": "Penguin Book Limited",
+        "count": 15
+    },
+    {
+        "_id": "Bulfinch",
+        "count": 15
+    },
+    {
+        "_id": "Felony & Mayhem",
+        "count": 3
+    },
+    {
+        "_id": "Dutton Books",
+        "count": 39
+    },
+    {
+        "_id": "Samuel French  Inc.",
+        "count": 6
+    },
+    {
+        "_id": "Schocken Books Inc",
+        "count": 6
+    },
+    {
+        "_id": "Signet Classic",
+        "count": 15
+    },
+    {
+        "_id": "Houghton Mifflin/Seymour Lawrence",
+        "count": 15
+    },
+    {
+        "_id": "The MIT Press",
+        "count": 6
+    },
+    {
+        "_id": "Lucas Books",
+        "count": 15
+    },
+    {
+        "_id": "Checkmark Books",
+        "count": 3
+    },
+    {
+        "_id": "Grove Weidenfeld",
+        "count": 15
+    },
+    {
+        "_id": "Northeastern University Press",
+        "count": 3
+    },
+    {
+        "_id": "IVP Books",
+        "count": 6
+    },
+    {
+        "_id": "City Lights",
+        "count": 15
+    },
+    {
+        "_id": "講談社",
+        "count": 18
+    },
+    {
+        "_id": "Ecco / HarperCollins",
+        "count": 3
+    },
+    {
+        "_id": "Orion Publishing Group  Ltd.",
+        "count": 3
+    },
+    {
+        "_id": "Atlantic Books (UK)",
+        "count": 30
+    },
+    {
+        "_id": "Saddleback Educational Publishing  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Harper Design",
+        "count": 3
+    },
+    {
+        "_id": "Alfaguara Infantil",
+        "count": 3
+    },
+    {
+        "_id": "Avon Books",
+        "count": 168
+    },
+    {
+        "_id": "Changeling Press",
+        "count": 3
+    },
+    {
+        "_id": "Thorndike Press",
+        "count": 21
+    },
+    {
+        "_id": "Buccaneer Books",
+        "count": 9
+    },
+    {
+        "_id": "Palgrave Macmillan",
+        "count": 21
+    },
+    {
+        "_id": "Library of American Comics",
+        "count": 3
+    },
+    {
+        "_id": "Bloomsbury USA Children's Books",
+        "count": 3
+    },
+    {
+        "_id": "Atlantic Monthly Press (NYC)",
+        "count": 15
+    },
+    {
+        "_id": "Keep It Simple Books",
+        "count": 18
+    },
+    {
+        "_id": "Tauris Parke Paperbacks",
+        "count": 3
+    },
+    {
+        "_id": "Fireside Books",
+        "count": 3
+    },
+    {
+        "_id": "Peripatetic Press",
+        "count": 3
+    },
+    {
+        "_id": "Luna",
+        "count": 30
+    },
+    {
+        "_id": "International Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Larousse",
+        "count": 3
+    },
+    {
+        "_id": "Pavilion Press (Wi)",
+        "count": 3
+    },
+    {
+        "_id": "Clarendon Press",
+        "count": 6
+    },
+    {
+        "_id": "Our Daily Bread Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Faber & Faber Ltd.",
+        "count": 3
+    },
+    {
+        "_id": "Heinemann Educational Books",
+        "count": 21
+    },
+    {
+        "_id": "London : Collins  2004.",
+        "count": 15
+    },
+    {
+        "_id": "Authorhouse",
+        "count": 6
+    },
+    {
+        "_id": "Lark Books",
+        "count": 6
+    },
+    {
+        "_id": "Avenel Books",
+        "count": 6
+    },
+    {
+        "_id": "Circlet Press",
+        "count": 3
+    },
+    {
+        "_id": "Hachette Books",
+        "count": 282
+    },
+    {
+        "_id": "Viz Media",
+        "count": 132
+    },
+    {
+        "_id": "Little Apple",
+        "count": 15
+    },
+    {
+        "_id": "B&H Publishing Group",
+        "count": 18
+    },
+    {
+        "_id": "Santillana USA Publishing Company",
+        "count": 12
+    },
+    {
+        "_id": "Grove/Atlantic  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Random House for Young Readers",
+        "count": 27
+    },
+    {
+        "_id": "AudioText",
+        "count": 6
+    },
+    {
+        "_id": "Prima Games",
+        "count": 15
+    },
+    {
+        "_id": "Random House Mondadori",
+        "count": 6
+    },
+    {
+        "_id": "Y Lolfa",
+        "count": 3
+    },
+    {
+        "_id": "Loeb Classical Library 443",
+        "count": 3
+    },
+    {
+        "_id": "Perennial",
+        "count": 15
+    },
+    {
+        "_id": "HarperCollins Publishers Ltd",
+        "count": 66
+    },
+    {
+        "_id": "Longman Publishing Group",
+        "count": 21
+    },
+    {
+        "_id": "Dodd Mead; 1st edition (September 1976)",
+        "count": 15
+    },
+    {
+        "_id": "Little Simon",
+        "count": 18
+    },
+    {
+        "_id": "Diogenes",
+        "count": 15
+    },
+    {
+        "_id": "Puffin Books (Penguin Books)",
+        "count": 3
+    },
+    {
+        "_id": "Gamble Guides",
+        "count": 3
+    },
+    {
+        "_id": "Hay House",
+        "count": 33
+    },
+    {
+        "_id": "Random House Para Ninos",
+        "count": 3
+    },
+    {
+        "_id": "Ulysses Press",
+        "count": 18
+    },
+    {
+        "_id": "University of Notre Dame Press",
+        "count": 3
+    },
+    {
+        "_id": "Plume",
+        "count": 360
+    },
+    {
+        "_id": "Círculo de Lectores",
+        "count": 3
+    },
+    {
+        "_id": "Princeton University Press (NJ)",
+        "count": 6
+    },
+    {
+        "_id": "Suma",
+        "count": 3
+    },
+    {
+        "_id": "Dabel Brothers Publishing",
+        "count": 18
+    },
+    {
+        "_id": "Readers Digest.",
+        "count": 3
+    },
+    {
+        "_id": "Grove Press  Granta",
+        "count": 3
+    },
+    {
+        "_id": "International Publishers (NYC)",
+        "count": 3
+    },
+    {
+        "_id": "DK Publishing",
+        "count": 6
+    },
+    {
+        "_id": "MacMillan Audio",
+        "count": 9
+    },
+    {
+        "_id": "Teacher's Pet Publications  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Fawcett crest",
+        "count": 3
+    },
+    {
+        "_id": "Chaosium",
+        "count": 48
+    },
+    {
+        "_id": "Cooper Square Publishers",
+        "count": 15
+    },
+    {
+        "_id": "Zondervan",
+        "count": 87
+    },
+    {
+        "_id": "David C. Cook",
+        "count": 3
+    },
+    {
+        "_id": "Urion Press",
+        "count": 3
+    },
+    {
+        "_id": "Vintage International",
+        "count": 246
+    },
+    {
+        "_id": "Westholme Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Vintage/Ebury (A Division of Random House Group)",
+        "count": 3
+    },
+    {
+        "_id": "NYRB Classics",
+        "count": 78
+    },
+    {
+        "_id": "Mythopoeic Press",
+        "count": 3
+    },
+    {
+        "_id": "Rux Martin/Houghton Mifflin Harcourt",
+        "count": 3
+    },
+    {
+        "_id": "Western Publishing Company  Golden Books",
+        "count": 3
+    },
+    {
+        "_id": "Loyola Classics",
+        "count": 3
+    },
+    {
+        "_id": "River City Publishing",
+        "count": 3
+    },
+    {
+        "_id": "W. W. Norton and Company",
+        "count": 3
+    },
+    {
+        "_id": "Candlewick Press (MA)",
+        "count": 21
+    },
+    {
+        "_id": "Howard Publishing Co",
+        "count": 15
+    },
+    {
+        "_id": "Harpperen",
+        "count": 30
+    },
+    {
+        "_id": "Distribooks",
+        "count": 15
+    },
+    {
+        "_id": "HarperCollins UK",
+        "count": 3
+    },
+    {
+        "_id": "Scholastic Press",
+        "count": 33
+    },
+    {
+        "_id": "Dell Laurel-Leaf",
+        "count": 15
+    },
+    {
+        "_id": "Deodand",
+        "count": 15
+    },
+    {
+        "_id": "Nicholas Brealey",
+        "count": 3
+    },
+    {
+        "_id": "Lyons Press",
+        "count": 18
+    },
+    {
+        "_id": "1st World Library",
+        "count": 3
+    },
+    {
+        "_id": "Doubleday Canada",
+        "count": 3
+    },
+    {
+        "_id": "Sarah Crichton Books",
+        "count": 15
+    },
+    {
+        "_id": "Aris and Phillips",
+        "count": 3
+    },
+    {
+        "_id": "Rowohlt Tb.",
+        "count": 3
+    },
+    {
+        "_id": "Destiny Books",
+        "count": 3
+    },
+    {
+        "_id": "Neil Wilson Publishing",
+        "count": 3
+    },
+    {
+        "_id": "US Naval Institute Press",
+        "count": 3
+    },
+    {
+        "_id": "Bloomsbury Arden Shakespeare",
+        "count": 63
+    },
+    {
+        "_id": "Digireads.com",
+        "count": 54
+    },
+    {
+        "_id": "Harlequin Historical",
+        "count": 9
+    },
+    {
+        "_id": "Quinteto",
+        "count": 3
+    },
+    {
+        "_id": "Hodder and Stoughton",
+        "count": 15
+    },
+    {
+        "_id": "Mongoose Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Harvard University Press (Cambridge  MA)/Wm Heinemann Ltd. (London)",
+        "count": 3
+    },
+    {
+        "_id": "Little  Brown Books for Young Readers",
+        "count": 207
+    },
+    {
+        "_id": "Limelight Editions",
+        "count": 15
+    },
+    {
+        "_id": "Fandemonium Books",
+        "count": 3
+    },
+    {
+        "_id": "AK Press",
+        "count": 15
+    },
+    {
+        "_id": "Barron's Educational Series",
+        "count": 12
+    },
+    {
+        "_id": "Library of America",
+        "count": 252
+    },
+    {
+        "_id": "Honor Books",
+        "count": 18
+    },
+    {
+        "_id": "Éditions du Rocher",
+        "count": 3
+    },
+    {
+        "_id": "Avalon Travel",
+        "count": 15
+    },
+    {
+        "_id": "Christian Classics",
+        "count": 18
+    },
+    {
+        "_id": "Mariner Books",
+        "count": 1542
+    },
+    {
+        "_id": "Civitas Books",
+        "count": 3
+    },
+    {
+        "_id": "Algonquin Books",
+        "count": 39
+    },
+    {
+        "_id": "W.W. Norton & Company",
+        "count": 96
+    },
+    {
+        "_id": "Moody Publishers",
+        "count": 30
+    },
+    {
+        "_id": "WaterBrook",
+        "count": 3
+    },
+    {
+        "_id": "Prima Lifestyles",
+        "count": 3
+    },
+    {
+        "_id": "Stanford University Press (Stanford  CA)",
+        "count": 3
+    },
+    {
+        "_id": "Replica Books",
+        "count": 15
+    },
+    {
+        "_id": "Prentice Hall Press",
+        "count": 3
+    },
+    {
+        "_id": "Gramercy",
+        "count": 15
+    },
+    {
+        "_id": "Del Rey Books",
+        "count": 363
+    },
+    {
+        "_id": "Open Court Publishing Company",
+        "count": 3
+    },
+    {
+        "_id": "Deseret Book Company",
+        "count": 3
+    },
+    {
+        "_id": "Disinformation Books",
+        "count": 3
+    },
+    {
+        "_id": "Random House (Vintage)",
+        "count": 3
+    },
+    {
+        "_id": "IVP Academic",
+        "count": 9
+    },
+    {
+        "_id": "Crossroad Publishing Company",
+        "count": 3
+    },
+    {
+        "_id": "Touchstone Books",
+        "count": 57
+    },
+    {
+        "_id": "Houghton Mifflin Co. (Boston/NY)",
+        "count": 15
+    },
+    {
+        "_id": "Thomas Nelson Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Whitaker House",
+        "count": 45
+    },
+    {
+        "_id": "Bantam Spectra (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Pi Press",
+        "count": 3
+    },
+    {
+        "_id": "Fontana Books",
+        "count": 3
+    },
+    {
+        "_id": "AIT Planet Lar",
+        "count": 3
+    },
+    {
+        "_id": "Exact Change",
+        "count": 3
+    },
+    {
+        "_id": "Piatkus",
+        "count": 3
+    },
+    {
+        "_id": "Doubleday Books",
+        "count": 123
+    },
+    {
+        "_id": "Green Integer",
+        "count": 18
+    },
+    {
+        "_id": "George Braziller Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Métailié",
+        "count": 3
+    },
+    {
+        "_id": "Hungry Minds",
+        "count": 6
+    },
+    {
+        "_id": "Ronin Publishing (CA)",
+        "count": 3
+    },
+    {
+        "_id": "Newmarket Press",
+        "count": 27
+    },
+    {
+        "_id": "Price Stern Sloan",
+        "count": 33
+    },
+    {
+        "_id": "Piemme",
+        "count": 3
+    },
+    {
+        "_id": "Fantagraphics",
+        "count": 33
+    },
+    {
+        "_id": "Middleway Press",
+        "count": 3
+    },
+    {
+        "_id": "St. Martins Press",
+        "count": 18
+    },
+    {
+        "_id": "Absolute Press",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Audio",
+        "count": 18
+    },
+    {
+        "_id": "Little  Brown & Company (Boston/Toronto)",
+        "count": 30
+    },
+    {
+        "_id": "Nova Audio Books",
+        "count": 3
+    },
+    {
+        "_id": "Harper Perennial Modern Classics",
+        "count": 342
+    },
+    {
+        "_id": "HarperLargePrint",
+        "count": 15
+    },
+    {
+        "_id": "Alfred A. Knopf Books for Young Readers",
+        "count": 51
+    },
+    {
+        "_id": "Peter Owen Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Wenner Books",
+        "count": 15
+    },
+    {
+        "_id": "Nymphenburger",
+        "count": 6
+    },
+    {
+        "_id": "Temenos Press",
+        "count": 3
+    },
+    {
+        "_id": "Lions",
+        "count": 3
+    },
+    {
+        "_id": "Re/Search Publications",
+        "count": 15
+    },
+    {
+        "_id": "Lulu.com",
+        "count": 6
+    },
+    {
+        "_id": "Vintage Books",
+        "count": 171
+    },
+    {
+        "_id": "British Academy",
+        "count": 3
+    },
+    {
+        "_id": "Grijalbo",
+        "count": 3
+    },
+    {
+        "_id": "No Starch Press",
+        "count": 3
+    },
+    {
+        "_id": "Marion Boyars Publishers Ltd",
+        "count": 6
+    },
+    {
+        "_id": "Andrews McMeel Publishing",
+        "count": 111
+    },
+    {
+        "_id": "Orion Publishing Co",
+        "count": 3
+    },
+    {
+        "_id": "Umbriel",
+        "count": 39
+    },
+    {
+        "_id": "Cartago",
+        "count": 3
+    },
+    {
+        "_id": "Harlequin Anthologies",
+        "count": 3
+    },
+    {
+        "_id": "Actes Sud",
+        "count": 18
+    },
+    {
+        "_id": "Laffont",
+        "count": 3
+    },
+    {
+        "_id": "Amadeus",
+        "count": 3
+    },
+    {
+        "_id": "Benjamin-Cummings Publishing Company",
+        "count": 6
+    },
+    {
+        "_id": "Houghton Mifflin",
+        "count": 177
+    },
+    {
+        "_id": "Sentient Publications",
+        "count": 3
+    },
+    {
+        "_id": "Carlton Publishing Group",
+        "count": 6
+    },
+    {
+        "_id": "Apple",
+        "count": 3
+    },
+    {
+        "_id": "Editorial RM",
+        "count": 15
+    },
+    {
+        "_id": "Hamish Hamilton",
+        "count": 3
+    },
+    {
+        "_id": "Fount",
+        "count": 3
+    },
+    {
+        "_id": "Belknap Press",
+        "count": 21
+    },
+    {
+        "_id": "Copper Canyon Press",
+        "count": 18
+    },
+    {
+        "_id": "Grove Press  Black Cat",
+        "count": 15
+    },
+    {
+        "_id": "Goldmann Verlag",
+        "count": 3
+    },
+    {
+        "_id": "Geddes & Grosset",
+        "count": 15
+    },
+    {
+        "_id": "Golden Books",
+        "count": 45
+    },
+    {
+        "_id": "Audiogo",
+        "count": 9
+    },
+    {
+        "_id": "MetroBooks (NY)",
+        "count": 6
+    },
+    {
+        "_id": "McGraw-Hill Education",
+        "count": 36
+    },
+    {
+        "_id": "Broadway Books",
+        "count": 579
+    },
+    {
+        "_id": "Berkley",
+        "count": 1026
+    },
+    {
+        "_id": "Cambridge University Press",
+        "count": 318
+    },
+    {
+        "_id": "Anchor Bible",
+        "count": 6
+    },
+    {
+        "_id": "Harcourt  Inc.(Harvest Book)",
+        "count": 15
+    },
+    {
+        "_id": "Dutton",
+        "count": 78
+    },
+    {
+        "_id": "O'Reilly Media",
+        "count": 54
+    },
+    {
+        "_id": "Futura",
+        "count": 3
+    },
+    {
+        "_id": "Grosset & Dunlap",
+        "count": 30
+    },
+    {
+        "_id": "Macmillan Publ. Co.",
+        "count": 3
+    },
+    {
+        "_id": "Grand Central Life & Style",
+        "count": 3
+    },
+    {
+        "_id": "InterVarsity Press",
+        "count": 15
+    },
+    {
+        "_id": "Brava",
+        "count": 30
+    },
+    {
+        "_id": "Dark Horse Books",
+        "count": 78
+    },
+    {
+        "_id": "Tom Doherty Associates/Orb Books",
+        "count": 15
+    },
+    {
+        "_id": "Signet Books (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Wizards of the Coast",
+        "count": 255
+    },
+    {
+        "_id": "Holt Paperbacks",
+        "count": 54
+    },
+    {
+        "_id": "Island Press",
+        "count": 3
+    },
+    {
+        "_id": "Yale University Press (New Haven  CT)",
+        "count": 3
+    },
+    {
+        "_id": "Simon & Schuster Adult Publishing Group",
+        "count": 15
+    },
+    {
+        "_id": "The Bodley Head Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Gauntlet Press",
+        "count": 6
+    },
+    {
+        "_id": "Morpheus International",
+        "count": 3
+    },
+    {
+        "_id": "Steerforth Press",
+        "count": 3
+    },
+    {
+        "_id": "Hci",
+        "count": 3
+    },
+    {
+        "_id": "Power Press",
+        "count": 15
+    },
+    {
+        "_id": "Abdo Publishing Company",
+        "count": 9
+    },
+    {
+        "_id": "Child's Play International",
+        "count": 3
+    },
+    {
+        "_id": "Blackstone Audiobooks",
+        "count": 57
+    },
+    {
+        "_id": "Heinemann",
+        "count": 3
+    },
+    {
+        "_id": "Taplinger Publ. Company",
+        "count": 3
+    },
+    {
+        "_id": "Melodrama Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Heinemann-Octopus",
+        "count": 3
+    },
+    {
+        "_id": "High Roads Media",
+        "count": 3
+    },
+    {
+        "_id": "DK Publishing (Dorling Kindersley)",
+        "count": 21
+    },
+    {
+        "_id": "Penguin UK",
+        "count": 12
+    },
+    {
+        "_id": "Berlitz Kids",
+        "count": 9
+    },
+    {
+        "_id": "Fischer (Tb.)",
+        "count": 3
+    },
+    {
+        "_id": "DeVorss & Company",
+        "count": 3
+    },
+    {
+        "_id": "Manesse Verlag",
+        "count": 3
+    },
+    {
+        "_id": "Kent State University Press",
+        "count": 3
+    },
+    {
+        "_id": "Yapı Kredi Yayınları",
+        "count": 15
+    },
+    {
+        "_id": "Coronet",
+        "count": 6
+    },
+    {
+        "_id": "Starcatcher Press",
+        "count": 6
+    },
+    {
+        "_id": "Villard",
+        "count": 72
+    },
+    {
+        "_id": "Courage Books",
+        "count": 3
+    },
+    {
+        "_id": "Everyman's Library",
+        "count": 285
+    },
+    {
+        "_id": "Viking Books for Young Readers",
+        "count": 18
+    },
+    {
+        "_id": "Farrar  Straus and Giroux (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Arrow",
+        "count": 312
+    },
+    {
+        "_id": "Paul Dry Books",
+        "count": 15
+    },
+    {
+        "_id": "La factoría de ideas",
+        "count": 15
+    },
+    {
+        "_id": "University of Texas Press",
+        "count": 18
+    },
+    {
+        "_id": "Patmos",
+        "count": 3
+    },
+    {
+        "_id": "dtv",
+        "count": 3
+    },
+    {
+        "_id": "Feral House",
+        "count": 6
+    },
+    {
+        "_id": "Mysterious Press",
+        "count": 24
+    },
+    {
+        "_id": "Bloomsbury Methuen Drama",
+        "count": 42
+    },
+    {
+        "_id": "Editorial Diana",
+        "count": 3
+    },
+    {
+        "_id": "Random House Books for Young Readers",
+        "count": 258
+    },
+    {
+        "_id": "Harvill Press",
+        "count": 21
+    },
+    {
+        "_id": "Avon",
+        "count": 588
+    },
+    {
+        "_id": "Delacorte Books for Young Readers",
+        "count": 27
+    },
+    {
+        "_id": "New York : Penguin Books",
+        "count": 15
+    },
+    {
+        "_id": "HarperTorch",
+        "count": 624
+    },
+    {
+        "_id": "Granta UK",
+        "count": 6
+    },
+    {
+        "_id": "Shepard Publications",
+        "count": 3
+    },
+    {
+        "_id": "Image Comics",
+        "count": 60
+    },
+    {
+        "_id": "Gallimard Education",
+        "count": 18
+    },
+    {
+        "_id": "Harvest Books/Harcourt",
+        "count": 3
+    },
+    {
+        "_id": "Cartwheel",
+        "count": 12
+    },
+    {
+        "_id": "New Directions Publishing Corporation",
+        "count": 78
+    },
+    {
+        "_id": "Peachpit Press",
+        "count": 12
+    },
+    {
+        "_id": "Amherst Media",
+        "count": 3
+    },
+    {
+        "_id": "ACE",
+        "count": 15
+    },
+    {
+        "_id": "New Press (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Cedar Books",
+        "count": 3
+    },
+    {
+        "_id": "Millenium",
+        "count": 30
+    },
+    {
+        "_id": "Owl Publishing Company",
+        "count": 15
+    },
+    {
+        "_id": "Turtleback Books",
+        "count": 114
+    },
+    {
+        "_id": "Henry Holt & Company",
+        "count": 30
+    },
+    {
+        "_id": "Rider",
+        "count": 15
+    },
+    {
+        "_id": "Middlesex University Press",
+        "count": 3
+    },
+    {
+        "_id": "Candlewick",
+        "count": 33
+    },
+    {
+        "_id": "Digital Manga Publishing",
+        "count": 54
+    },
+    {
+        "_id": "Penguin Global",
+        "count": 6
+    },
+    {
+        "_id": "FASA Corporation",
+        "count": 3
+    },
+    {
+        "_id": "Jimmy Patterson",
+        "count": 3
+    },
+    {
+        "_id": "Harpercollins",
+        "count": 3
+    },
+    {
+        "_id": "Clarkson Potter/Publishers",
+        "count": 3
+    },
+    {
+        "_id": "The New Press",
+        "count": 72
+    },
+    {
+        "_id": "Pogue Press",
+        "count": 3
+    },
+    {
+        "_id": "Barrington Stoke",
+        "count": 3
+    },
+    {
+        "_id": "ADV Manga",
+        "count": 42
+    },
+    {
+        "_id": "Scholastic Paperbacks",
+        "count": 444
+    },
+    {
+        "_id": "Psychology Press",
+        "count": 6
+    },
+    {
+        "_id": "Gale Cengage",
+        "count": 3
+    },
+    {
+        "_id": "Little  Brown Book Group",
+        "count": 51
+    },
+    {
+        "_id": "Filiquarian Publishing  LLC.",
+        "count": 33
+    },
+    {
+        "_id": "F & W Publications Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Inner Light - Global Communications",
+        "count": 3
+    },
+    {
+        "_id": "New English Library (Hodder & Stoughton)",
+        "count": 15
+    },
+    {
+        "_id": "DAW Books Inc",
+        "count": 63
+    },
+    {
+        "_id": "CQ Press",
+        "count": 3
+    },
+    {
+        "_id": "John Wiley",
+        "count": 3
+    },
+    {
+        "_id": "BantamSpectra",
+        "count": 15
+    },
+    {
+        "_id": "Push",
+        "count": 39
+    },
+    {
+        "_id": "Ravensburger Buchverlag",
+        "count": 15
+    },
+    {
+        "_id": "Routledge/Taylor & Francis Ltd.",
+        "count": 3
+    },
+    {
+        "_id": "Emece Editores",
+        "count": 15
+    },
+    {
+        "_id": "HarperCollins Publishers  Inc.",
+        "count": 15
+    },
+    {
+        "_id": "Mira books",
+        "count": 3
+    },
+    {
+        "_id": "Secker and Warburg",
+        "count": 3
+    },
+    {
+        "_id": "Klincksieck",
+        "count": 15
+    },
+    {
+        "_id": "Harvest Books",
+        "count": 15
+    },
+    {
+        "_id": "Rockport Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Harvest / Harcourt",
+        "count": 15
+    },
+    {
+        "_id": "Countryman Press",
+        "count": 15
+    },
+    {
+        "_id": "Love Inspired",
+        "count": 3
+    },
+    {
+        "_id": "Charles Scribner's Sons",
+        "count": 18
+    },
+    {
+        "_id": "Bantam Doubleday Dell (NYC)",
+        "count": 15
+    },
+    {
+        "_id": "National Geographic",
+        "count": 9
+    },
+    {
+        "_id": "Eos",
+        "count": 75
+    },
+    {
+        "_id": "Plaza y Janés",
+        "count": 27
+    },
+    {
+        "_id": "Penguin (Business)",
+        "count": 15
+    },
+    {
+        "_id": "Library of America (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Princeton University Press",
+        "count": 207
+    },
+    {
+        "_id": "Everymans Library",
+        "count": 3
+    },
+    {
+        "_id": "Hal Leonard Pub Corp",
+        "count": 3
+    },
+    {
+        "_id": "Puffin Books",
+        "count": 450
+    },
+    {
+        "_id": "Icon Books",
+        "count": 9
+    },
+    {
+        "_id": "Golden/Disney",
+        "count": 33
+    },
+    {
+        "_id": "Atelos Press",
+        "count": 3
+    },
+    {
+        "_id": "Universal Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Sovereign World",
+        "count": 3
+    },
+    {
+        "_id": "Heinemann Library",
+        "count": 6
+    },
+    {
+        "_id": "Pearson",
+        "count": 54
+    },
+    {
+        "_id": "Simon & Schuster",
+        "count": 456
+    },
+    {
+        "_id": "Underwood/Miller  Berkley",
+        "count": 3
+    },
+    {
+        "_id": "American Diabetes Association",
+        "count": 3
+    },
+    {
+        "_id": "HarperEntertainment",
+        "count": 27
+    },
+    {
+        "_id": "Dial Press Trade Paperback",
+        "count": 180
+    },
+    {
+        "_id": "Kiepenheuer & Witsch",
+        "count": 9
+    },
+    {
+        "_id": "Walker Books",
+        "count": 21
+    },
+    {
+        "_id": "San Val",
+        "count": 3
+    },
+    {
+        "_id": "TusQuets",
+        "count": 9
+    },
+    {
+        "_id": "Ace/SFBC",
+        "count": 3
+    },
+    {
+        "_id": "Servant Publications",
+        "count": 3
+    },
+    {
+        "_id": "CDS Books",
+        "count": 15
+    },
+    {
+        "_id": "Avery",
+        "count": 3
+    },
+    {
+        "_id": "Allyn & Bacon",
+        "count": 9
+    },
+    {
+        "_id": "Transaction Publishers",
+        "count": 3
+    },
+    {
+        "_id": "McGraw-Hill Medical Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Arkana/Penguin",
+        "count": 6
+    },
+    {
+        "_id": "Princeton Architectural Press",
+        "count": 6
+    },
+    {
+        "_id": "Vintage Espanol",
+        "count": 30
+    },
+    {
+        "_id": "Lodestar Books",
+        "count": 3
+    },
+    {
+        "_id": "BCP/Duckworth Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Pygmalion Editions",
+        "count": 3
+    },
+    {
+        "_id": "Mel Bay Publications  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Laurel Leaf Books",
+        "count": 15
+    },
+    {
+        "_id": "Riverhead Books",
+        "count": 306
+    },
+    {
+        "_id": "Granta",
+        "count": 3
+    },
+    {
+        "_id": "Wings Books",
+        "count": 21
+    },
+    {
+        "_id": "Wiley",
+        "count": 102
+    },
+    {
+        "_id": "Edwin Mellen Press",
+        "count": 3
+    },
+    {
+        "_id": "Orion Books",
+        "count": 33
+    },
+    {
+        "_id": "Star Trek",
+        "count": 18
+    },
+    {
+        "_id": "Alcoholics Anonymous World Services Inc",
+        "count": 3
+    },
+    {
+        "_id": "Эксмо",
+        "count": 3
+    },
+    {
+        "_id": "Hachette Jeunesse",
+        "count": 3
+    },
+    {
+        "_id": "Rowman & Littlefield Publishers",
+        "count": 12
+    },
+    {
+        "_id": "Random house",
+        "count": 3
+    },
+    {
+        "_id": "Knopf",
+        "count": 111
+    },
+    {
+        "_id": "Forge Books",
+        "count": 39
+    },
+    {
+        "_id": "Simon & Schuster Children's Publishing",
+        "count": 3
+    },
+    {
+        "_id": "英文漢聲出版股份有限公司",
+        "count": 3
+    },
+    {
+        "_id": "Mira",
+        "count": 45
+    },
+    {
+        "_id": "Pocket Books: Gallery Books",
+        "count": 15
+    },
+    {
+        "_id": "University Of Minnesota Press",
+        "count": 3
+    },
+    {
+        "_id": "Napoleon and Co",
+        "count": 3
+    },
+    {
+        "_id": "McGraw-Hill/Glencoe",
+        "count": 3
+    },
+    {
+        "_id": "Atlantic",
+        "count": 18
+    },
+    {
+        "_id": "Watson-Guptill",
+        "count": 15
+    },
+    {
+        "_id": "One Hour Entertainment",
+        "count": 3
+    },
+    {
+        "_id": "Kuperard",
+        "count": 3
+    },
+    {
+        "_id": "Blanvalet Taschenbuch",
+        "count": 3
+    },
+    {
+        "_id": "Farrar  Straus and Giroux",
+        "count": 411
+    },
+    {
+        "_id": "NAL",
+        "count": 243
+    },
+    {
+        "_id": "Alfaguara",
+        "count": 39
+    },
+    {
+        "_id": "Orchard Books",
+        "count": 57
+    },
+    {
+        "_id": "Gaia Books",
+        "count": 3
+    },
+    {
+        "_id": "Hartley & Marks Publishers",
+        "count": 15
+    },
+    {
+        "_id": "Alfabeta Bokförlag",
+        "count": 3
+    },
+    {
+        "_id": "Plaza & Janés Mexico",
+        "count": 3
+    },
+    {
+        "_id": "Severn House Publishers",
+        "count": 66
+    },
+    {
+        "_id": "Jove Books",
+        "count": 81
+    },
+    {
+        "_id": "Purple House Press",
+        "count": 15
+    },
+    {
+        "_id": "Bantam Doubleday Dell Publishing Group",
+        "count": 45
+    },
+    {
+        "_id": "Subterranean Press",
+        "count": 18
+    },
+    {
+        "_id": "Knopf Books for Young Readers",
+        "count": 66
+    },
+    {
+        "_id": "University of Minnesota Press",
+        "count": 3
+    },
+    {
+        "_id": "Diana TB",
+        "count": 3
+    },
+    {
+        "_id": "Barnes & Noble",
+        "count": 66
+    },
+    {
+        "_id": "Scholastic",
+        "count": 303
+    },
+    {
+        "_id": "Paul Mellon Centre BA",
+        "count": 3
+    },
+    {
+        "_id": "Soho Press",
+        "count": 6
+    },
+    {
+        "_id": "Ellora's Cave",
+        "count": 21
+    },
+    {
+        "_id": "Henry Holt and Company",
+        "count": 6
+    },
+    {
+        "_id": "World Wrestling Entertainment Books",
+        "count": 15
+    },
+    {
+        "_id": "Arthur A. Levine Books",
+        "count": 18
+    },
+    {
+        "_id": "HarperTeen",
+        "count": 126
+    },
+    {
+        "_id": "Counterpoint LLC",
+        "count": 48
+    },
+    {
+        "_id": "HarperPerennial",
+        "count": 48
+    },
+    {
+        "_id": "Borgo Press",
+        "count": 24
+    },
+    {
+        "_id": "IDW Publishing",
+        "count": 21
+    },
+    {
+        "_id": "Berkley Prime Crime",
+        "count": 15
+    },
+    {
+        "_id": "Pan Macmillan Ltd. (London)",
+        "count": 15
+    },
+    {
+        "_id": "Classic Books",
+        "count": 3
+    },
+    {
+        "_id": "Jonathan Cape",
+        "count": 33
+    },
+    {
+        "_id": "Gallery / Saga Press",
+        "count": 15
+    },
+    {
+        "_id": "Amistad Press",
+        "count": 15
+    },
+    {
+        "_id": "Farrar  Straus & Giroux",
+        "count": 6
+    },
+    {
+        "_id": "Cengage Learning",
+        "count": 18
+    },
+    {
+        "_id": "Devil's Due Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Watkins Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Charnwood",
+        "count": 3
+    },
+    {
+        "_id": "Ash Tree Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Trafalgar Square Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Books/Penguin Popular Classics",
+        "count": 3
+    },
+    {
+        "_id": "Enitharmon Press",
+        "count": 3
+    },
+    {
+        "_id": "Semiotext(e)",
+        "count": 3
+    },
+    {
+        "_id": "Vince Emery Productions",
+        "count": 3
+    },
+    {
+        "_id": "Tyndale Momentum",
+        "count": 15
+    },
+    {
+        "_id": "HarperFestival",
+        "count": 24
+    },
+    {
+        "_id": "Soho Crime",
+        "count": 33
+    },
+    {
+        "_id": "Lectorum Publications",
+        "count": 3
+    },
+    {
+        "_id": "Portable Press",
+        "count": 3
+    },
+    {
+        "_id": "Anchor Books",
+        "count": 504
+    },
+    {
+        "_id": "Theatre Communications Group",
+        "count": 39
+    },
+    {
+        "_id": "Signet",
+        "count": 678
+    },
+    {
+        "_id": "Transworld Publishers",
+        "count": 33
+    },
+    {
+        "_id": "It Books",
+        "count": 72
+    },
+    {
+        "_id": "Triple Crown Publications",
+        "count": 6
+    },
+    {
+        "_id": "Walker Books Ltd",
+        "count": 6
+    },
+    {
+        "_id": "Gramercy Books",
+        "count": 123
+    },
+    {
+        "_id": "Walker & Company",
+        "count": 21
+    },
+    {
+        "_id": "North Atlantic Books",
+        "count": 24
+    },
+    {
+        "_id": "Atlantic Books",
+        "count": 21
+    },
+    {
+        "_id": "Seal Press",
+        "count": 3
+    },
+    {
+        "_id": "MacMillan",
+        "count": 6
+    },
+    {
+        "_id": "University Of Chicago Press",
+        "count": 48
+    },
+    {
+        "_id": "Bloomsbury U.S.A. Children's Books",
+        "count": 33
+    },
+    {
+        "_id": "Running Press Book Publishers",
+        "count": 18
+    },
+    {
+        "_id": "Thames  Hudson",
+        "count": 24
+    },
+    {
+        "_id": "Planeta Publishing",
+        "count": 39
+    },
+    {
+        "_id": "Totem Books",
+        "count": 9
+    },
+    {
+        "_id": "Kessinger Publishing",
+        "count": 33
+    },
+    {
+        "_id": "Meredith Corporation",
+        "count": 3
+    },
+    {
+        "_id": "White Wolf Games Studio",
+        "count": 24
+    },
+    {
+        "_id": "Odonian Press",
+        "count": 21
+    },
+    {
+        "_id": "Pharos Books",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Classics",
+        "count": 1944
+    },
+    {
+        "_id": "Gun Digest Books",
+        "count": 3
+    },
+    {
+        "_id": "Morgan Road Books",
+        "count": 15
+    },
+    {
+        "_id": "Skinner House Books",
+        "count": 3
+    },
+    {
+        "_id": "DeBolsillo",
+        "count": 33
+    },
+    {
+        "_id": "Night Shade Books",
+        "count": 15
+    },
+    {
+        "_id": "Cisne",
+        "count": 3
+    },
+    {
+        "_id": "Edebé",
+        "count": 15
+    },
+    {
+        "_id": "Wings",
+        "count": 66
+    },
+    {
+        "_id": "BiblioLife",
+        "count": 3
+    },
+    {
+        "_id": "Evans Brothers",
+        "count": 3
+    },
+    {
+        "_id": "Editorial Presença",
+        "count": 18
+    },
+    {
+        "_id": "Dover Publications  Inc.",
+        "count": 6
+    },
+    {
+        "_id": "Gramedia Pustaka Utama",
+        "count": 15
+    },
+    {
+        "_id": "Egmont Children's Books",
+        "count": 3
+    },
+    {
+        "_id": "Fantagraphics Books",
+        "count": 3
+    },
+    {
+        "_id": "Sinauer Associates",
+        "count": 3
+    },
+    {
+        "_id": "Black Lizard Books",
+        "count": 3
+    },
+    {
+        "_id": "Kaplan Publishing",
+        "count": 3
+    },
+    {
+        "_id": "MacMillan UK",
+        "count": 3
+    },
+    {
+        "_id": "Dante University of America Press",
+        "count": 15
+    },
+    {
+        "_id": "小学館",
+        "count": 45
+    },
+    {
+        "_id": "Gibbs Smith Publishers",
+        "count": 6
+    },
+    {
+        "_id": "Bryn Mawr Commentaries",
+        "count": 3
+    },
+    {
+        "_id": "The Modern Library",
+        "count": 3
+    },
+    {
+        "_id": "Cistercian Publications",
+        "count": 3
+    },
+    {
+        "_id": "Nantier Beall Minoustchine Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Berkley Trade",
+        "count": 117
+    },
+    {
+        "_id": "Zeta Bolsillo",
+        "count": 3
+    },
+    {
+        "_id": "Heyne",
+        "count": 24
+    },
+    {
+        "_id": "Mondadori",
+        "count": 9
+    },
+    {
+        "_id": "Ullstein Tb",
+        "count": 6
+    },
+    {
+        "_id": "Mikaya Press",
+        "count": 3
+    },
+    {
+        "_id": "Simon  Schuster",
+        "count": 711
+    },
+    {
+        "_id": "Harcourt Brace & company",
+        "count": 15
+    },
+    {
+        "_id": "Tin House Magazine",
+        "count": 3
+    },
+    {
+        "_id": "Sutton Publishing",
+        "count": 3
+    },
+    {
+        "_id": "William Morrow & Company (NYC)",
+        "count": 3
+    },
+    {
+        "_id": "Pelican Publishing",
+        "count": 6
+    },
+    {
+        "_id": "Corgi Books",
+        "count": 18
+    },
+    {
+        "_id": "Townsend Press",
+        "count": 3
+    },
+    {
+        "_id": "Villard Books",
+        "count": 15
+    },
+    {
+        "_id": "BBC Audiobooks",
+        "count": 39
+    },
+    {
+        "_id": "Ballantine",
+        "count": 9
+    },
+    {
+        "_id": "Aivia Press",
+        "count": 3
+    },
+    {
+        "_id": "Viking; G. P. Putnam & Sons",
+        "count": 15
+    },
+    {
+        "_id": "Golden Gryphon Press",
+        "count": 6
+    },
+    {
+        "_id": "Allworth",
+        "count": 3
+    },
+    {
+        "_id": "Insel",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Books (NYC)",
+        "count": 15
+    },
+    {
+        "_id": "The Berkley Publishing Group",
+        "count": 15
+    },
+    {
+        "_id": "Arthur A. Levine",
+        "count": 15
+    },
+    {
+        "_id": "Fredonia Books (NL)",
+        "count": 33
+    },
+    {
+        "_id": "Salamandra",
+        "count": 24
+    },
+    {
+        "_id": "Little Bookroom",
+        "count": 15
+    },
+    {
+        "_id": "Stone Bridge Press",
+        "count": 6
+    },
+    {
+        "_id": "Teacher's Pet Publications",
+        "count": 3
+    },
+    {
+        "_id": "Pantheon",
+        "count": 162
+    },
+    {
+        "_id": "Newmarket",
+        "count": 3
+    },
+    {
+        "_id": "Scribner Book Company",
+        "count": 72
+    },
+    {
+        "_id": "Piper Verlag",
+        "count": 15
+    },
+    {
+        "_id": "Abstract Studio",
+        "count": 3
+    },
+    {
+        "_id": "W.W. Norton",
+        "count": 18
+    },
+    {
+        "_id": "Hackett Publishing Company  Inc. (USA)",
+        "count": 3
+    },
+    {
+        "_id": "Melville House Publishing",
+        "count": 18
+    },
+    {
+        "_id": "Ullstein",
+        "count": 3
+    },
+    {
+        "_id": "Pyramid Books",
+        "count": 3
+    },
+    {
+        "_id": "Beacon Press (Boston)",
+        "count": 3
+    },
+    {
+        "_id": "Cherry Red Books",
+        "count": 3
+    },
+    {
+        "_id": "Downtown Press",
+        "count": 18
+    },
+    {
+        "_id": "Timeless Texts",
+        "count": 3
+    },
+    {
+        "_id": "Fortress Press",
+        "count": 3
+    },
+    {
+        "_id": "Pavement Saw Press",
+        "count": 3
+    },
+    {
+        "_id": "William Morrow",
+        "count": 312
+    },
+    {
+        "_id": "HarperCollins Espanol",
+        "count": 39
+    },
+    {
+        "_id": "Open Heaven Publications",
+        "count": 3
+    },
+    {
+        "_id": "Wiley Publishing",
+        "count": 6
+    },
+    {
+        "_id": "Penguin Books Canada",
+        "count": 3
+    },
+    {
+        "_id": "University of Pittsburgh Press",
+        "count": 3
+    },
+    {
+        "_id": "Thomas Nelson",
+        "count": 195
+    },
+    {
+        "_id": "Imprint Academic",
+        "count": 3
+    },
+    {
+        "_id": "Walker",
+        "count": 3
+    },
+    {
+        "_id": "Alan Rodgers Books",
+        "count": 15
+    },
+    {
+        "_id": "Abacus",
+        "count": 54
+    },
+    {
+        "_id": "Bison Books",
+        "count": 42
+    },
+    {
+        "_id": "Deutscher Taschenbuch Verlag",
+        "count": 6
+    },
+    {
+        "_id": "Interlink Publishing Group",
+        "count": 3
+    },
+    {
+        "_id": "T&T Clark Int'l",
+        "count": 3
+    },
+    {
+        "_id": "Main Street Books",
+        "count": 6
+    },
+    {
+        "_id": "Drawn and Quarterly",
+        "count": 6
+    },
+    {
+        "_id": "Random House Puzzles & Games",
+        "count": 3
+    },
+    {
+        "_id": "Booklocker.com  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Cornell University Press",
+        "count": 6
+    },
+    {
+        "_id": "Harvard University Press (Cambridge)",
+        "count": 6
+    },
+    {
+        "_id": "Shueisha",
+        "count": 9
+    },
+    {
+        "_id": "Simon Publications",
+        "count": 15
+    },
+    {
+        "_id": "Fourth Estate Paperbacks",
+        "count": 15
+    },
+    {
+        "_id": "Peter Owen Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Pinter & Martin Ltd",
+        "count": 15
+    },
+    {
+        "_id": "Souvenir Press",
+        "count": 21
+    },
+    {
+        "_id": "Image",
+        "count": 15
+    },
+    {
+        "_id": "Seix Barral",
+        "count": 9
+    },
+    {
+        "_id": "Cemetery Dance Publications",
+        "count": 15
+    },
+    {
+        "_id": "Carl Hanser",
+        "count": 6
+    },
+    {
+        "_id": "Secker",
+        "count": 3
+    },
+    {
+        "_id": "Baker Books",
+        "count": 3
+    },
+    {
+        "_id": "Wyatt Book",
+        "count": 15
+    },
+    {
+        "_id": "Alfred A. Knopf Borzoi Books",
+        "count": 15
+    },
+    {
+        "_id": "Zondervan Publishing House",
+        "count": 15
+    },
+    {
+        "_id": "Manning Publications",
+        "count": 6
+    },
+    {
+        "_id": "Touchstone",
+        "count": 180
+    },
+    {
+        "_id": "Carroll & Graf Publishers",
+        "count": 39
+    },
+    {
+        "_id": "Fontana Press",
+        "count": 15
+    },
+    {
+        "_id": "Babel",
+        "count": 9
+    },
+    {
+        "_id": "Limelight",
+        "count": 3
+    },
+    {
+        "_id": "Nation Books",
+        "count": 3
+    },
+    {
+        "_id": "Audio Renaissance",
+        "count": 3
+    },
+    {
+        "_id": "Free Press",
+        "count": 288
+    },
+    {
+        "_id": "Verba Mundi",
+        "count": 15
+    },
+    {
+        "_id": "Ullstein Buchverlage GmbH & Co. KG / Ullstein Tas",
+        "count": 3
+    },
+    {
+        "_id": "Two Lions",
+        "count": 3
+    },
+    {
+        "_id": "University Press of New England",
+        "count": 3
+    },
+    {
+        "_id": "FT Press",
+        "count": 15
+    },
+    {
+        "_id": "Alderac Entertainment Group (AEG)",
+        "count": 3
+    },
+    {
+        "_id": "Scholastic Inc",
+        "count": 3
+    },
+    {
+        "_id": "MIT Press",
+        "count": 48
+    },
+    {
+        "_id": "Pantheon Books",
+        "count": 168
+    },
+    {
+        "_id": "HarperCollins Perennial",
+        "count": 15
+    },
+    {
+        "_id": "Suhrkamp",
+        "count": 27
+    },
+    {
+        "_id": "F. Meiner",
+        "count": 3
+    },
+    {
+        "_id": "Alpha Books",
+        "count": 3
+    },
+    {
+        "_id": "Graphics Press LLC",
+        "count": 15
+    },
+    {
+        "_id": "Viking UK",
+        "count": 3
+    },
+    {
+        "_id": "Dartmouth College Press",
+        "count": 15
+    },
+    {
+        "_id": "Express Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Reclam  Leipzig",
+        "count": 3
+    },
+    {
+        "_id": "Firelight Press",
+        "count": 3
+    },
+    {
+        "_id": "Loeb Classical Library/Harvard University Press",
+        "count": 3
+    },
+    {
+        "_id": "Plexus Publishing",
+        "count": 6
+    },
+    {
+        "_id": "Let's Go Publications",
+        "count": 3
+    },
+    {
+        "_id": "Paperback Library",
+        "count": 3
+    },
+    {
+        "_id": "Liveright Publishing Corp.",
+        "count": 15
+    },
+    {
+        "_id": "Pan Publishing",
+        "count": 9
+    },
+    {
+        "_id": "Twin Palms Publishers",
+        "count": 3
+    },
+    {
+        "_id": "North Light Books",
+        "count": 6
+    },
+    {
+        "_id": "Modern Library/Random House (NY)",
+        "count": 18
+    },
+    {
+        "_id": "Voyager",
+        "count": 54
+    },
+    {
+        "_id": "Collins Reference",
+        "count": 12
+    },
+    {
+        "_id": "Churchill Livingstone",
+        "count": 3
+    },
+    {
+        "_id": "St. Martin's Minotaur",
+        "count": 3
+    },
+    {
+        "_id": "Pan Books",
+        "count": 3
+    },
+    {
+        "_id": "Norma Editorial",
+        "count": 3
+    },
+    {
+        "_id": "Harper Perennial",
+        "count": 1176
+    },
+    {
+        "_id": "Bolchazy-Carducci Publishers",
+        "count": 9
+    },
+    {
+        "_id": "Everyman Chess",
+        "count": 6
+    },
+    {
+        "_id": "Éditions 10/18",
+        "count": 3
+    },
+    {
+        "_id": "New World Library",
+        "count": 21
+    },
+    {
+        "_id": "Editions du Rocher",
+        "count": 6
+    },
+    {
+        "_id": "Arts Publications",
+        "count": 3
+    },
+    {
+        "_id": "A Harvest Book/Harcourt  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Random House: Modern Library",
+        "count": 15
+    },
+    {
+        "_id": "Wiley-Blackwell",
+        "count": 21
+    },
+    {
+        "_id": "Philomel Books",
+        "count": 48
+    },
+    {
+        "_id": "University of Pennsylvania Press",
+        "count": 18
+    },
+    {
+        "_id": "Alison Green Books",
+        "count": 3
+    },
+    {
+        "_id": "Perigee Trade",
+        "count": 6
+    },
+    {
+        "_id": "Wilhelm Goldmann Verlag  GmbH",
+        "count": 6
+    },
+    {
+        "_id": "McGraw-Hill Professional Publishing",
+        "count": 6
+    },
+    {
+        "_id": "Rebel Press",
+        "count": 3
+    },
+    {
+        "_id": "Crown Publishing Group",
+        "count": 3
+    },
+    {
+        "_id": "Shambhala",
+        "count": 102
+    },
+    {
+        "_id": "Douglas  McIntyre",
+        "count": 6
+    },
+    {
+        "_id": "Thorndike Press Large Print",
+        "count": 6
+    },
+    {
+        "_id": "University of New Mexico Press",
+        "count": 3
+    },
+    {
+        "_id": "Warner Vision",
+        "count": 15
+    },
+    {
+        "_id": "Red Hen Pr",
+        "count": 3
+    },
+    {
+        "_id": "Zebra Books",
+        "count": 15
+    },
+    {
+        "_id": "Oregon State University Press",
+        "count": 3
+    },
+    {
+        "_id": "Plaza & Janes Editores  S.A.",
+        "count": 3
+    },
+    {
+        "_id": "Owl Books",
+        "count": 30
+    },
+    {
+        "_id": "Heinemann Drama",
+        "count": 3
+    },
+    {
+        "_id": "Bradygames",
+        "count": 6
+    },
+    {
+        "_id": "Be Beautiful",
+        "count": 9
+    },
+    {
+        "_id": "Collier Books",
+        "count": 3
+    },
+    {
+        "_id": "Franklin Watts",
+        "count": 3
+    },
+    {
+        "_id": "Games Workshop(uk)",
+        "count": 6
+    },
+    {
+        "_id": "Bastei Lübbe",
+        "count": 3
+    },
+    {
+        "_id": "Michael Joseph Ltd./Penguin Books Ltd.",
+        "count": 3
+    },
+    {
+        "_id": "Crown Publishing Group (NY)",
+        "count": 24
+    },
+    {
+        "_id": "BradyGames",
+        "count": 24
+    },
+    {
+        "_id": "Dutton Children's Books",
+        "count": 18
+    },
+    {
+        "_id": "Harcourt Children's Books",
+        "count": 15
+    },
+    {
+        "_id": "Roc",
+        "count": 84
+    },
+    {
+        "_id": "New Directions Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Cruithne Press",
+        "count": 3
+    },
+    {
+        "_id": "Burford Books",
+        "count": 3
+    },
+    {
+        "_id": "Collins",
+        "count": 3
+    },
+    {
+        "_id": "Catholic Book Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Harpercollins Children's Books",
+        "count": 15
+    },
+    {
+        "_id": "MacMillan Publishing Company",
+        "count": 6
+    },
+    {
+        "_id": "PublicAffairs",
+        "count": 18
+    },
+    {
+        "_id": "Benziger",
+        "count": 3
+    },
+    {
+        "_id": "Robert Laffont",
+        "count": 9
+    },
+    {
+        "_id": "Simon & Schuster Simon Pulse",
+        "count": 15
+    },
+    {
+        "_id": "BBC Worldwide",
+        "count": 3
+    },
+    {
+        "_id": "HarperCollinsPublishers",
+        "count": 33
+    },
+    {
+        "_id": "MTV Books",
+        "count": 33
+    },
+    {
+        "_id": "Tusquets",
+        "count": 15
+    },
+    {
+        "_id": "Globe",
+        "count": 3
+    },
+    {
+        "_id": "PerfectBound (HarperCollins)",
+        "count": 15
+    },
+    {
+        "_id": "Monolith Graphics",
+        "count": 3
+    },
+    {
+        "_id": "Allen & Ulwin",
+        "count": 15
+    },
+    {
+        "_id": "Gemstone Publishing",
+        "count": 21
+    },
+    {
+        "_id": "Applewood Books",
+        "count": 78
+    },
+    {
+        "_id": "Pimsleur",
+        "count": 3
+    },
+    {
+        "_id": "Basic Books",
+        "count": 405
+    },
+    {
+        "_id": "Random House Audio",
+        "count": 123
+    },
+    {
+        "_id": "Macmillan",
+        "count": 18
+    },
+    {
+        "_id": "Aegypan",
+        "count": 15
+    },
+    {
+        "_id": "Dial",
+        "count": 9
+    },
+    {
+        "_id": "University of Alaska Press",
+        "count": 3
+    },
+    {
+        "_id": "Thomas Dunne Books",
+        "count": 15
+    },
+    {
+        "_id": "Livre de Poche",
+        "count": 9
+    },
+    {
+        "_id": "Possibilities",
+        "count": 6
+    },
+    {
+        "_id": "Inner Traditions International",
+        "count": 3
+    },
+    {
+        "_id": "W. W. Norton & Company",
+        "count": 309
+    },
+    {
+        "_id": "Archaia",
+        "count": 6
+    },
+    {
+        "_id": "Love Spell",
+        "count": 39
+    },
+    {
+        "_id": "British Library",
+        "count": 3
+    },
+    {
+        "_id": "Vision Forum",
+        "count": 3
+    },
+    {
+        "_id": "Orbis Books",
+        "count": 18
+    },
+    {
+        "_id": "NAL Books",
+        "count": 15
+    },
+    {
+        "_id": "Harlequin Presents",
+        "count": 12
+    },
+    {
+        "_id": "Prentice Hall PTR",
+        "count": 3
+    },
+    {
+        "_id": "William Heinemann",
+        "count": 3
+    },
+    {
+        "_id": "Edimat Libros",
+        "count": 12
+    },
+    {
+        "_id": "See Sharp Press",
+        "count": 15
+    },
+    {
+        "_id": "Frederick P. Lenz Foundation for American Buddhism",
+        "count": 6
+    },
+    {
+        "_id": "Time Life Medical",
+        "count": 30
+    },
+    {
+        "_id": "Oxford University Press",
+        "count": 603
+    },
+    {
+        "_id": "Hackett Publishing Company  Inc.",
+        "count": 189
+    },
+    {
+        "_id": "J'ai Lu",
+        "count": 42
+    },
+    {
+        "_id": "Red Dress Ink",
+        "count": 78
+    },
+    {
+        "_id": "Penguin Classics Deluxe Edition",
+        "count": 15
+    },
+    {
+        "_id": "Winter on the Farm (My First Little House)",
+        "count": 3
+    },
+    {
+        "_id": "Chronicle Books",
+        "count": 42
+    },
+    {
+        "_id": "Bold Strokes Books",
+        "count": 6
+    },
+    {
+        "_id": "Bloomsbury Publishing",
+        "count": 30
+    },
+    {
+        "_id": "ガンガンコミックス",
+        "count": 15
+    },
+    {
+        "_id": "AVA Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Revive Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Dodo Press",
+        "count": 21
+    },
+    {
+        "_id": "Young Picador",
+        "count": 15
+    },
+    {
+        "_id": "Waterbrook Press",
+        "count": 24
+    },
+    {
+        "_id": "Harmony",
+        "count": 84
+    },
+    {
+        "_id": "Folio histoire",
+        "count": 3
+    },
+    {
+        "_id": "VIZ Media LLC",
+        "count": 900
+    },
+    {
+        "_id": "Nelson Reference & Electronic Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Bantam Skylark",
+        "count": 6
+    },
+    {
+        "_id": "Lucent Books",
+        "count": 6
+    },
+    {
+        "_id": "Salem Press Inc",
+        "count": 3
+    },
+    {
+        "_id": "Dutton Juvenile",
+        "count": 6
+    },
+    {
+        "_id": "David R. Godine Publisher",
+        "count": 54
+    },
+    {
+        "_id": "Omnibus Press",
+        "count": 6
+    },
+    {
+        "_id": "Alianza Editorial",
+        "count": 3
+    },
+    {
+        "_id": "Dell Publishing Company",
+        "count": 183
+    },
+    {
+        "_id": "Atlantic Monthly Press",
+        "count": 18
+    },
+    {
+        "_id": "Black Classic Press",
+        "count": 9
+    },
+    {
+        "_id": "Kent State University Press (OH)",
+        "count": 3
+    },
+    {
+        "_id": "Sierra Club Books",
+        "count": 3
+    },
+    {
+        "_id": "Cleis Press",
+        "count": 24
+    },
+    {
+        "_id": "Roxford Books",
+        "count": 3
+    },
+    {
+        "_id": "Paul S. Eriksson",
+        "count": 3
+    },
+    {
+        "_id": "Pluto Press",
+        "count": 3
+    },
+    {
+        "_id": "Bloomsbury USA Childrens",
+        "count": 3
+    },
+    {
+        "_id": "Motorbooks",
+        "count": 3
+    },
+    {
+        "_id": "rbooks",
+        "count": 15
+    },
+    {
+        "_id": "Putnam",
+        "count": 33
+    },
+    {
+        "_id": "Time Warner Books UK",
+        "count": 3
+    },
+    {
+        "_id": "Festival Books",
+        "count": 3
+    },
+    {
+        "_id": "Longmeadow Press",
+        "count": 3
+    },
+    {
+        "_id": "Bloomsbury Paperbacks",
+        "count": 3
+    },
+    {
+        "_id": "El Paso Norte Press",
+        "count": 6
+    },
+    {
+        "_id": "Hodder & Stoughton Educational Division",
+        "count": 3
+    },
+    {
+        "_id": "Fawcett Coventry",
+        "count": 3
+    },
+    {
+        "_id": "Crown Business",
+        "count": 15
+    },
+    {
+        "_id": "Woodrow Wilson Center Press / Johns Hopkins University Press",
+        "count": 3
+    },
+    {
+        "_id": "Pan",
+        "count": 27
+    },
+    {
+        "_id": "McSweeney's",
+        "count": 84
+    },
+    {
+        "_id": "Viking Juvenile",
+        "count": 18
+    },
+    {
+        "_id": "Back Bay",
+        "count": 15
+    },
+    {
+        "_id": "Celestial Arts",
+        "count": 6
+    },
+    {
+        "_id": "Everyman Library / Overlook Press",
+        "count": 15
+    },
+    {
+        "_id": "Bureau of Public Secrets",
+        "count": 3
+    },
+    {
+        "_id": "Phoenix Press (UK)",
+        "count": 15
+    },
+    {
+        "_id": "Metropolitan Books",
+        "count": 3
+    },
+    {
+        "_id": "Hard Press",
+        "count": 24
+    },
+    {
+        "_id": "C. Bange",
+        "count": 3
+    },
+    {
+        "_id": "Birlinn",
+        "count": 3
+    },
+    {
+        "_id": "Holt  Rinehart and Winston  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Bloomsbury USA",
+        "count": 21
+    },
+    {
+        "_id": "Riverrun Press (New York  NY)",
+        "count": 3
+    },
+    {
+        "_id": "Pocket Star Books",
+        "count": 63
+    },
+    {
+        "_id": "Riverhead Hardcover",
+        "count": 30
+    },
+    {
+        "_id": "Bantam Doubleday Dell Publishing Company Inc.",
+        "count": 15
+    },
+    {
+        "_id": "Barrons Educational Series",
+        "count": 15
+    },
+    {
+        "_id": "John Wiley & Sons",
+        "count": 48
+    },
+    {
+        "_id": "btb",
+        "count": 15
+    },
+    {
+        "_id": "Dover Publications",
+        "count": 603
+    },
+    {
+        "_id": "Tougher Disguises",
+        "count": 3
+    },
+    {
+        "_id": "Inner Traditions",
+        "count": 3
+    },
+    {
+        "_id": "Shaw Books",
+        "count": 3
+    },
+    {
+        "_id": "TSR Inc./Wizards of the Coast",
+        "count": 15
+    },
+    {
+        "_id": "Polity Press",
+        "count": 12
+    },
+    {
+        "_id": "Bantam Books  Inc.",
+        "count": 15
+    },
+    {
+        "_id": "Rba Libros",
+        "count": 3
+    },
+    {
+        "_id": "Wasendorf & Associates Inc",
+        "count": 3
+    },
+    {
+        "_id": "Pen & Sword Military",
+        "count": 3
+    },
+    {
+        "_id": "W.W. Norton  Company",
+        "count": 3
+    },
+    {
+        "_id": "Harlequin Romance",
+        "count": 6
+    },
+    {
+        "_id": "York Press",
+        "count": 3
+    },
+    {
+        "_id": "Dundurn",
+        "count": 6
+    },
+    {
+        "_id": "Barefoot Books",
+        "count": 3
+    },
+    {
+        "_id": "Random House  for Young Readers",
+        "count": 3
+    },
+    {
+        "_id": "Hard Crime Case",
+        "count": 33
+    },
+    {
+        "_id": "Simon  Schuster Audio",
+        "count": 63
+    },
+    {
+        "_id": "Shaye Areheart Books",
+        "count": 15
+    },
+    {
+        "_id": "Running Press",
+        "count": 33
+    },
+    {
+        "_id": "Arsenal Pulp Press",
+        "count": 15
+    },
+    {
+        "_id": "AvonEos",
+        "count": 3
+    },
+    {
+        "_id": "Rowohlt",
+        "count": 3
+    },
+    {
+        "_id": "Motilal Banarsidass",
+        "count": 3
+    },
+    {
+        "_id": "Other Press (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Crescent",
+        "count": 3
+    },
+    {
+        "_id": "Open Court",
+        "count": 108
+    },
+    {
+        "_id": "Reclam",
+        "count": 3
+    },
+    {
+        "_id": "Longman Schools Division (a Pearson Education Company)",
+        "count": 3
+    },
+    {
+        "_id": "Museum of Modern Art",
+        "count": 3
+    },
+    {
+        "_id": "Wisdom Publications",
+        "count": 24
+    },
+    {
+        "_id": "Sumach Press",
+        "count": 3
+    },
+    {
+        "_id": "Cold Spring Harbor Laboratory Press",
+        "count": 3
+    },
+    {
+        "_id": "Gotham",
+        "count": 15
+    },
+    {
+        "_id": "National Gallery London",
+        "count": 3
+    },
+    {
+        "_id": "K.G. Saur Verlag",
+        "count": 3
+    },
+    {
+        "_id": "Chartwell Books",
+        "count": 3
+    },
+    {
+        "_id": "Abacus Books",
+        "count": 3
+    },
+    {
+        "_id": "Harcourt  Brace Jovanovich/Harvest",
+        "count": 15
+    },
+    {
+        "_id": "Paulist Press",
+        "count": 18
+    },
+    {
+        "_id": "Volo",
+        "count": 3
+    },
+    {
+        "_id": "Warners Visions Books",
+        "count": 15
+    },
+    {
+        "_id": "Putnam Publishing Group",
+        "count": 36
+    },
+    {
+        "_id": "Octopus Books",
+        "count": 3
+    },
+    {
+        "_id": "ComicsOne Corporation",
+        "count": 6
+    },
+    {
+        "_id": "Harper Voyager",
+        "count": 240
+    },
+    {
+        "_id": "Haynes Manuals N. America  Inc.",
+        "count": 6
+    },
+    {
+        "_id": "Bedford Books",
+        "count": 12
+    },
+    {
+        "_id": "Pan Australia",
+        "count": 3
+    },
+    {
+        "_id": "University of Arizona Press",
+        "count": 3
+    },
+    {
+        "_id": "French & European Pubns",
+        "count": 3
+    },
+    {
+        "_id": "Punto de Lectura",
+        "count": 63
+    },
+    {
+        "_id": "Knopf Publishing Group",
+        "count": 153
+    },
+    {
+        "_id": "New English Library",
+        "count": 45
+    },
+    {
+        "_id": "Course Technology",
+        "count": 9
+    },
+    {
+        "_id": "10/18",
+        "count": 6
+    },
+    {
+        "_id": "University of Nebraska Press",
+        "count": 6
+    },
+    {
+        "_id": "Earthlight",
+        "count": 6
+    },
+    {
+        "_id": "Limitless Corporation",
+        "count": 3
+    },
+    {
+        "_id": "Saunders",
+        "count": 3
+    },
+    {
+        "_id": "Unwin Paperbacks",
+        "count": 3
+    },
+    {
+        "_id": "Aurum",
+        "count": 15
+    },
+    {
+        "_id": "Harper & Row",
+        "count": 15
+    },
+    {
+        "_id": "Daw Books",
+        "count": 183
+    },
+    {
+        "_id": "Capstone Press",
+        "count": 6
+    },
+    {
+        "_id": "Southern Methodist University Press",
+        "count": 3
+    },
+    {
+        "_id": "Teachers College Press",
+        "count": 3
+    },
+    {
+        "_id": "Faber and Faber",
+        "count": 123
+    },
+    {
+        "_id": "Plaza & Janes Editores Sa",
+        "count": 3
+    },
+    {
+        "_id": "Little  Brown and Company",
+        "count": 273
+    },
+    {
+        "_id": "Ediciones B",
+        "count": 39
+    },
+    {
+        "_id": "Troll Communications",
+        "count": 6
+    },
+    {
+        "_id": "Time-Life Books",
+        "count": 3
+    },
+    {
+        "_id": "Libraries Unlimited",
+        "count": 3
+    },
+    {
+        "_id": "Fawcett",
+        "count": 132
+    },
+    {
+        "_id": "Grove Press",
+        "count": 453
+    },
+    {
+        "_id": "Emecé Editores",
+        "count": 6
+    },
+    {
+        "_id": "Simon & Schuster Aladddin Paperbacks",
+        "count": 15
+    },
+    {
+        "_id": "Chicken House",
+        "count": 18
+    },
+    {
+        "_id": "Bragelonne",
+        "count": 3
+    },
+    {
+        "_id": "Element",
+        "count": 15
+    },
+    {
+        "_id": "Twayne Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Everyman Paperbacks",
+        "count": 3
+    },
+    {
+        "_id": "Omnibus Hc Bei Bertelsmann",
+        "count": 3
+    },
+    {
+        "_id": "Free Spirit Publishing",
+        "count": 3
+    },
+    {
+        "_id": "L.A. Weekly Books",
+        "count": 15
+    },
+    {
+        "_id": "Laurel-Leaf Books",
+        "count": 3
+    },
+    {
+        "_id": "Diamond/Charter",
+        "count": 3
+    },
+    {
+        "_id": "Onyx Books",
+        "count": 15
+    },
+    {
+        "_id": "Little Brown and Company",
+        "count": 159
+    },
+    {
+        "_id": "OUP Oxford",
+        "count": 12
+    },
+    {
+        "_id": "Stewart  Tabori and Chang",
+        "count": 3
+    },
+    {
+        "_id": "Wiley Publishing  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Everyman's Library Classics",
+        "count": 3
+    },
+    {
+        "_id": "AA World Services",
+        "count": 3
+    },
+    {
+        "_id": "Cosimo Classics",
+        "count": 3
+    },
+    {
+        "_id": "Random House UK Ltd (A Division of Random House Group)",
+        "count": 3
+    },
+    {
+        "_id": "Vintage Crime/Black Lizard",
+        "count": 201
+    },
+    {
+        "_id": "Nonsuch Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Perfection Learning",
+        "count": 18
+    },
+    {
+        "_id": "Random House UK Distribution",
+        "count": 3
+    },
+    {
+        "_id": "Jones & Bartlett Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Eraserhead Press",
+        "count": 15
+    },
+    {
+        "_id": "Quality Paperback Book Club",
+        "count": 6
+    },
+    {
+        "_id": "Watson-Guptill Publications",
+        "count": 3
+    },
+    {
+        "_id": "Loyola Press (Chicago)",
+        "count": 3
+    },
+    {
+        "_id": "Reaktion Books",
+        "count": 3
+    },
+    {
+        "_id": "Debolsillo",
+        "count": 78
+    },
+    {
+        "_id": "Rutgers University Press",
+        "count": 12
+    },
+    {
+        "_id": "Random House Trade",
+        "count": 162
+    },
+    {
+        "_id": "New York Review of Books",
+        "count": 54
+    },
+    {
+        "_id": "Merlin Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Oberlin College Press",
+        "count": 3
+    },
+    {
+        "_id": "Random House Children's Books",
+        "count": 9
+    },
+    {
+        "_id": "Penguin Books Australia Ltd.",
+        "count": 30
+    },
+    {
+        "_id": "Lonely Planet",
+        "count": 21
+    },
+    {
+        "_id": "Blackstone Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Avon Books (AvoNova)",
+        "count": 3
+    },
+    {
+        "_id": "Harcourt Brace Jovanovich",
+        "count": 18
+    },
+    {
+        "_id": "Barbour Books",
+        "count": 3
+    },
+    {
+        "_id": "Ivan R. Dee Publisher",
+        "count": 36
+    },
+    {
+        "_id": "Silhouette Special Edition",
+        "count": 6
+    },
+    {
+        "_id": "Phoenix",
+        "count": 54
+    },
+    {
+        "_id": "Caedmon",
+        "count": 21
+    },
+    {
+        "_id": "Chatto & Windus",
+        "count": 24
+    },
+    {
+        "_id": "Bookclub-In-A-Box",
+        "count": 3
+    },
+    {
+        "_id": "Picture Book Studio Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Hachette Children's",
+        "count": 3
+    },
+    {
+        "_id": "Association for Scottish Literary Studies",
+        "count": 3
+    },
+    {
+        "_id": "Broadway/Crown Publishing Group",
+        "count": 15
+    },
+    {
+        "_id": "Hill & Wang Publ. (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Headline",
+        "count": 114
+    },
+    {
+        "_id": "Vintage Contemporaries",
+        "count": 60
+    },
+    {
+        "_id": "University of Michigan Press",
+        "count": 15
+    },
+    {
+        "_id": "Marsilio Publishers",
+        "count": 15
+    },
+    {
+        "_id": "Loose Id  LLC",
+        "count": 3
+    },
+    {
+        "_id": "Between the Lines Productions",
+        "count": 3
+    },
+    {
+        "_id": "Jossey-Bass",
+        "count": 48
+    },
+    {
+        "_id": "Penguin Books Ltd.",
+        "count": 18
+    },
+    {
+        "_id": "Duke University Press Books",
+        "count": 12
+    },
+    {
+        "_id": "Lawrence Hill Books",
+        "count": 3
+    },
+    {
+        "_id": "Coffee House Press",
+        "count": 18
+    },
+    {
+        "_id": "Fleming H. Revell Company",
+        "count": 3
+    },
+    {
+        "_id": "Hartorch",
+        "count": 15
+    },
+    {
+        "_id": "Silhouette Books",
+        "count": 33
+    },
+    {
+        "_id": "University of Oklahoma Press",
+        "count": 24
+    },
+    {
+        "_id": "Blu",
+        "count": 33
+    },
+    {
+        "_id": "Skylight Paths Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Do-Not Press",
+        "count": 3
+    },
+    {
+        "_id": "Taunton Press",
+        "count": 18
+    },
+    {
+        "_id": "Hodder Children's Books",
+        "count": 21
+    },
+    {
+        "_id": "Berkley Sensation",
+        "count": 186
+    },
+    {
+        "_id": "Two Plus Two Publishing LLC",
+        "count": 30
+    },
+    {
+        "_id": "Viking Books",
+        "count": 135
+    },
+    {
+        "_id": "Naxos Audiobooks",
+        "count": 12
+    },
+    {
+        "_id": "Running Press Kids",
+        "count": 3
+    },
+    {
+        "_id": "Hiperión",
+        "count": 3
+    },
+    {
+        "_id": "Charlesbridge",
+        "count": 6
+    },
+    {
+        "_id": "Amereon Limited",
+        "count": 3
+    },
+    {
+        "_id": "Lerner Publications",
+        "count": 12
+    },
+    {
+        "_id": "Here's Life Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Everyman's Library 234",
+        "count": 3
+    },
+    {
+        "_id": "Houghton Mifflin Company",
+        "count": 96
+    },
+    {
+        "_id": "Harper Paperbacks",
+        "count": 84
+    },
+    {
+        "_id": "Nonpareil Books",
+        "count": 3
+    },
+    {
+        "_id": "HarperTrophy",
+        "count": 249
+    },
+    {
+        "_id": "Viking Press",
+        "count": 15
+    },
+    {
+        "_id": "Ivy Books",
+        "count": 72
+    },
+    {
+        "_id": "Heinle",
+        "count": 3
+    },
+    {
+        "_id": "Lone Oak Press",
+        "count": 3
+    },
+    {
+        "_id": "Allen Lane",
+        "count": 6
+    },
+    {
+        "_id": "Zondervan Publishing Company",
+        "count": 21
+    },
+    {
+        "_id": "Gibbs Smith",
+        "count": 12
+    },
+    {
+        "_id": "Thunder's Mouth Press Books",
+        "count": 3
+    },
+    {
+        "_id": "Reclam  Ditzingen",
+        "count": 3
+    },
+    {
+        "_id": "Bantam Spectra",
+        "count": 96
+    },
+    {
+        "_id": "HarperAudio",
+        "count": 24
+    },
+    {
+        "_id": "Kyle Books",
+        "count": 6
+    },
+    {
+        "_id": "Gallimard",
+        "count": 96
+    },
+    {
+        "_id": "Penguin Books (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Peter Smith Publisher  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Simon & Schuster; Media Tie-In edition",
+        "count": 15
+    },
+    {
+        "_id": "Tarcherperigee",
+        "count": 57
+    },
+    {
+        "_id": "Schirmer Mosel",
+        "count": 3
+    },
+    {
+        "_id": "Lumen",
+        "count": 3
+    },
+    {
+        "_id": "Signet Classics",
+        "count": 189
+    },
+    {
+        "_id": "Harlequin American Romance",
+        "count": 3
+    },
+    {
+        "_id": "Puffin Audiobooks",
+        "count": 3
+    },
+    {
+        "_id": "University of Texas Press (Austin/London)",
+        "count": 3
+    },
+    {
+        "_id": "Marshall Cavendish Editions",
+        "count": 3
+    },
+    {
+        "_id": "Random House Value Publishing",
+        "count": 78
+    },
+    {
+        "_id": "Simon Pulse",
+        "count": 213
+    },
+    {
+        "_id": "TSR",
+        "count": 6
+    },
+    {
+        "_id": "Cold Spring Press",
+        "count": 3
+    },
+    {
+        "_id": "Bantam",
+        "count": 1254
+    },
+    {
+        "_id": "Del Rey/Ballantine Books",
+        "count": 15
+    },
+    {
+        "_id": "Self-Realization Fellowship Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Hill and Wang",
+        "count": 42
+    },
+    {
+        "_id": "Harvest House Publishers",
+        "count": 45
+    },
+    {
+        "_id": "Dutton Books for Young Readers",
+        "count": 6
+    },
+    {
+        "_id": "Addison Wesley",
+        "count": 3
+    },
+    {
+        "_id": "Crown Journeys/Crown Publishers/Crown Publishing Group/Random House",
+        "count": 15
+    },
+    {
+        "_id": "Harper & Row (NYC et al.)",
+        "count": 15
+    },
+    {
+        "_id": "Beckett Media",
+        "count": 3
+    },
+    {
+        "_id": "Doubleday Books for Young Readers",
+        "count": 6
+    },
+    {
+        "_id": "Harlequin Blaze",
+        "count": 9
+    },
+    {
+        "_id": "Harlequin Superromance",
+        "count": 3
+    },
+    {
+        "_id": "RH Audio",
+        "count": 6
+    },
+    {
+        "_id": "Soundings",
+        "count": 6
+    },
+    {
+        "_id": "Batsford",
+        "count": 3
+    },
+    {
+        "_id": "Loveswept",
+        "count": 3
+    },
+    {
+        "_id": "Le Livre de Poche",
+        "count": 36
+    },
+    {
+        "_id": "Oni Press",
+        "count": 21
+    },
+    {
+        "_id": "Sutton",
+        "count": 3
+    },
+    {
+        "_id": "B.E.S. Publishing",
+        "count": 6
+    },
+    {
+        "_id": "Oxford University Press  USA",
+        "count": 405
+    },
+    {
+        "_id": "Penguin Putnam",
+        "count": 3
+    },
+    {
+        "_id": "Porrua",
+        "count": 3
+    },
+    {
+        "_id": "Anchor Canada",
+        "count": 3
+    },
+    {
+        "_id": "Hal Leonard Publishing Corporation",
+        "count": 6
+    },
+    {
+        "_id": "Penguin Audio UK",
+        "count": 3
+    },
+    {
+        "_id": "International Code Council",
+        "count": 6
+    },
+    {
+        "_id": "Rowohlt Tb",
+        "count": 3
+    },
+    {
+        "_id": "Hodder Audio",
+        "count": 3
+    },
+    {
+        "_id": "TEA",
+        "count": 3
+    },
+    {
+        "_id": "Healing Arts Press",
+        "count": 6
+    },
+    {
+        "_id": "Business Plus",
+        "count": 21
+    },
+    {
+        "_id": "Marvel Comics",
+        "count": 33
+    },
+    {
+        "_id": "Fodor's",
+        "count": 3
+    },
+    {
+        "_id": "Harcourt Brace",
+        "count": 18
+    },
+    {
+        "_id": "HarperPrism",
+        "count": 15
+    },
+    {
+        "_id": "Bloomsbury (NYC)",
+        "count": 3
+    },
+    {
+        "_id": "Alyson Books",
+        "count": 30
+    },
+    {
+        "_id": "William Heinemann Ltd.",
+        "count": 3
+    },
+    {
+        "_id": "Vida",
+        "count": 3
+    },
+    {
+        "_id": "角川書店 (Kadokawa Shoten)",
+        "count": 6
+    },
+    {
+        "_id": "Washington Square Press",
+        "count": 471
+    },
+    {
+        "_id": "Hamish hamilton",
+        "count": 3
+    },
+    {
+        "_id": "Council Press",
+        "count": 3
+    },
+    {
+        "_id": "Egmont Books Ltd",
+        "count": 15
+    },
+    {
+        "_id": "New City Press",
+        "count": 12
+    },
+    {
+        "_id": "Sky Books (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Bruno Gmünder",
+        "count": 3
+    },
+    {
+        "_id": "Management Books 2000",
+        "count": 3
+    },
+    {
+        "_id": "University Press of Mississippi",
+        "count": 42
+    },
+    {
+        "_id": "Lasser Press",
+        "count": 3
+    },
+    {
+        "_id": "小学館 [Shōgakukan]",
+        "count": 3
+    },
+    {
+        "_id": "Viking Penguin Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Lantern Books",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Books",
+        "count": 2907
+    },
+    {
+        "_id": "Headline Book Publishing",
+        "count": 24
+    },
+    {
+        "_id": "Shaw",
+        "count": 3
+    },
+    {
+        "_id": "Teacher Created Resources",
+        "count": 6
+    },
+    {
+        "_id": "Viking",
+        "count": 90
+    },
+    {
+        "_id": "Insight International",
+        "count": 3
+    },
+    {
+        "_id": "W.W. Norton & Company (NY)",
+        "count": 15
+    },
+    {
+        "_id": "William Morrow Paperbacks",
+        "count": 606
+    },
+    {
+        "_id": "Plexus Publishing Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Siloam",
+        "count": 3
+    },
+    {
+        "_id": "Pocket Books/Simon & Schuster (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Trafford Publishing",
+        "count": 6
+    },
+    {
+        "_id": "Nelson Thornes Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Th1nk Books",
+        "count": 3
+    },
+    {
+        "_id": "Yellow Jersey",
+        "count": 6
+    },
+    {
+        "_id": "HarperCollins",
+        "count": 1020
+    },
+    {
+        "_id": "Farrar  Straus and Giroux (BYR)",
+        "count": 15
+    },
+    {
+        "_id": "Your Coach Digital",
+        "count": 3
+    },
+    {
+        "_id": "Rowohlt Taschenbuch Verlag GmbH",
+        "count": 3
+    },
+    {
+        "_id": "Canongate U.S.",
+        "count": 33
+    },
+    {
+        "_id": "Crossway Books",
+        "count": 102
+    },
+    {
+        "_id": "Companhia das Letras",
+        "count": 3
+    },
+    {
+        "_id": "Little  Brown",
+        "count": 18
+    },
+    {
+        "_id": "Henry Holt",
+        "count": 15
+    },
+    {
+        "_id": "Dragonfly Books",
+        "count": 3
+    },
+    {
+        "_id": "Anchor Books/Knopf Doubleday Publishing Group",
+        "count": 15
+    },
+    {
+        "_id": "Banner of Truth",
+        "count": 18
+    },
+    {
+        "_id": "Quest Books",
+        "count": 6
+    },
+    {
+        "_id": "Roc Trade",
+        "count": 15
+    },
+    {
+        "_id": "Kodansha International",
+        "count": 18
+    },
+    {
+        "_id": "Archipelago Books",
+        "count": 3
+    },
+    {
+        "_id": "Atheneum Books for Young Readers: Richard Jackson Books",
+        "count": 15
+    },
+    {
+        "_id": "Smithsonian Books",
+        "count": 3
+    },
+    {
+        "_id": "Sams",
+        "count": 6
+    },
+    {
+        "_id": "Dark Horse Comics",
+        "count": 57
+    },
+    {
+        "_id": "Claassen Verlag",
+        "count": 3
+    },
+    {
+        "_id": "Julia MacRae",
+        "count": 6
+    },
+    {
+        "_id": "Aladdin",
+        "count": 153
+    },
+    {
+        "_id": "Del Rey",
+        "count": 960
+    },
+    {
+        "_id": "Workman Publishing Company",
+        "count": 57
+    },
+    {
+        "_id": "Hovel Audio",
+        "count": 6
+    },
+    {
+        "_id": "Black Dog & Leventhal",
+        "count": 18
+    },
+    {
+        "_id": "Citadel Press",
+        "count": 9
+    },
+    {
+        "_id": "W.W. Norton & Company  Inc. (NY)",
+        "count": 3
+    },
+    {
+        "_id": "For Dummies",
+        "count": 27
+    },
+    {
+        "_id": "University of California Press",
+        "count": 126
+    },
+    {
+        "_id": "Penguin Signet",
+        "count": 15
+    },
+    {
+        "_id": "TSR Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Hodder Mobius",
+        "count": 15
+    },
+    {
+        "_id": "Orbit",
+        "count": 111
+    },
+    {
+        "_id": "Backstage Books",
+        "count": 3
+    },
+    {
+        "_id": "HarperOne",
+        "count": 357
+    },
+    {
+        "_id": "Science Fiction Book Club",
+        "count": 15
+    },
+    {
+        "_id": "DC Comics",
+        "count": 261
+    },
+    {
+        "_id": "Children's Press(CT)",
+        "count": 3
+    },
+    {
+        "_id": "Harper Perennial (NYC)",
+        "count": 15
+    },
+    {
+        "_id": "London : Faber  2002",
+        "count": 3
+    },
+    {
+        "_id": "Listening Library (Audio)",
+        "count": 27
+    },
+    {
+        "_id": "Crown Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Pocket Books / Simon & Schuster  Inc.",
+        "count": 15
+    },
+    {
+        "_id": "William Morrow / HarperCollins / Harper Perennial",
+        "count": 15
+    },
+    {
+        "_id": "Dominion Press",
+        "count": 3
+    },
+    {
+        "_id": "McClelland and Stewart",
+        "count": 3
+    },
+    {
+        "_id": "Maxima New Media",
+        "count": 3
+    },
+    {
+        "_id": "Marvel",
+        "count": 219
+    },
+    {
+        "_id": "Carole Marsh Mysteries",
+        "count": 6
+    },
+    {
+        "_id": "Sensory Resources",
+        "count": 3
+    },
+    {
+        "_id": "Vertigo",
+        "count": 570
+    },
+    {
+        "_id": "Sterling Children's Books",
+        "count": 3
+    },
+    {
+        "_id": "Blanvalet Taschenbuch Verlag",
+        "count": 9
+    },
+    {
+        "_id": "Cavendish Square Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Eminent Lives",
+        "count": 18
+    },
+    {
+        "_id": "Crossroad",
+        "count": 30
+    },
+    {
+        "_id": "Quill",
+        "count": 6
+    },
+    {
+        "_id": "Little  Brown & Company",
+        "count": 51
+    },
+    {
+        "_id": "Osprey Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Time Life Books",
+        "count": 3
+    },
+    {
+        "_id": "Routledge Classics",
+        "count": 18
+    },
+    {
+        "_id": "Ivan R. Dee  Publisher",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Books in association with Faber & Faber",
+        "count": 15
+    },
+    {
+        "_id": "HighBridge Company",
+        "count": 6
+    },
+    {
+        "_id": "Bantam Press",
+        "count": 39
+    },
+    {
+        "_id": "Jane Nissen Books",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Essential Editions",
+        "count": 3
+    },
+    {
+        "_id": "Grand Central",
+        "count": 15
+    },
+    {
+        "_id": "Norton",
+        "count": 30
+    },
+    {
+        "_id": "A K PETERS",
+        "count": 3
+    },
+    {
+        "_id": "Hampton Roads Publishing Company",
+        "count": 33
+    },
+    {
+        "_id": "Tor Fantasy",
+        "count": 264
+    },
+    {
+        "_id": "SCM Press",
+        "count": 3
+    },
+    {
+        "_id": "HQN",
+        "count": 30
+    },
+    {
+        "_id": "Fithian Press",
+        "count": 3
+    },
+    {
+        "_id": "Listening Library",
+        "count": 9
+    },
+    {
+        "_id": "Disney Editions",
+        "count": 3
+    },
+    {
+        "_id": "1st Book Library",
+        "count": 3
+    },
+    {
+        "_id": "Green Ronin Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Collection of Historical Scientific Instruments",
+        "count": 3
+    },
+    {
+        "_id": "Miramax Books",
+        "count": 36
+    },
+    {
+        "_id": "Lulu Press",
+        "count": 3
+    },
+    {
+        "_id": "Condor Books",
+        "count": 3
+    },
+    {
+        "_id": "Liguori Publications",
+        "count": 3
+    },
+    {
+        "_id": "Avon HarperCollins",
+        "count": 3
+    },
+    {
+        "_id": "New World Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Time-Life Books  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Thames & Hudson",
+        "count": 18
+    },
+    {
+        "_id": "Five Star (ME)",
+        "count": 3
+    },
+    {
+        "_id": "Virago Press (UK)",
+        "count": 15
+    },
+    {
+        "_id": "Chu Hartley Publishers LLC",
+        "count": 3
+    },
+    {
+        "_id": "Bloomsbury Publishing PLC",
+        "count": 78
+    },
+    {
+        "_id": "Grijalbo Mondadori Sa",
+        "count": 3
+    },
+    {
+        "_id": "National Geographic Children's Books",
+        "count": 3
+    },
+    {
+        "_id": "New York University Press",
+        "count": 18
+    },
+    {
+        "_id": "Lawbook Exchange  Ltd.",
+        "count": 3
+    },
+    {
+        "_id": "Weiser Books",
+        "count": 3
+    },
+    {
+        "_id": "Octopus Books (London)",
+        "count": 3
+    },
+    {
+        "_id": "DK",
+        "count": 18
+    },
+    {
+        "_id": "Yesterday's Classics",
+        "count": 3
+    },
+    {
+        "_id": "Margaret K. McElderry Books",
+        "count": 36
+    },
+    {
+        "_id": "DEBOLS!LLO",
+        "count": 3
+    },
+    {
+        "_id": "Hippo/Scholastic",
+        "count": 3
+    },
+    {
+        "_id": "Booket",
+        "count": 18
+    },
+    {
+        "_id": "Albert Whitman  Company",
+        "count": 6
+    },
+    {
+        "_id": "Piper",
+        "count": 6
+    },
+    {
+        "_id": "Miramax",
+        "count": 21
+    },
+    {
+        "_id": "MONDIAL",
+        "count": 12
+    },
+    {
+        "_id": "Blackwell Publishers",
+        "count": 33
+    },
+    {
+        "_id": "MIRA",
+        "count": 87
+    },
+    {
+        "_id": "Spark Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Overeaters Anonymous  Incorporated",
+        "count": 3
+    },
+    {
+        "_id": "Scholastic Reference",
+        "count": 3
+    },
+    {
+        "_id": "French & European Publications",
+        "count": 3
+    },
+    {
+        "_id": "Shadow Mountain",
+        "count": 30
+    },
+    {
+        "_id": "Harpercollins Childrens Books",
+        "count": 15
+    },
+    {
+        "_id": "Norma",
+        "count": 3
+    },
+    {
+        "_id": "Random House Value Publishing/TheViking Press",
+        "count": 3
+    },
+    {
+        "_id": "Univ Of Minnesota Press",
+        "count": 63
+    },
+    {
+        "_id": "Virago UK",
+        "count": 18
+    },
+    {
+        "_id": "The Liffey Press",
+        "count": 3
+    },
+    {
+        "_id": "Stonewall Inn Editions",
+        "count": 15
+    },
+    {
+        "_id": "New Tradition Books",
+        "count": 3
+    },
+    {
+        "_id": "Rayo",
+        "count": 42
+    },
+    {
+        "_id": "Random House Vintage",
+        "count": 15
+    },
+    {
+        "_id": "The Audio Partners",
+        "count": 3
+    },
+    {
+        "_id": "Tor Science Fiction",
+        "count": 36
+    },
+    {
+        "_id": "Warner Books",
+        "count": 315
+    },
+    {
+        "_id": "Fireside",
+        "count": 18
+    },
+    {
+        "_id": "Arlington House",
+        "count": 15
+    },
+    {
+        "_id": "Abacus Books (London)",
+        "count": 3
+    },
+    {
+        "_id": "HarperTempest",
+        "count": 45
+    },
+    {
+        "_id": "Delmar Thomson Learning",
+        "count": 3
+    },
+    {
+        "_id": "Grove Press  Open City Books",
+        "count": 6
+    },
+    {
+        "_id": "Kodansha",
+        "count": 24
+    },
+    {
+        "_id": "Abradale Books/Harry N. Abrams",
+        "count": 3
+    },
+    {
+        "_id": "Orion (an Imprint of The Orion Publishing Group Ltd )",
+        "count": 3
+    },
+    {
+        "_id": "Wiley (TP)",
+        "count": 3
+    },
+    {
+        "_id": "DAW Books (NY)",
+        "count": 3
+    },
+    {
+        "_id": "William Morrow & Company",
+        "count": 42
+    },
+    {
+        "_id": "New Harbinger Publications",
+        "count": 15
+    },
+    {
+        "_id": "Apress",
+        "count": 24
+    },
+    {
+        "_id": "University of Wisconsin Press",
+        "count": 6
+    },
+    {
+        "_id": "Vivendi",
+        "count": 3
+    },
+    {
+        "_id": "Modern Language Association of America",
+        "count": 3
+    },
+    {
+        "_id": "Sunstone Press",
+        "count": 3
+    },
+    {
+        "_id": "MIT Press (MA)",
+        "count": 15
+    },
+    {
+        "_id": "Berkley Books",
+        "count": 597
+    },
+    {
+        "_id": "Steerforth",
+        "count": 6
+    },
+    {
+        "_id": "Harlequin Special Releases",
+        "count": 6
+    },
+    {
+        "_id": "Mirrorstone",
+        "count": 3
+    },
+    {
+        "_id": "Sophia Institute Press",
+        "count": 3
+    },
+    {
+        "_id": "Tachyon Publications",
+        "count": 21
+    },
+    {
+        "_id": "Schocken Books",
+        "count": 21
+    },
+    {
+        "_id": "Veritas Publishing",
+        "count": 9
+    },
+    {
+        "_id": "Berkley Prime Crime Books",
+        "count": 3
+    },
+    {
+        "_id": "Texas A&M University Press",
+        "count": 3
+    },
+    {
+        "_id": "New Directions",
+        "count": 183
+    },
+    {
+        "_id": "Montlake Romance",
+        "count": 3
+    },
+    {
+        "_id": "Citadel",
+        "count": 123
+    },
+    {
+        "_id": "Del Rey Books (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Simon  Schuster Books for Young Readers",
+        "count": 81
+    },
+    {
+        "_id": "Orion",
+        "count": 189
+    },
+    {
+        "_id": "HarperPaperbacks",
+        "count": 15
+    },
+    {
+        "_id": "Encounter Books",
+        "count": 15
+    },
+    {
+        "_id": "Jove",
+        "count": 261
+    },
+    {
+        "_id": "B Books",
+        "count": 6
+    },
+    {
+        "_id": "Hyperio",
+        "count": 15
+    },
+    {
+        "_id": "Ave Maria Press",
+        "count": 6
+    },
+    {
+        "_id": "Usborne Books",
+        "count": 3
+    },
+    {
+        "_id": "Running Press Adult",
+        "count": 21
+    },
+    {
+        "_id": "Simon  Schuster/Paula Wiseman Books",
+        "count": 24
+    },
+    {
+        "_id": "Berkley Books (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Penguin-HighBridge",
+        "count": 3
+    },
+    {
+        "_id": "Regan Books",
+        "count": 15
+    },
+    {
+        "_id": "Vanderbilt University Press",
+        "count": 3
+    },
+    {
+        "_id": "Turtleback Books Distributed by Demco Media",
+        "count": 3
+    },
+    {
+        "_id": "Pragmatic Bookshelf",
+        "count": 36
+    },
+    {
+        "_id": "Vintage Crime",
+        "count": 15
+    },
+    {
+        "_id": "University of South Carolina Press",
+        "count": 3
+    },
+    {
+        "_id": "Moyer Bell and its subsidiaries",
+        "count": 63
+    },
+    {
+        "_id": "Harlequin",
+        "count": 57
+    },
+    {
+        "_id": "De Boekerij",
+        "count": 3
+    },
+    {
+        "_id": "Hawthorne Books",
+        "count": 15
+    },
+    {
+        "_id": "Orion Publishing Co.",
+        "count": 3
+    },
+    {
+        "_id": "Hachette Littérature",
+        "count": 3
+    },
+    {
+        "_id": "Harper Trophy",
+        "count": 30
+    },
+    {
+        "_id": "Public Square Books",
+        "count": 9
+    },
+    {
+        "_id": "Birlinn Ltd",
+        "count": 3
+    },
+    {
+        "_id": "South End Press (Boston)",
+        "count": 3
+    },
+    {
+        "_id": "Spectra",
+        "count": 270
+    },
+    {
+        "_id": "Cardoza",
+        "count": 15
+    },
+    {
+        "_id": "Polyface",
+        "count": 3
+    },
+    {
+        "_id": "Seuil",
+        "count": 15
+    },
+    {
+        "_id": "Phoenix Audio",
+        "count": 6
+    },
+    {
+        "_id": "Haus Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Houghton Mifflin Harcourt",
+        "count": 357
+    },
+    {
+        "_id": "J'AI LU",
+        "count": 3
+    },
+    {
+        "_id": "Putnam Adult",
+        "count": 84
+    },
+    {
+        "_id": "Goldmann",
+        "count": 24
+    },
+    {
+        "_id": "Simon & Schuster Childrens Books",
+        "count": 57
+    },
+    {
+        "_id": "NAL Trade",
+        "count": 33
+    },
+    {
+        "_id": "SparkNotes",
+        "count": 45
+    },
+    {
+        "_id": "Raintree",
+        "count": 3
+    },
+    {
+        "_id": "Harvard Common Press",
+        "count": 21
+    },
+    {
+        "_id": "Roaring Brook Press",
+        "count": 6
+    },
+    {
+        "_id": "Loeb Classical Library 307",
+        "count": 3
+    },
+    {
+        "_id": "HJ Kramer",
+        "count": 18
+    },
+    {
+        "_id": "St. Martin's True Crime",
+        "count": 18
+    },
+    {
+        "_id": "Harper Business",
+        "count": 75
+    },
+    {
+        "_id": "Harcourt Brace & Company",
+        "count": 3
+    },
+    {
+        "_id": "Overlook TP",
+        "count": 18
+    },
+    {
+        "_id": "Elloras Cave",
+        "count": 15
+    },
+    {
+        "_id": "Storey Publishing  LLC",
+        "count": 6
+    },
+    {
+        "_id": "Writer's Digest Books",
+        "count": 36
+    },
+    {
+        "_id": "Profile Books",
+        "count": 6
+    },
+    {
+        "_id": "Smart Pop",
+        "count": 9
+    },
+    {
+        "_id": "Luath Press Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Siete Cuentos",
+        "count": 3
+    },
+    {
+        "_id": "Woodbridge Press Publishing Company",
+        "count": 3
+    },
+    {
+        "_id": "Disney Enterprises",
+        "count": 3
+    },
+    {
+        "_id": "Harper",
+        "count": 384
+    },
+    {
+        "_id": "Penguin Books Ltd. (London)",
+        "count": 15
+    },
+    {
+        "_id": "Atheneum Books for Young Readers",
+        "count": 45
+    },
+    {
+        "_id": "Indigo",
+        "count": 3
+    },
+    {
+        "_id": "Fourth Estate (GB)",
+        "count": 15
+    },
+    {
+        "_id": "Microsoft Press",
+        "count": 36
+    },
+    {
+        "_id": "Liveright/W.W. Norton & Company  Inc.",
+        "count": 15
+    },
+    {
+        "_id": "Perennial / William Morrow / HarperCollins",
+        "count": 15
+    },
+    {
+        "_id": "Collectors Library",
+        "count": 3
+    },
+    {
+        "_id": "Ten Speed Press",
+        "count": 30
+    },
+    {
+        "_id": "Books on Tape",
+        "count": 18
+    },
+    {
+        "_id": "Annick Press",
+        "count": 3
+    },
+    {
+        "_id": "CRC Press",
+        "count": 3
+    },
+    {
+        "_id": "Fourth Estate Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Anagrama",
+        "count": 45
+    },
+    {
+        "_id": "RP Minis",
+        "count": 3
+    },
+    {
+        "_id": "Grove Press (NYC)",
+        "count": 15
+    },
+    {
+        "_id": "Suma de Letras Brasileiras",
+        "count": 3
+    },
+    {
+        "_id": "New Press",
+        "count": 9
+    },
+    {
+        "_id": "Xlibris Corporation",
+        "count": 3
+    },
+    {
+        "_id": "Simon & Schuster (Trade Division)",
+        "count": 18
+    },
+    {
+        "_id": "Morrow",
+        "count": 15
+    },
+    {
+        "_id": "Plume (Penguin Books Ltd)",
+        "count": 15
+    },
+    {
+        "_id": "Panther",
+        "count": 15
+    },
+    {
+        "_id": "Contemporary French Fiction",
+        "count": 15
+    },
+    {
+        "_id": "Bristol Classical Press",
+        "count": 15
+    },
+    {
+        "_id": "Helen Marx Books",
+        "count": 3
+    },
+    {
+        "_id": "Canadian Broadcasting Corporation (CBC Audio)",
+        "count": 6
+    },
+    {
+        "_id": "Orion Paperbacks",
+        "count": 3
+    },
+    {
+        "_id": "Inter-Varsity Press",
+        "count": 3
+    },
+    {
+        "_id": "BenBella Books",
+        "count": 15
+    },
+    {
+        "_id": "Award Books",
+        "count": 3
+    },
+    {
+        "_id": "HarperPerennial / Perennial Classics",
+        "count": 15
+    },
+    {
+        "_id": "Multnomah",
+        "count": 24
+    },
+    {
+        "_id": "Macmillan Audio",
+        "count": 21
+    },
+    {
+        "_id": "Bollingen/Princeton University Press (NJ)",
+        "count": 15
+    },
+    {
+        "_id": "Delta",
+        "count": 390
+    },
+    {
+        "_id": "Yearling",
+        "count": 228
+    },
+    {
+        "_id": "Schocken",
+        "count": 87
+    },
+    {
+        "_id": "Hyperion Paperbacks",
+        "count": 15
+    },
+    {
+        "_id": "Dedalus Limited",
+        "count": 3
+    },
+    {
+        "_id": "Pocket Books/Star Trek",
+        "count": 15
+    },
+    {
+        "_id": "Leete's Island Books",
+        "count": 15
+    },
+    {
+        "_id": "Ann Arbor Media",
+        "count": 9
+    },
+    {
+        "_id": "Folio",
+        "count": 6
+    },
+    {
+        "_id": "Douglas & McIntyre",
+        "count": 6
+    },
+    {
+        "_id": "iUniverse",
+        "count": 21
+    },
+    {
+        "_id": "New Press  The",
+        "count": 3
+    },
+    {
+        "_id": "Sholom Aleichem Family Publications",
+        "count": 3
+    },
+    {
+        "_id": "Silhouette Desire",
+        "count": 24
+    },
+    {
+        "_id": "Penguin (Non-Classics)",
+        "count": 18
+    },
+    {
+        "_id": "TIme Warner Books",
+        "count": 15
+    },
+    {
+        "_id": "Random House Reference Publishing",
+        "count": 3
+    },
+    {
+        "_id": "HarperCollins Publishers",
+        "count": 396
+    },
+    {
+        "_id": "Hyperion Books",
+        "count": 48
+    },
+    {
+        "_id": "Alfred A. Knopf",
+        "count": 285
+    },
+    {
+        "_id": "Clarion Books",
+        "count": 48
+    },
+    {
+        "_id": "YoungJin Singapore Pte. Ltd.",
+        "count": 3
+    },
+    {
+        "_id": "Applause Theatre & Cinema Book Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Tanglewood",
+        "count": 15
+    },
+    {
+        "_id": "W Publishing Group",
+        "count": 3
+    },
+    {
+        "_id": "Leisure",
+        "count": 15
+    },
+    {
+        "_id": "Galahad Books",
+        "count": 6
+    },
+    {
+        "_id": "Coronet Books (GB)",
+        "count": 18
+    },
+    {
+        "_id": "Thames & Hudson Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Droemer Knaur",
+        "count": 3
+    },
+    {
+        "_id": "Tin House Books",
+        "count": 3
+    },
+    {
+        "_id": "Westview Press",
+        "count": 3
+    },
+    {
+        "_id": "W. W. Norton & Co.",
+        "count": 3
+    },
+    {
+        "_id": "Dover Publications (NYC)",
+        "count": 3
+    },
+    {
+        "_id": "South End Press",
+        "count": 3
+    },
+    {
+        "_id": "Roca Editorial",
+        "count": 6
+    },
+    {
+        "_id": "Sun & Moon Press",
+        "count": 3
+    },
+    {
+        "_id": "Harper Teen",
+        "count": 15
+    },
+    {
+        "_id": "Tinder Press",
+        "count": 3
+    },
+    {
+        "_id": "Inter Varsity Press",
+        "count": 3
+    },
+    {
+        "_id": "Edaf S.A.",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Young Readers",
+        "count": 3
+    },
+    {
+        "_id": "Wordsworth Classics",
+        "count": 3
+    },
+    {
+        "_id": "Sagebrush",
+        "count": 3
+    },
+    {
+        "_id": "Gallopade International",
+        "count": 3
+    },
+    {
+        "_id": "Chelsea House Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Little Brown",
+        "count": 18
+    },
+    {
+        "_id": "University Press of Florida",
+        "count": 9
+    },
+    {
+        "_id": "Ediciones Urano",
+        "count": 3
+    },
+    {
+        "_id": "Grand Central Publishing",
+        "count": 996
+    },
+    {
+        "_id": "Gollancz",
+        "count": 69
+    },
+    {
+        "_id": "Ignatius Press",
+        "count": 27
+    },
+    {
+        "_id": "Live Oak Media",
+        "count": 3
+    },
+    {
+        "_id": "Hesperus Press",
+        "count": 6
+    },
+    {
+        "_id": "Overlook Press",
+        "count": 6
+    },
+    {
+        "_id": "Booksales",
+        "count": 6
+    },
+    {
+        "_id": "New American Library",
+        "count": 24
+    },
+    {
+        "_id": "Omohundro Institute and University of North Carolina Press",
+        "count": 15
+    },
+    {
+        "_id": "Focus Publishing/R. Pullins Company",
+        "count": 3
+    },
+    {
+        "_id": "Seal Books",
+        "count": 45
+    },
+    {
+        "_id": "Virago Press Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Simple Productions",
+        "count": 3
+    },
+    {
+        "_id": "Noonday Press",
+        "count": 15
+    },
+    {
+        "_id": "Sourcebooks",
+        "count": 21
+    },
+    {
+        "_id": "University Press of America",
+        "count": 3
+    },
+    {
+        "_id": "Wheeler Publishing",
+        "count": 12
+    },
+    {
+        "_id": "Farrar Straus Giroux",
+        "count": 114
+    },
+    {
+        "_id": "Pearson Longman",
+        "count": 15
+    },
+    {
+        "_id": "Feminist Press",
+        "count": 15
+    },
+    {
+        "_id": "Aurum Press",
+        "count": 3
+    },
+    {
+        "_id": "Razorbill",
+        "count": 30
+    },
+    {
+        "_id": "Cornerstone Press Chicago",
+        "count": 3
+    },
+    {
+        "_id": "Dedalus",
+        "count": 3
+    },
+    {
+        "_id": "Crystal Clarity Publishers",
+        "count": 6
+    },
+    {
+        "_id": "Methuen Publishing",
+        "count": 9
+    },
+    {
+        "_id": "Modern Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Tarcher",
+        "count": 18
+    },
+    {
+        "_id": "Beltz und Gelberg",
+        "count": 3
+    },
+    {
+        "_id": "Headline Book Pub Ltd",
+        "count": 3
+    },
+    {
+        "_id": "North Point Press",
+        "count": 42
+    },
+    {
+        "_id": "Barnes  Noble",
+        "count": 6
+    },
+    {
+        "_id": "Prestwick House - (Literary Touchstone Classic)",
+        "count": 15
+    },
+    {
+        "_id": "PerfectBound",
+        "count": 3
+    },
+    {
+        "_id": "Routledge Taylor & Francis Books Ltd imprint",
+        "count": 15
+    },
+    {
+        "_id": "Minnesota Heritage Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Dell Yearling",
+        "count": 3
+    },
+    {
+        "_id": "Hyperion Books for Children",
+        "count": 6
+    },
+    {
+        "_id": "Disney-Hyperion",
+        "count": 75
+    },
+    {
+        "_id": "Chalice Press",
+        "count": 6
+    },
+    {
+        "_id": "Billboard Books",
+        "count": 3
+    },
+    {
+        "_id": "Hyperion",
+        "count": 63
+    },
+    {
+        "_id": "Granta Books",
+        "count": 3
+    },
+    {
+        "_id": "BBC Books",
+        "count": 18
+    },
+    {
+        "_id": "Bloomsbury / Continuum",
+        "count": 3
+    },
+    {
+        "_id": "集英社",
+        "count": 36
+    },
+    {
+        "_id": "Travelers' Tales",
+        "count": 3
+    },
+    {
+        "_id": "Vendome Press",
+        "count": 3
+    },
+    {
+        "_id": "Council Oak Books",
+        "count": 3
+    },
+    {
+        "_id": "Scholastic Inc.",
+        "count": 171
+    },
+    {
+        "_id": "DAW",
+        "count": 399
+    },
+    {
+        "_id": "Viking Adult",
+        "count": 93
+    },
+    {
+        "_id": "Hackett Publ. Co Inc",
+        "count": 6
+    },
+    {
+        "_id": "Gollehon Books",
+        "count": 3
+    },
+    {
+        "_id": "Harvard Business Review Press",
+        "count": 33
+    },
+    {
+        "_id": "Vanguard Press",
+        "count": 30
+    },
+    {
+        "_id": "Project Management Institute",
+        "count": 3
+    },
+    {
+        "_id": "St. Martin's Paperback",
+        "count": 15
+    },
+    {
+        "_id": "Potomac Books",
+        "count": 18
+    },
+    {
+        "_id": "Simon & Schuster Libros en Español",
+        "count": 3
+    },
+    {
+        "_id": "Prentice Hall/Scribner/Macmillan",
+        "count": 3
+    },
+    {
+        "_id": "Greenwood Press",
+        "count": 3
+    },
+    {
+        "_id": "Plaza & Janés Editores  S.A.",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Press HC  The",
+        "count": 36
+    },
+    {
+        "_id": "Focus on the Family Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Fischer Taschenbuch Verlag",
+        "count": 3
+    },
+    {
+        "_id": "Doubleday",
+        "count": 72
+    },
+    {
+        "_id": "Disney Press",
+        "count": 54
+    },
+    {
+        "_id": "Westminster John Knox Press",
+        "count": 12
+    },
+    {
+        "_id": "Mills & Boon",
+        "count": 3
+    },
+    {
+        "_id": "FaithWords",
+        "count": 21
+    },
+    {
+        "_id": "Barnes & Noble Books",
+        "count": 3
+    },
+    {
+        "_id": "Tommy Nelson",
+        "count": 6
+    },
+    {
+        "_id": "Longman",
+        "count": 3
+    },
+    {
+        "_id": "Reader's Digest Association",
+        "count": 3
+    },
+    {
+        "_id": "HarperResource",
+        "count": 15
+    },
+    {
+        "_id": "Kodansha America",
+        "count": 6
+    },
+    {
+        "_id": "Four Walls Eight Windows Press",
+        "count": 3
+    },
+    {
+        "_id": "Ace Book",
+        "count": 15
+    },
+    {
+        "_id": "Silhouette",
+        "count": 42
+    },
+    {
+        "_id": "Creation Books",
+        "count": 6
+    },
+    {
+        "_id": "List",
+        "count": 9
+    },
+    {
+        "_id": "Manchester University Press",
+        "count": 3
+    },
+    {
+        "_id": "Graphics Press",
+        "count": 3
+    },
+    {
+        "_id": "Cherry Lane Music Company",
+        "count": 3
+    },
+    {
+        "_id": "Hamish Hamilton Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Silhouette Romance",
+        "count": 6
+    },
+    {
+        "_id": "Robson Books  London",
+        "count": 3
+    },
+    {
+        "_id": "DC Comics Vertigo",
+        "count": 45
+    },
+    {
+        "_id": "Dabel Brothers Productions",
+        "count": 3
+    },
+    {
+        "_id": "Nick Hern Books",
+        "count": 12
+    },
+    {
+        "_id": "Sceptre",
+        "count": 18
+    },
+    {
+        "_id": "Thomas Y. Crowell Company",
+        "count": 3
+    },
+    {
+        "_id": "Michael Joseph",
+        "count": 15
+    },
+    {
+        "_id": "Viking Children's Books",
+        "count": 30
+    },
+    {
+        "_id": "Bantam Classics",
+        "count": 141
+    },
+    {
+        "_id": "Norton and Co.",
+        "count": 3
+    },
+    {
+        "_id": "BBC Physical Audio",
+        "count": 15
+    },
+    {
+        "_id": "Quarry Press",
+        "count": 3
+    },
+    {
+        "_id": "Luna Books",
+        "count": 138
+    },
+    {
+        "_id": "Byblos",
+        "count": 3
+    },
+    {
+        "_id": "Tor Classics",
+        "count": 18
+    },
+    {
+        "_id": "The Putnam & Grosset Group",
+        "count": 15
+    },
+    {
+        "_id": "Dhv der Hörverlag",
+        "count": 3
+    },
+    {
+        "_id": "Firebrand Books",
+        "count": 3
+    },
+    {
+        "_id": "Knopf Doubleday Publishing Group",
+        "count": 3
+    },
+    {
+        "_id": "Howard Books",
+        "count": 18
+    },
+    {
+        "_id": "Bedford/St. Martin's",
+        "count": 3
+    },
+    {
+        "_id": "Adventures Unlimited Press",
+        "count": 6
+    },
+    {
+        "_id": "G. P. Putnam's Sons",
+        "count": 3
+    },
+    {
+        "_id": "Black Swan",
+        "count": 120
+    },
+    {
+        "_id": "Book Publishing Company (TN)",
+        "count": 15
+    },
+    {
+        "_id": "Verso",
+        "count": 129
+    },
+    {
+        "_id": "Dark Horse",
+        "count": 27
+    },
+    {
+        "_id": "Chicken House / Scholastic",
+        "count": 15
+    },
+    {
+        "_id": "Penguin Workshop",
+        "count": 18
+    },
+    {
+        "_id": "French & European",
+        "count": 3
+    },
+    {
+        "_id": "Éditions de L'Olivier",
+        "count": 3
+    },
+    {
+        "_id": "Archie Comics",
+        "count": 3
+    },
+    {
+        "_id": "Square One Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Simon & Schuster Audio",
+        "count": 54
+    },
+    {
+        "_id": "The Crossroad Publishing Company",
+        "count": 3
+    },
+    {
+        "_id": "Holloway House",
+        "count": 18
+    },
+    {
+        "_id": "Harvard University Press",
+        "count": 159
+    },
+    {
+        "_id": "Penguin/Viking Compass (Non-Classics)",
+        "count": 3
+    },
+    {
+        "_id": "Phébus",
+        "count": 15
+    },
+    {
+        "_id": "McClelland & Stewart",
+        "count": 18
+    },
+    {
+        "_id": "Greenwood",
+        "count": 3
+    },
+    {
+        "_id": "Panamericana Editorial",
+        "count": 3
+    },
+    {
+        "_id": "Poorhouse Press",
+        "count": 15
+    },
+    {
+        "_id": "Naiad Press",
+        "count": 6
+    },
+    {
+        "_id": "Pomegranate Communications",
+        "count": 15
+    },
+    {
+        "_id": "Lama Foundation (San Cristobal  NM)",
+        "count": 15
+    },
+    {
+        "_id": "Not Avail",
+        "count": 27
+    },
+    {
+        "_id": "Tyndale House Publishers",
+        "count": 294
+    },
+    {
+        "_id": "Macmillan Children's Books",
+        "count": 15
+    },
+    {
+        "_id": "Vantage Press",
+        "count": 3
+    },
+    {
+        "_id": "Millipede Press",
+        "count": 15
+    },
+    {
+        "_id": "AudioGO",
+        "count": 75
+    },
+    {
+        "_id": "Doubleday & Company  Inc.",
+        "count": 15
+    },
+    {
+        "_id": "P. F. Collier and Sons",
+        "count": 3
+    },
+    {
+        "_id": "Marvel Comics Group",
+        "count": 45
+    },
+    {
+        "_id": "Titan Books",
+        "count": 18
+    },
+    {
+        "_id": "Glénat",
+        "count": 27
+    },
+    {
+        "_id": "University of Georgia Press",
+        "count": 12
+    },
+    {
+        "_id": "Random House",
+        "count": 294
+    },
+    {
+        "_id": "Vintage/Random House (NY)",
+        "count": 33
+    },
+    {
+        "_id": "Salani",
+        "count": 3
+    },
+    {
+        "_id": "KiWi",
+        "count": 3
+    },
+    {
+        "_id": "Aspect",
+        "count": 39
+    },
+    {
+        "_id": "Regnery Publishing",
+        "count": 33
+    },
+    {
+        "_id": "Five Star Trade",
+        "count": 3
+    },
+    {
+        "_id": "Random House  Inc.",
+        "count": 21
+    },
+    {
+        "_id": "Grupo Océano",
+        "count": 3
+    },
+    {
+        "_id": "Puffin Group",
+        "count": 15
+    },
+    {
+        "_id": "Harper Perennial (HarperCollins)",
+        "count": 15
+    },
+    {
+        "_id": "Brookline Books",
+        "count": 3
+    },
+    {
+        "_id": "Alpha",
+        "count": 6
+    },
+    {
+        "_id": "Bright Sky Press",
+        "count": 3
+    },
+    {
+        "_id": "Library of Liberal Arts/Bobb-Merrill (Indianapolis  IN)",
+        "count": 15
+    },
+    {
+        "_id": "Contemporary Books",
+        "count": 15
+    },
+    {
+        "_id": "Midnight Ink",
+        "count": 3
+    },
+    {
+        "_id": "Edicións Xerais de Galicia  S.A.",
+        "count": 3
+    },
+    {
+        "_id": "Pan MacMillan",
+        "count": 12
+    },
+    {
+        "_id": "Owlet Paperbacks",
+        "count": 3
+    },
+    {
+        "_id": "Plaza & Janés",
+        "count": 15
+    },
+    {
+        "_id": "Warner Adult",
+        "count": 3
+    },
+    {
+        "_id": "That Patchwork Place",
+        "count": 3
+    },
+    {
+        "_id": "LGF",
+        "count": 15
+    },
+    {
+        "_id": "ComicsLit",
+        "count": 3
+    },
+    {
+        "_id": "Chatto and Windus",
+        "count": 6
+    },
+    {
+        "_id": "Haymarket Books",
+        "count": 6
+    },
+    {
+        "_id": "BBC Audiobooks Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Artisan",
+        "count": 6
+    },
+    {
+        "_id": "Harper Audio",
+        "count": 3
+    },
+    {
+        "_id": "Ash-Tree Press",
+        "count": 3
+    },
+    {
+        "_id": "Topaz",
+        "count": 3
+    },
+    {
+        "_id": "American University in Cairo Press",
+        "count": 3
+    },
+    {
+        "_id": "Scribner Classics",
+        "count": 6
+    },
+    {
+        "_id": "Rizzoli",
+        "count": 24
+    },
+    {
+        "_id": "New Riders Publishing",
+        "count": 21
+    },
+    {
+        "_id": "Broadway Business",
+        "count": 15
+    },
+    {
+        "_id": "Spectra/Bantam Books (NYC)",
+        "count": 3
+    },
+    {
+        "_id": "Random House Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Johns Hopkins University Press",
+        "count": 48
+    },
+    {
+        "_id": "Warner Forever",
+        "count": 30
+    },
+    {
+        "_id": "Greenwillow Books",
+        "count": 204
+    },
+    {
+        "_id": "Pineapple Press",
+        "count": 3
+    },
+    {
+        "_id": "Pocket Star",
+        "count": 120
+    },
+    {
+        "_id": "List Taschenbuch",
+        "count": 3
+    },
+    {
+        "_id": "Simon & Schuster Books for Young Readers",
+        "count": 45
+    },
+    {
+        "_id": "National Geographic Society",
+        "count": 15
+    },
+    {
+        "_id": "Tom Doherty Tor Fantasy",
+        "count": 15
+    },
+    {
+        "_id": "EOS",
+        "count": 15
+    },
+    {
+        "_id": "Union Square Press",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Group(CA)",
+        "count": 6
+    },
+    {
+        "_id": "Book Publishing Company",
+        "count": 3
+    },
+    {
+        "_id": "iBooks",
+        "count": 39
+    },
+    {
+        "_id": "SaltRiver",
+        "count": 15
+    },
+    {
+        "_id": "Cambridge University Press/The New Cambridge Shakespeare",
+        "count": 3
+    },
+    {
+        "_id": "HarperCollins Leadership",
+        "count": 18
+    },
+    {
+        "_id": "Shambhala Publications",
+        "count": 15
+    },
+    {
+        "_id": "University of Washington Press",
+        "count": 12
+    },
+    {
+        "_id": "MacMillan General Books",
+        "count": 21
+    },
+    {
+        "_id": "Flamingo",
+        "count": 24
+    },
+    {
+        "_id": "Delacorte Press",
+        "count": 246
+    },
+    {
+        "_id": "Presidio Press",
+        "count": 15
+    },
+    {
+        "_id": "The New York Review Children's Collection",
+        "count": 3
+    },
+    {
+        "_id": "Academic Press",
+        "count": 3
+    },
+    {
+        "_id": "Wadsworth Publishing Company",
+        "count": 12
+    },
+    {
+        "_id": "Material World",
+        "count": 15
+    },
+    {
+        "_id": "Michael O'Mara",
+        "count": 3
+    },
+    {
+        "_id": "Bertrand",
+        "count": 3
+    },
+    {
+        "_id": "Barricade Books",
+        "count": 6
+    },
+    {
+        "_id": "Penguin",
+        "count": 486
+    },
+    {
+        "_id": "Kensington",
+        "count": 141
+    },
+    {
+        "_id": "Baronet Books",
+        "count": 15
+    },
+    {
+        "_id": "Abrams",
+        "count": 18
+    },
+    {
+        "_id": "Berkley Publishing Group",
+        "count": 66
+    },
+    {
+        "_id": "Association for Supervision & Curriculum Development",
+        "count": 6
+    },
+    {
+        "_id": "Trine Day",
+        "count": 15
+    },
+    {
+        "_id": "Faber  Faber",
+        "count": 78
+    },
+    {
+        "_id": "Poseidon Press",
+        "count": 3
+    },
+    {
+        "_id": "Lippincott Williams & Wilkins",
+        "count": 3
+    },
+    {
+        "_id": "Children's Classics",
+        "count": 15
+    },
+    {
+        "_id": "Points",
+        "count": 3
+    },
+    {
+        "_id": "MJF Books",
+        "count": 3
+    },
+    {
+        "_id": "Poppy",
+        "count": 30
+    },
+    {
+        "_id": "Chatto  Windus",
+        "count": 18
+    },
+    {
+        "_id": "Prentice Hall/Library of Liberal Arts",
+        "count": 3
+    },
+    {
+        "_id": "Record",
+        "count": 3
+    },
+    {
+        "_id": "Adamant Media Corporation",
+        "count": 3
+    },
+    {
+        "_id": "Puzzle-Roca",
+        "count": 3
+    },
+    {
+        "_id": "Joanna Cotler Books",
+        "count": 15
+    },
+    {
+        "_id": "DAW Books",
+        "count": 36
+    },
+    {
+        "_id": "Anchor",
+        "count": 726
+    },
+    {
+        "_id": "Columbia Pictures Pubns",
+        "count": 15
+    },
+    {
+        "_id": "Prestwick House",
+        "count": 3
+    },
+    {
+        "_id": "Pantheon Books (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Fantasy Flight Games",
+        "count": 3
+    },
+    {
+        "_id": "Sun and Moon Press",
+        "count": 18
+    },
+    {
+        "_id": "Collins Design",
+        "count": 3
+    },
+    {
+        "_id": "Random House Audio Publishing Group",
+        "count": 57
+    },
+    {
+        "_id": "House of Anansi Press",
+        "count": 3
+    },
+    {
+        "_id": "Sidran Press",
+        "count": 3
+    },
+    {
+        "_id": "Focus",
+        "count": 9
+    },
+    {
+        "_id": "Fawcett Crest Books",
+        "count": 18
+    },
+    {
+        "_id": "Small Beer Press",
+        "count": 6
+    },
+    {
+        "_id": "Picador USA",
+        "count": 360
+    },
+    {
+        "_id": "Oddysey/Harcourt Young Classics",
+        "count": 15
+    },
+    {
+        "_id": "W.W. Norton & Company (NY/London)",
+        "count": 3
+    },
+    {
+        "_id": "ビブロス",
+        "count": 3
+    },
+    {
+        "_id": "Big Finish",
+        "count": 3
+    },
+    {
+        "_id": "O'Brien Press",
+        "count": 3
+    },
+    {
+        "_id": "Editorial Juventud",
+        "count": 3
+    },
+    {
+        "_id": "Rosenberg Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Addison-Wesley Professional",
+        "count": 48
+    },
+    {
+        "_id": "Yale University Press",
+        "count": 135
+    },
+    {
+        "_id": "Howard University Press",
+        "count": 15
+    },
+    {
+        "_id": "Park Street Press",
+        "count": 3
+    },
+    {
+        "_id": "Laurel",
+        "count": 6
+    },
+    {
+        "_id": "HarperSanFrancisco",
+        "count": 15
+    },
+    {
+        "_id": "Ace Hardcover",
+        "count": 15
+    },
+    {
+        "_id": "Sounds True",
+        "count": 15
+    },
+    {
+        "_id": "Alfred A. Knopf  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Sphere",
+        "count": 12
+    },
+    {
+        "_id": "Highbridge Audio",
+        "count": 3
+    },
+    {
+        "_id": "Hodder",
+        "count": 39
+    },
+    {
+        "_id": "Better Homes and Gardens Books",
+        "count": 3
+    },
+    {
+        "_id": "Berkley Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Griffin",
+        "count": 45
+    },
+    {
+        "_id": "Pearson Education",
+        "count": 3
+    },
+    {
+        "_id": "Alliance Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Fanfare",
+        "count": 21
+    },
+    {
+        "_id": "AMR/Advanced Management Reports",
+        "count": 3
+    },
+    {
+        "_id": "BALLANTINE BOOKS",
+        "count": 15
+    },
+    {
+        "_id": "Top Shelf Productions",
+        "count": 30
+    },
+    {
+        "_id": "McDougal Littel",
+        "count": 3
+    },
+    {
+        "_id": "Methuen Drama",
+        "count": 3
+    },
+    {
+        "_id": "Del Rey Fantasy",
+        "count": 6
+    },
+    {
+        "_id": "Twenty-First Century Books (CT)",
+        "count": 3
+    },
+    {
+        "_id": "Samuel French Ltd",
+        "count": 18
+    },
+    {
+        "_id": "Digital Manga Publishing / Dark Horse",
+        "count": 63
+    },
+    {
+        "_id": "Teaching Resources",
+        "count": 12
+    },
+    {
+        "_id": "Jones Books",
+        "count": 15
+    },
+    {
+        "_id": "Seven Stories Press",
+        "count": 66
+    },
+    {
+        "_id": "Regal Books",
+        "count": 3
+    },
+    {
+        "_id": "HarperCollins (SanFrancisco)",
+        "count": 3
+    },
+    {
+        "_id": "Modern Library Classics",
+        "count": 18
+    },
+    {
+        "_id": "Arthur A. Levine Books / Scholastic Inc.",
+        "count": 15
+    },
+    {
+        "_id": "Del Rey Ballantine Random House",
+        "count": 15
+    },
+    {
+        "_id": "Book of the Month Club",
+        "count": 3
+    },
+    {
+        "_id": "Ballantine Books (NY)",
+        "count": 18
+    },
+    {
+        "_id": "Klett",
+        "count": 3
+    },
+    {
+        "_id": "Island",
+        "count": 15
+    },
+    {
+        "_id": "Vintage Books a division of Random House",
+        "count": 15
+    },
+    {
+        "_id": "Apple Paperbacks (Scholastic)",
+        "count": 15
+    },
+    {
+        "_id": "Large Print Press",
+        "count": 6
+    },
+    {
+        "_id": "Harcourt",
+        "count": 117
+    },
+    {
+        "_id": "Piatkus Books",
+        "count": 18
+    },
+    {
+        "_id": "Laurel Press",
+        "count": 15
+    },
+    {
+        "_id": "Vintage/Random House Inc. (NYC)",
+        "count": 3
+    },
+    {
+        "_id": "Fontana",
+        "count": 18
+    },
+    {
+        "_id": "Barnes & Noble Classics",
+        "count": 48
+    },
+    {
+        "_id": "Kabel  Verlag GmbH Ernst",
+        "count": 3
+    },
+    {
+        "_id": "Prometheus Books",
+        "count": 30
+    },
+    {
+        "_id": "State University of New York Press",
+        "count": 3
+    },
+    {
+        "_id": "Broadview Press Inc",
+        "count": 39
+    },
+    {
+        "_id": "Three Rivers Press (CA)",
+        "count": 54
+    },
+    {
+        "_id": "Sterling",
+        "count": 105
+    },
+    {
+        "_id": "Random House Trade Paperbacks",
+        "count": 297
+    },
+    {
+        "_id": "Sunburst",
+        "count": 15
+    },
+    {
+        "_id": "Robert Rose",
+        "count": 3
+    },
+    {
+        "_id": "Wildside Press",
+        "count": 33
+    },
+    {
+        "_id": "Island Books",
+        "count": 15
+    },
+    {
+        "_id": "Basic Books (AZ)",
+        "count": 3
+    },
+    {
+        "_id": "Living Books",
+        "count": 3
+    },
+    {
+        "_id": "Universe",
+        "count": 6
+    },
+    {
+        "_id": "Rivages",
+        "count": 15
+    },
+    {
+        "_id": "Kensington Publishing Corporation",
+        "count": 45
+    },
+    {
+        "_id": "VeloPress",
+        "count": 3
+    },
+    {
+        "_id": "Seal",
+        "count": 15
+    },
+    {
+        "_id": "Aerie",
+        "count": 3
+    },
+    {
+        "_id": "Bloomsbury",
+        "count": 69
+    },
+    {
+        "_id": "Editions de l'Olivier",
+        "count": 3
+    },
+    {
+        "_id": "P & R Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Crown",
+        "count": 69
+    },
+    {
+        "_id": "Dramatists Play Service",
+        "count": 57
+    },
+    {
+        "_id": "Mestas Ediciones",
+        "count": 3
+    },
+    {
+        "_id": "Specialty Press",
+        "count": 3
+    },
+    {
+        "_id": "Scholastic Audio Books",
+        "count": 6
+    },
+    {
+        "_id": "Bantam Classic",
+        "count": 15
+    },
+    {
+        "_id": "TarcherPerigee",
+        "count": 36
+    },
+    {
+        "_id": "Dutton Adult",
+        "count": 3
+    },
+    {
+        "_id": "Harrison House",
+        "count": 3
+    },
+    {
+        "_id": "Wipf & Stock Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Dark Horse Manga",
+        "count": 66
+    },
+    {
+        "_id": "Copernicus Books",
+        "count": 3
+    },
+    {
+        "_id": "Jump at the Sun",
+        "count": 3
+    },
+    {
+        "_id": "Fellowship for the Performance",
+        "count": 3
+    },
+    {
+        "_id": "University Press of Kentucky",
+        "count": 6
+    },
+    {
+        "_id": "Northwestern University Press",
+        "count": 33
+    },
+    {
+        "_id": "City Lights Publishers",
+        "count": 54
+    },
+    {
+        "_id": "High Point Media",
+        "count": 3
+    },
+    {
+        "_id": "America's Test Kitchen",
+        "count": 6
+    },
+    {
+        "_id": "Disinformation Company",
+        "count": 18
+    },
+    {
+        "_id": "Albury Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Tom Doherty Associates",
+        "count": 15
+    },
+    {
+        "_id": "Doubleday Publishing (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Graywolf Press",
+        "count": 18
+    },
+    {
+        "_id": "Stenhouse Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Tokyopop",
+        "count": 3
+    },
+    {
+        "_id": "Literatura Random House",
+        "count": 3
+    },
+    {
+        "_id": "Minotaur Books",
+        "count": 78
+    },
+    {
+        "_id": "Rupa & Co",
+        "count": 15
+    },
+    {
+        "_id": "Denoël",
+        "count": 15
+    },
+    {
+        "_id": "Dell Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Albin Michel",
+        "count": 27
+    },
+    {
+        "_id": "One World (UK)",
+        "count": 6
+    },
+    {
+        "_id": "Hazelden Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Mayfield Publishing Company (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Pippin Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Brill/Rodopi",
+        "count": 3
+    },
+    {
+        "_id": "Simon Schuster",
+        "count": 60
+    },
+    {
+        "_id": "Praeger Publishers",
+        "count": 3
+    },
+    {
+        "_id": "Castle Books",
+        "count": 45
+    },
+    {
+        "_id": "Marion Boyars Publishers",
+        "count": 6
+    },
+    {
+        "_id": "Voice",
+        "count": 3
+    },
+    {
+        "_id": "University of Massachusetts Press",
+        "count": 9
+    },
+    {
+        "_id": "Redleaf Press",
+        "count": 3
+    },
+    {
+        "_id": "Plume Books",
+        "count": 159
+    },
+    {
+        "_id": "Routledge",
+        "count": 159
+    },
+    {
+        "_id": "Health Communications",
+        "count": 3
+    },
+    {
+        "_id": "LWW",
+        "count": 6
+    },
+    {
+        "_id": "The Modern Library New York",
+        "count": 3
+    },
+    {
+        "_id": "Gürze Books",
+        "count": 3
+    },
+    {
+        "_id": "Ediciones Glénat España",
+        "count": 3
+    },
+    {
+        "_id": "Paris Press",
+        "count": 15
+    },
+    {
+        "_id": "Konemann",
+        "count": 3
+    },
+    {
+        "_id": "Krause Publications",
+        "count": 3
+    },
+    {
+        "_id": "New Millennium Library",
+        "count": 15
+    },
+    {
+        "_id": "DAW Fantasy",
+        "count": 15
+    },
+    {
+        "_id": "US Green Building Council",
+        "count": 3
+    },
+    {
+        "_id": "Regnery History",
+        "count": 3
+    },
+    {
+        "_id": "Advantage World Press",
+        "count": 3
+    },
+    {
+        "_id": "Swallow Press",
+        "count": 15
+    },
+    {
+        "_id": "Sleeping Bear Press",
+        "count": 6
+    },
+    {
+        "_id": "Portfolio",
+        "count": 15
+    },
+    {
+        "_id": "Mira (Mills and Boon)",
+        "count": 3
+    },
+    {
+        "_id": "Taylor Productions Ltd",
+        "count": 15
+    },
+    {
+        "_id": "Arkana",
+        "count": 3
+    },
+    {
+        "_id": "Fawcett Crest",
+        "count": 3
+    },
+    {
+        "_id": "Dover Publications (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Mark Cahill Ministries",
+        "count": 3
+    },
+    {
+        "_id": "William Morrow & Company  Inc.",
+        "count": 15
+    },
+    {
+        "_id": "Baton Wicks",
+        "count": 3
+    },
+    {
+        "_id": "William Morrow; 1ST edition",
+        "count": 15
+    },
+    {
+        "_id": "Sage Publications Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Everyman Paperback Classics",
+        "count": 3
+    },
+    {
+        "_id": "Little  Brown Young Readers",
+        "count": 48
+    },
+    {
+        "_id": "Penguin Books Limited",
+        "count": 21
+    },
+    {
+        "_id": "Bantam Books (NY)",
+        "count": 9
+    },
+    {
+        "_id": "Counterpoint",
+        "count": 36
+    },
+    {
+        "_id": "Kregel Publications",
+        "count": 3
+    },
+    {
+        "_id": "Meisha Merlin Publishing",
+        "count": 12
+    },
+    {
+        "_id": "Penguin Press",
+        "count": 18
+    },
+    {
+        "_id": "Poisoned Pen Press",
+        "count": 6
+    },
+    {
+        "_id": "International Polygonics",
+        "count": 3
+    },
+    {
+        "_id": "Black Sparrow Press",
+        "count": 18
+    },
+    {
+        "_id": "HarperTorch (an imprint of HarperCollins Publishers)",
+        "count": 15
+    },
+    {
+        "_id": "Oberon Books",
+        "count": 3
+    },
+    {
+        "_id": "Gallery Books",
+        "count": 144
+    },
+    {
+        "_id": "Eerdmans",
+        "count": 3
+    },
+    {
+        "_id": "Continuum",
+        "count": 3
+    },
+    {
+        "_id": "Destiny Image Incorporated",
+        "count": 3
+    },
+    {
+        "_id": "John F. Blair  Publisher",
+        "count": 6
+    },
+    {
+        "_id": "Planeta",
+        "count": 18
+    },
+    {
+        "_id": "Roc Hardcover",
+        "count": 15
+    },
+    {
+        "_id": "Tantor Media",
+        "count": 42
+    },
+    {
+        "_id": "Faber & Faber Limited",
+        "count": 3
+    },
+    {
+        "_id": "Orbit Books",
+        "count": 3
+    },
+    {
+        "_id": "Signet Book",
+        "count": 123
+    },
+    {
+        "_id": "Games Workshop",
+        "count": 18
+    },
+    {
+        "_id": "Grupo Editorial Norma  S.A.",
+        "count": 3
+    },
+    {
+        "_id": "Berrett-Koehler Publishers",
+        "count": 24
+    },
+    {
+        "_id": "MacMillan Children's Books",
+        "count": 3
+    },
+    {
+        "_id": "W.W. Norton & Company (NYC)",
+        "count": 30
+    },
+    {
+        "_id": "Alderac Entertainment Group",
+        "count": 3
+    },
+    {
+        "_id": "Collector's Library",
+        "count": 6
+    },
+    {
+        "_id": "Presses de La Cite",
+        "count": 3
+    },
+    {
+        "_id": "Wayne State University Press",
+        "count": 6
+    },
+    {
+        "_id": "Delcourt",
+        "count": 9
+    },
+    {
+        "_id": "Disney Hyperion Books",
+        "count": 30
+    },
+    {
+        "_id": "Europa Editions",
+        "count": 33
+    },
+    {
+        "_id": "Candlewick Press",
+        "count": 222
+    },
+    {
+        "_id": "Baen Books",
+        "count": 81
+    },
+    {
+        "_id": "University Press of Kansas",
+        "count": 12
+    },
+    {
+        "_id": "Arbordale Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Orchard",
+        "count": 3
+    },
+    {
+        "_id": "Andrews and McMeel",
+        "count": 3
+    },
+    {
+        "_id": "Pegasus Books",
+        "count": 3
+    },
+    {
+        "_id": "Dial Books",
+        "count": 18
+    },
+    {
+        "_id": "Treat Enterprises",
+        "count": 3
+    },
+    {
+        "_id": "Peter Smith Publisher",
+        "count": 15
+    },
+    {
+        "_id": "University of Calgary Press",
+        "count": 3
+    },
+    {
+        "_id": "Avon Books (P)",
+        "count": 3
+    },
+    {
+        "_id": "Dey Street Books",
+        "count": 36
+    },
+    {
+        "_id": "Laurel Leaf",
+        "count": 108
+    },
+    {
+        "_id": "DAW Hardcover",
+        "count": 3
+    },
+    {
+        "_id": "Vermilion",
+        "count": 51
+    },
+    {
+        "_id": "McGraw-Hill Humanities/Social Sciences/Languages",
+        "count": 9
+    },
+    {
+        "_id": "Arcadia Publishing",
+        "count": 9
+    },
+    {
+        "_id": "The Orion Publishing Group Ltd",
+        "count": 15
+    },
+    {
+        "_id": "Boosey & Hawkes Inc",
+        "count": 3
+    },
+    {
+        "_id": "Barnes  Noble Classics",
+        "count": 204
+    },
+    {
+        "_id": "HarperVoyager",
+        "count": 15
+    },
+    {
+        "_id": "Warner Books (NY)",
+        "count": 219
+    },
+    {
+        "_id": "Avery Publishing Group",
+        "count": 18
+    },
+    {
+        "_id": "National Park Service",
+        "count": 3
+    },
+    {
+        "_id": "Holt McDougal",
+        "count": 66
+    },
+    {
+        "_id": "Prentice Hall",
+        "count": 87
+    },
+    {
+        "_id": "Nostalgia Ventures",
+        "count": 3
+    },
+    {
+        "_id": "Weidenfeld & Nicolson",
+        "count": 6
+    },
+    {
+        "_id": "University of Illinois Press",
+        "count": 12
+    },
+    {
+        "_id": "Onyx",
+        "count": 90
+    },
+    {
+        "_id": "Rizzoli International Publications",
+        "count": 6
+    },
+    {
+        "_id": "Kregel Academic & Professional",
+        "count": 3
+    },
+    {
+        "_id": "Orchard Books (NY)",
+        "count": 15
+    },
+    {
+        "_id": "Nelson Current",
+        "count": 15
+    },
+    {
+        "_id": "Phoenix Press",
+        "count": 15
+    },
+    {
+        "_id": "Scholastic Nonfiction",
+        "count": 3
+    },
+    {
+        "_id": "Feiwel & Friends",
+        "count": 15
+    },
+    {
+        "_id": "Eros Comix",
+        "count": 3
+    },
+    {
+        "_id": "Yearling Books",
+        "count": 75
+    },
+    {
+        "_id": "St. Martin's Press",
+        "count": 468
+    },
+    {
+        "_id": "Bethany House Publishers",
+        "count": 54
+    },
+    {
+        "_id": "Bear  Company",
+        "count": 3
+    },
+    {
+        "_id": "Van Patten Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Broadway",
+        "count": 15
+    },
+    {
+        "_id": "Carroll & Graf",
+        "count": 3
+    },
+    {
+        "_id": "Peerage Books",
+        "count": 3
+    },
+    {
+        "_id": "Dr. Master Productions Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Books USA Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Vacation Work Publications",
+        "count": 3
+    },
+    {
+        "_id": "Taplinger Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Serpent's Tail",
+        "count": 27
+    },
+    {
+        "_id": "Blue Sky Press",
+        "count": 3
+    },
+    {
+        "_id": "Collins Modern Classics",
+        "count": 3
+    },
+    {
+        "_id": "Ember",
+        "count": 75
+    },
+    {
+        "_id": "McGraw-Hill",
+        "count": 21
+    },
+    {
+        "_id": "Bantam (Fanfare Imprint)",
+        "count": 30
+    },
+    {
+        "_id": "Harcourt  Brace  Jovanovich",
+        "count": 3
+    },
+    {
+        "_id": "Belknap Press of Harvard University Press",
+        "count": 18
+    },
+    {
+        "_id": "Editions 10/18",
+        "count": 18
+    },
+    {
+        "_id": "Bloomsbury Children's Books",
+        "count": 15
+    },
+    {
+        "_id": "Ecco Press",
+        "count": 33
+    },
+    {
+        "_id": "Back Bay Books",
+        "count": 480
+    },
+    {
+        "_id": "Éditions de Minuit",
+        "count": 15
+    },
+    {
+        "_id": "Timber Press (OR)",
+        "count": 3
+    },
+    {
+        "_id": "Center Point",
+        "count": 3
+    },
+    {
+        "_id": "Pocket",
+        "count": 87
+    },
+    {
+        "_id": "Polygon",
+        "count": 3
+    },
+    {
+        "_id": "Kaplan",
+        "count": 12
+    },
+    {
+        "_id": "Fleming H Revell Co",
+        "count": 3
+    },
+    {
+        "_id": "MIT Press (Cambridge  MA)",
+        "count": 3
+    },
+    {
+        "_id": "Bantam (Fanfare)",
+        "count": 15
+    },
+    {
+        "_id": "Dell",
+        "count": 267
+    },
+    {
+        "_id": "Everyman",
+        "count": 36
+    },
+    {
+        "_id": "Webster's New World",
+        "count": 3
+    },
+    {
+        "_id": "Bloomsbury Academic",
+        "count": 93
+    },
+    {
+        "_id": "Welcome Books",
+        "count": 3
+    },
+    {
+        "_id": "Acento Editorial",
+        "count": 3
+    },
+    {
+        "_id": "McGraw-Hill Companies",
+        "count": 18
+    },
+    {
+        "_id": "Knowledge Products",
+        "count": 3
+    },
+    {
+        "_id": "Berkley Heat",
+        "count": 15
+    },
+    {
+        "_id": "Findakly",
+        "count": 3
+    },
+    {
+        "_id": "Johnson Publishing Company (IL)",
+        "count": 3
+    },
+    {
+        "_id": "First Avenue Editions (Tm)",
+        "count": 3
+    },
+    {
+        "_id": "Health Communications Inc",
+        "count": 18
+    },
+    {
+        "_id": "Hachette",
+        "count": 6
+    },
+    {
+        "_id": "Random House Anchor",
+        "count": 15
+    },
+    {
+        "_id": "Editions Gallimard",
+        "count": 3
+    },
+    {
+        "_id": "Cliffs Notes",
+        "count": 117
+    },
+    {
+        "_id": "Julie Andrews Collection",
+        "count": 3
+    },
+    {
+        "_id": "Llewellyn Publications",
+        "count": 21
+    },
+    {
+        "_id": "Rufus Publications",
+        "count": 3
+    },
+    {
+        "_id": "Dervy",
+        "count": 3
+    },
+    {
+        "_id": "Nan A. Talese",
+        "count": 45
+    },
+    {
+        "_id": "Clarkson Potter",
+        "count": 81
+    },
+    {
+        "_id": "Nelson Books",
+        "count": 30
+    },
+    {
+        "_id": "Universe Publishing(NY)",
+        "count": 3
+    },
+    {
+        "_id": "Crown Forum",
+        "count": 3
+    },
+    {
+        "_id": "HMH Books for Young Readers",
+        "count": 297
+    },
+    {
+        "_id": "Multnomah Books",
+        "count": 36
+    },
+    {
+        "_id": "Titan Books Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Chosen Books",
+        "count": 6
+    },
+    {
+        "_id": "Greenery Press (CA)",
+        "count": 3
+    },
+    {
+        "_id": "Intercultural Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Books (Penguin Classics)",
+        "count": 3
+    },
+    {
+        "_id": "G.P. Putnam's Sons Books for Young Readers",
+        "count": 21
+    },
+    {
+        "_id": "HQN Books",
+        "count": 15
+    },
+    {
+        "_id": "Ryland Peters & Small",
+        "count": 3
+    },
+    {
+        "_id": "Dtv",
+        "count": 3
+    },
+    {
+        "_id": "Harper Perennial Classics",
+        "count": 15
+    },
+    {
+        "_id": "Nova Fronteira",
+        "count": 3
+    },
+    {
+        "_id": "Recorded Books",
+        "count": 12
+    },
+    {
+        "_id": "Ecco/Harper Perennial",
+        "count": 15
+    },
+    {
+        "_id": "Wesleyan University Press",
+        "count": 3
+    },
+    {
+        "_id": "Modern Library",
+        "count": 726
+    },
+    {
+        "_id": "Da Capo Press",
+        "count": 87
+    },
+    {
+        "_id": "Corgi Books (Adult)",
+        "count": 3
+    },
+    {
+        "_id": "Ivan R. Dee",
+        "count": 3
+    },
+    {
+        "_id": "Cátedra",
+        "count": 3
+    },
+    {
+        "_id": "Arcadia Publishing (SC)",
+        "count": 12
+    },
+    {
+        "_id": "Fab Press",
+        "count": 3
+    },
+    {
+        "_id": "Darton  Longman & Todd",
+        "count": 15
+    },
+    {
+        "_id": "Addison Wesley Publishing Company",
+        "count": 27
+    },
+    {
+        "_id": "B Fiction",
+        "count": 3
+    },
+    {
+        "_id": "Harlequin Books",
+        "count": 6
+    },
+    {
+        "_id": "Renaissance Books",
+        "count": 15
+    },
+    {
+        "_id": "Hill & Wang",
+        "count": 15
+    },
+    {
+        "_id": "Recorded Books  Inc.",
+        "count": 30
+    },
+    {
+        "_id": "New Island Books",
+        "count": 6
+    },
+    {
+        "_id": "The Guilford Press",
+        "count": 12
+    },
+    {
+        "_id": "Vision",
+        "count": 195
+    },
+    {
+        "_id": "Backinprint.com",
+        "count": 9
+    },
+    {
+        "_id": "Pocket Books",
+        "count": 1317
+    },
+    {
+        "_id": "Gingko Press",
+        "count": 18
+    },
+    {
+        "_id": "Scholastic  Inc.",
+        "count": 111
+    },
+    {
+        "_id": "McGraw-Hill Science/Engineering/Math",
+        "count": 3
+    },
+    {
+        "_id": "Puzzle-Via Magna",
+        "count": 3
+    },
+    {
+        "_id": "Three Rivers Press",
+        "count": 90
+    },
+    {
+        "_id": "Hodder & Stoughton",
+        "count": 45
+    },
+    {
+        "_id": "Bantem Press",
+        "count": 15
+    },
+    {
+        "_id": "Time Warner Paperbacks",
+        "count": 18
+    },
+    {
+        "_id": "Speak",
+        "count": 69
+    },
+    {
+        "_id": "Steidl",
+        "count": 3
+    },
+    {
+        "_id": "The Monacelli Press",
+        "count": 6
+    },
+    {
+        "_id": "Orion Children's Books",
+        "count": 3
+    },
+    {
+        "_id": "Clarkson Potter Publishers",
+        "count": 18
+    },
+    {
+        "_id": "Minnesota Historical Society Press",
+        "count": 6
+    },
+    {
+        "_id": "Penguin Books /Penguin Classics",
+        "count": 15
+    },
+    {
+        "_id": "聯經出版事業股份有限公司",
+        "count": 6
+    },
+    {
+        "_id": "G.P. Putnam's Sons",
+        "count": 552
+    },
+    {
+        "_id": "ECW Press",
+        "count": 3
+    },
+    {
+        "_id": "Prentice Hall/Simon & Schuster Company (Englewood Cliffs  NJ)",
+        "count": 3
+    },
+    {
+        "_id": "University of Toronto Press",
+        "count": 3
+    },
+    {
+        "_id": "Zebra",
+        "count": 54
+    },
+    {
+        "_id": "Houghton Mifflin Harcourt P",
+        "count": 6
+    },
+    {
+        "_id": "Cosmos Books (OH)",
+        "count": 3
+    },
+    {
+        "_id": "McFarland & Company",
+        "count": 3
+    },
+    {
+        "_id": "J'ai lu",
+        "count": 24
+    },
+    {
+        "_id": "Waking Lion Press",
+        "count": 18
+    },
+    {
+        "_id": "Loeb Classical Library",
+        "count": 15
+    },
+    {
+        "_id": "Bantam Starfire",
+        "count": 3
+    },
+    {
+        "_id": "Delacorte Books",
+        "count": 15
+    },
+    {
+        "_id": "Starfire",
+        "count": 15
+    },
+    {
+        "_id": "Vintage Books USA",
+        "count": 114
+    },
+    {
+        "_id": "University of Arkansas Press",
+        "count": 6
+    },
+    {
+        "_id": "Harry N. Abrams",
+        "count": 315
+    },
+    {
+        "_id": "Pinnacle",
+        "count": 21
+    },
+    {
+        "_id": "Windsor Golden Series",
+        "count": 3
+    },
+    {
+        "_id": "Tropismos",
+        "count": 3
+    },
+    {
+        "_id": "Tor Books",
+        "count": 804
+    },
+    {
+        "_id": "Owl Books (Henry Holt)",
+        "count": 15
+    },
+    {
+        "_id": "Schirmer/Mosel",
+        "count": 3
+    },
+    {
+        "_id": "One World/Ballantine",
+        "count": 15
+    },
+    {
+        "_id": "William B. Eerdmans Publishing Company",
+        "count": 21
+    },
+    {
+        "_id": "St. Augustines Press",
+        "count": 3
+    },
+    {
+        "_id": "Carlsen",
+        "count": 12
+    },
+    {
+        "_id": "Tuttle Publishing",
+        "count": 18
+    },
+    {
+        "_id": "Ig Publishing",
+        "count": 3
+    },
+    {
+        "_id": "University of Utah Press",
+        "count": 3
+    },
+    {
+        "_id": "Voyageur Press",
+        "count": 6
+    },
+    {
+        "_id": "Sterling Publishing Co.  Inc.",
+        "count": 3
+    },
+    {
+        "_id": "Scholastic Books",
+        "count": 45
+    },
+    {
+        "_id": "Thomas Publications (PA)",
+        "count": 3
+    },
+    {
+        "_id": "Vintage",
+        "count": 3750
+    },
+    {
+        "_id": "Corgi Childrens",
+        "count": 18
+    },
+    {
+        "_id": "Montena",
+        "count": 9
+    },
+    {
+        "_id": "The Disinformation Company (NYC)",
+        "count": 3
+    },
+    {
+        "_id": "Silhouette Bombshell",
+        "count": 3
+    },
+    {
+        "_id": "Hub City Press",
+        "count": 3
+    },
+    {
+        "_id": "Titan",
+        "count": 3
+    },
+    {
+        "_id": "BBC Audiobooks America",
+        "count": 3
+    },
+    {
+        "_id": "DAW SF",
+        "count": 3
+    },
+    {
+        "_id": "Polychrome Publishing Corporation",
+        "count": 3
+    },
+    {
+        "_id": "Blanvalet Verlag GmbH",
+        "count": 3
+    },
+    {
+        "_id": "Owl Books (NY)",
+        "count": 3
+    },
+    {
+        "_id": "Penguin Classics Deluxe Editions",
+        "count": 15
+    },
+    {
+        "_id": "Festival",
+        "count": 3
+    },
+    {
+        "_id": "Gallimard Jeunesse",
+        "count": 6
+    },
+    {
+        "_id": "Malhavoc Press",
+        "count": 3
+    },
+    {
+        "_id": "CMX",
+        "count": 15
+    },
+    {
+        "_id": "東立",
+        "count": 24
+    },
+    {
+        "_id": "Arcade Publishing",
+        "count": 15
+    },
+    {
+        "_id": "University of Chicago Press",
+        "count": 234
+    },
+    {
+        "_id": "Kindle",
+        "count": 3
+    },
+    {
+        "_id": "Faber & Faber",
+        "count": 117
+    },
+    {
+        "_id": "Lübbe",
+        "count": 15
+    },
+    {
+        "_id": "Puffin",
+        "count": 171
+    },
+    {
+        "_id": "Harper Collins",
+        "count": 21
+    },
+    {
+        "_id": "Wildstorm",
+        "count": 30
+    },
+    {
+        "_id": "Legend",
+        "count": 15
+    },
+    {
+        "_id": "Simon & Schuster Paperbacks",
+        "count": 15
+    },
+    {
+        "_id": "George Braziller",
+        "count": 3
+    },
+    {
+        "_id": "Headline Feature",
+        "count": 15
+    },
+    {
+        "_id": "Deodand Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Hachette Audio",
+        "count": 9
+    },
+    {
+        "_id": "Arkham House Publishers",
+        "count": 6
+    },
+    {
+        "_id": "Smithmark Publishers",
+        "count": 18
+    },
+    {
+        "_id": "Michael O'Mara Books",
+        "count": 3
+    },
+    {
+        "_id": "Inner City Books",
+        "count": 3
+    },
+    {
+        "_id": "Sweet Valley",
+        "count": 18
+    },
+    {
+        "_id": "Benjamin Cummings",
+        "count": 3
+    },
+    {
+        "_id": "History Press Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Serpents Tail",
+        "count": 15
+    },
+    {
+        "_id": "St. Martin's",
+        "count": 3
+    },
+    {
+        "_id": "EMC/Paradigm Publishing",
+        "count": 3
+    },
+    {
+        "_id": "Random House (NY)",
+        "count": 78
+    },
+    {
+        "_id": "Ace Trade",
+        "count": 6
+    },
+    {
+        "_id": "Random House Large Print Publishing",
+        "count": 15
+    },
+    {
+        "_id": "Payot",
+        "count": 6
+    },
+    {
+        "_id": "Mountaineers Books",
+        "count": 3
+    },
+    {
+        "_id": "Amereon Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Godsfield Press Ltd",
+        "count": 3
+    },
+    {
+        "_id": "Amistad",
+        "count": 114
+    },
+    {
+        "_id": "Turtleback",
+        "count": 18
+    },
+    {
+        "_id": "Sidgwick & Jackson Ltd",
+        "count": 15
+    },
+    {
+        "_id": "Bradford Book",
+        "count": 12
+    },
+    {
+        "_id": "Daimon Verlag",
+        "count": 3
+    },
+    {
+        "_id": "Audio Literature",
+        "count": 3
+    },
+    {
+        "_id": "Barn Owl Books",
+        "count": 3
+    },
+    {
+        "_id": "Gardners Books",
+        "count": 18
+    },
+    {
+        "_id": "Joanna Cotler Books/HarperCollinsPublishers",
+        "count": 15
+    },
+    {
+        "_id": "Hodder & Stoughton Ltd",
+        "count": 6
+    },
+    {
+        "_id": "Doherty  Tom Associates  LLC",
+        "count": 3
+    },
+    {
+        "_id": "Deadite Press (Eraserhead Press)",
+        "count": 3
+    },
+    {
+        "_id": "University of North Carolina Press",
+        "count": 9
+    },
+    {
+        "_id": "Baen",
+        "count": 174
+    },
+    {
+        "_id": "Waveland Press",
+        "count": 3
+    }
+]

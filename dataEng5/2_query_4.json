@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "Инженер",
+        "minSalary": 22917,
+        "avgSalary": 124191.87931034483,
+        "maxSalary": 199712
+    },
+    {
+        "_id": "Архитектор",
+        "minSalary": 23428,
+        "avgSalary": 104233.39344262295,
+        "maxSalary": 196831
+    },
+    {
+        "_id": "Водитель",
+        "minSalary": 24311,
+        "avgSalary": 113527.68493150685,
+        "maxSalary": 198397
+    },
+    {
+        "_id": "Повар",
+        "minSalary": 22937,
+        "avgSalary": 109552.11688311688,
+        "maxSalary": 199887
+    },
+    {
+        "_id": "Бухгалтер",
+        "minSalary": 20803,
+        "avgSalary": 98707.29032258065,
+        "maxSalary": 199602
+    },
+    {
+        "_id": "IT-специалист",
+        "minSalary": 20602,
+        "avgSalary": 118845.68235294118,
+        "maxSalary": 198455
+    },
+    {
+        "_id": "Учитель",
+        "minSalary": 21335,
+        "avgSalary": 108030.07142857143,
+        "maxSalary": 199881
+    },
+    {
+        "_id": "Врач",
+        "minSalary": 21563,
+        "avgSalary": 116746.63636363637,
+        "maxSalary": 199613
+    },
+    {
+        "_id": "Оператор call-центра",
+        "minSalary": 22927,
+        "avgSalary": 101491.4,
+        "maxSalary": 197417
+    },
+    {
+        "_id": "Медсестра",
+        "minSalary": 20636,
+        "avgSalary": 103188.6835443038,
+        "maxSalary": 197320
+    },
+    {
+        "_id": "Психолог",
+        "minSalary": 21755,
+        "avgSalary": 106160.93421052632,
+        "maxSalary": 198957
+    },
+    {
+        "_id": "Менеджер",
+        "minSalary": 23577,
+        "avgSalary": 112456.98412698413,
+        "maxSalary": 193884
+    },
+    {
+        "_id": "Программист",
+        "minSalary": 21545,
+        "avgSalary": 110030.23076923077,
+        "maxSalary": 199428
+    },
+    {
+        "_id": "Продавец",
+        "minSalary": 21783,
+        "avgSalary": 108330.77586206897,
+        "maxSalary": 197483
+    },
+    {
+        "_id": "Косметолог",
+        "minSalary": 25378,
+        "avgSalary": 111756.7042253521,
+        "maxSalary": 199550
+    },
+    {
+        "_id": "Строитель",
+        "minSalary": 20351,
+        "avgSalary": 104009.17045454546,
+        "maxSalary": 196577
+    }
+]

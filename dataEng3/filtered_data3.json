@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Ригель 5594",
+        "constellation": "Рыбы",
+        "spectral_class": "Z3S",
+        "radius": 52253214.0,
+        "rotation": 333.76,
+        "age": 1.94,
+        "distance": 9856717.82,
+        "absolute_magnitude": 2.91
+    },
+    {
+        "name": "Ригель 3087",
+        "constellation": "Рыбы",
+        "spectral_class": "V2B",
+        "radius": 53431309.0,
+        "rotation": 345.33,
+        "age": 0.8,
+        "distance": 325396.15,
+        "absolute_magnitude": 9.52
+    },
+    {
+        "name": "Акрукс 7355",
+        "constellation": "Рыбы",
+        "spectral_class": "V2Y",
+        "radius": 63841428.0,
+        "rotation": 283.1,
+        "age": 4.73,
+        "distance": 4724242.47,
+        "absolute_magnitude": 4.95
+    },
+    {
+        "name": "Антарес 1507",
+        "constellation": "Рыбы",
+        "spectral_class": "W1I",
+        "radius": 298957999.0,
+        "rotation": 112.05,
+        "age": 3.07,
+        "distance": 1585797.51,
+        "absolute_magnitude": 9.61
+    },
+    {
+        "name": "Фомальгаут 4425",
+        "constellation": "Рыбы",
+        "spectral_class": "O3F",
+        "radius": 527187338.0,
+        "rotation": 717.21,
+        "age": 5.43,
+        "distance": 7398305.76,
+        "absolute_magnitude": 2.98
+    },
+    {
+        "name": "Солнце 4336",
+        "constellation": "Рыбы",
+        "spectral_class": "L6R",
+        "radius": 871350658.0,
+        "rotation": 162.79,
+        "age": 1.62,
+        "distance": 9030152.03,
+        "absolute_magnitude": 7.61
+    },
+    {
+        "name": "Акрукс 7129",
+        "constellation": "Рыбы",
+        "spectral_class": "V6R",
+        "radius": 955119086.0,
+        "rotation": 225.49,
+        "age": 0.3,
+        "distance": 3955918.01,
+        "absolute_magnitude": 3.3
+    },
+    {
+        "name": "Фомалхаут 5093",
+        "constellation": "Рыбы",
+        "spectral_class": "E0M",
+        "radius": 552436438.0,
+        "rotation": 617.08,
+        "age": 0.89,
+        "distance": 7618081.37,
+        "absolute_magnitude": 2.51
+    },
+    {
+        "name": "Солнце 2772",
+        "constellation": "Рыбы",
+        "spectral_class": "X4Z",
+        "radius": 943315921.0,
+        "rotation": 839.68,
+        "age": 5.42,
+        "distance": 2137103.61,
+        "absolute_magnitude": 2.35
+    },
+    {
+        "name": "Бетельгейзе 4663",
+        "constellation": "Рыбы",
+        "spectral_class": "A7K",
+        "radius": 906739133.0,
+        "rotation": 492.9,
+        "age": 5.81,
+        "distance": 9112246.65,
+        "absolute_magnitude": 6.04
+    },
+    {
+        "name": "Антарес 8526",
+        "constellation": "Рыбы",
+        "spectral_class": "N2C",
+        "radius": 523811036.0,
+        "rotation": 304.82,
+        "age": 2.47,
+        "distance": 3727218.57,
+        "absolute_magnitude": 8.13
+    },
+    {
+        "name": "Ригель 4006",
+        "constellation": "Рыбы",
+        "spectral_class": "Y7B",
+        "radius": 739474391.0,
+        "rotation": 435.42,
+        "age": 2.92,
+        "distance": 8194200.38,
+        "absolute_magnitude": 2.69
+    },
+    {
+        "name": "Ригель 5450",
+        "constellation": "Рыбы",
+        "spectral_class": "Q6R",
+        "radius": 627104152.0,
+        "rotation": 247.89,
+        "age": 5.7,
+        "distance": 3951135.04,
+        "absolute_magnitude": 7.84
+    },
+    {
+        "name": "Акрукс 2246",
+        "constellation": "Рыбы",
+        "spectral_class": "U8S",
+        "radius": 334574114.0,
+        "rotation": 442.1,
+        "age": 2.34,
+        "distance": 1588918.14,
+        "absolute_magnitude": 1.27
+    },
+    {
+        "name": "Альфа Центавра 8131",
+        "constellation": "Рыбы",
+        "spectral_class": "X8M",
+        "radius": 393683699.0,
+        "rotation": 584.85,
+        "age": 1.09,
+        "distance": 8326688.06,
+        "absolute_magnitude": 6.85
+    },
+    {
+        "name": "Фомалхаут 9315",
+        "constellation": "Рыбы",
+        "spectral_class": "O3C",
+        "radius": 409585900.0,
+        "rotation": 741.13,
+        "age": 2.99,
+        "distance": 5080955.91,
+        "absolute_magnitude": 5.45
+    },
+    {
+        "name": "Фомалхаут 6706",
+        "constellation": "Рыбы",
+        "spectral_class": "T8Z",
+        "radius": 789647890.0,
+        "rotation": 491.54,
+        "age": 4.69,
+        "distance": 4630205.71,
+        "absolute_magnitude": 8.32
+    },
+    {
+        "name": "Бетельгейзе 3338",
+        "constellation": "Рыбы",
+        "spectral_class": "N1X",
+        "radius": 137594729.0,
+        "rotation": 653.71,
+        "age": 5.47,
+        "distance": 1869640.1,
+        "absolute_magnitude": 3.36
+    }
+]

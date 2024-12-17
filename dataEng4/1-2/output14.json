@@ -1,0 +1,312 @@
+[
+    {
+        "id": 738883,
+        "name": "Макартур 1970",
+        "city": "Вроцлав",
+        "begin": "20.12",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2542.0,
+        "time_on_game": 20
+    },
+    {
+        "id": 246581,
+        "name": "Линарес 2007",
+        "city": "Аликанте",
+        "begin": "04.06",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2426.0,
+        "time_on_game": 22
+    },
+    {
+        "id": 715452,
+        "name": "Цюрих 2008",
+        "city": "Гранада",
+        "begin": "09.11",
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2584.0,
+        "time_on_game": 33
+    },
+    {
+        "id": 528302,
+        "name": "Линарес 1956",
+        "city": "Аликанте",
+        "begin": "11.10",
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2487.0,
+        "time_on_game": 35
+    },
+    {
+        "id": 911215,
+        "name": "Вена 1973",
+        "city": "Сьюдад-Реаль",
+        "begin": "09.04",
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2524.0,
+        "time_on_game": 43
+    },
+    {
+        "id": 806695,
+        "name": "Европа 1964",
+        "city": "Камбадос",
+        "begin": "27.11",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2606.0,
+        "time_on_game": 44
+    },
+    {
+        "id": 478591,
+        "name": "Турнир претендентов 1969",
+        "city": "Бургос",
+        "begin": "25.02",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2499.0,
+        "time_on_game": 45
+    },
+    {
+        "id": 182705,
+        "name": "Сент-Луис 2012",
+        "city": "Киев",
+        "begin": "21.08",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2344.0,
+        "time_on_game": 49
+    },
+    {
+        "id": 397600,
+        "name": "Мемориал Таля 1989",
+        "city": "Мартоса",
+        "begin": "02.04",
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2622.0,
+        "time_on_game": 57
+    },
+    {
+        "id": 475173,
+        "name": "Sinquefield Cup 2004",
+        "city": "Кишинев",
+        "begin": "25.09",
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2285.0,
+        "time_on_game": 57
+    },
+    {
+        "id": 560591,
+        "name": "Дортмунд 2024",
+        "city": "Вроцлав",
+        "begin": "22.10",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2341.0,
+        "time_on_game": 64
+    },
+    {
+        "id": 385064,
+        "name": "Турнир претендентов 1972",
+        "city": "Хихон",
+        "begin": "16.10",
+        "system": "Olympic",
+        "tours_count": 15,
+        "min_rating": 2587.0,
+        "time_on_game": 68
+    },
+    {
+        "id": 463882,
+        "name": "Шамкович 1998",
+        "city": "Севилья",
+        "begin": "06.06",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2634.0,
+        "time_on_game": 68
+    },
+    {
+        "id": 261980,
+        "name": "Хогевен 1974",
+        "city": "Киев",
+        "begin": "02.01",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2465.0,
+        "time_on_game": 74
+    },
+    {
+        "id": 186096,
+        "name": "Макартур 1990",
+        "city": "Хихон",
+        "begin": "19.02",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2378.0,
+        "time_on_game": 81
+    },
+    {
+        "id": 573247,
+        "name": "Лондон 2015",
+        "city": "Алма-Ата",
+        "begin": "03.07",
+        "system": "Olympic",
+        "tours_count": 14,
+        "min_rating": 2339.0,
+        "time_on_game": 84
+    },
+    {
+        "id": 743835,
+        "name": "Шамкович 1991",
+        "city": "Санкт-Петербург",
+        "begin": "22.07",
+        "system": "Olympic",
+        "tours_count": 13,
+        "min_rating": 2591.0,
+        "time_on_game": 89
+    },
+    {
+        "id": 635034,
+        "name": "Политика 2010",
+        "city": "Сеговия",
+        "begin": "07.12",
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2447.0,
+        "time_on_game": 92
+    },
+    {
+        "id": 656826,
+        "name": "Пойковский 2005",
+        "city": "Навалькарнеро",
+        "begin": "24.03",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2252.0,
+        "time_on_game": 96
+    },
+    {
+        "id": 426159,
+        "name": "Гран-при ФИДЕ 1957",
+        "city": "Навалькарнеро",
+        "begin": "03.01",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2358.0,
+        "time_on_game": 112
+    },
+    {
+        "id": 986638,
+        "name": "Пойковский 1960",
+        "city": "Самора",
+        "begin": "03.09",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2430.0,
+        "time_on_game": 114
+    },
+    {
+        "id": 889146,
+        "name": "Тилбург 1967",
+        "city": "Барселона",
+        "begin": "13.11",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2300.0,
+        "time_on_game": 115
+    },
+    {
+        "id": 225422,
+        "name": "Европа 1969",
+        "city": "Вроцлав",
+        "begin": "21.11",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2443.0,
+        "time_on_game": 123
+    },
+    {
+        "id": 342136,
+        "name": "Сент-Луис 1977",
+        "city": "Кишинев",
+        "begin": "13.01",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2439.0,
+        "time_on_game": 130
+    },
+    {
+        "id": 774516,
+        "name": "Аэрофлот Опен 2019",
+        "city": "Бишкек",
+        "begin": "24.06",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2439.0,
+        "time_on_game": 130
+    },
+    {
+        "id": 174154,
+        "name": "Sinquefield Cup 1957",
+        "city": "Барселона",
+        "begin": "04.09",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2212.0,
+        "time_on_game": 133
+    },
+    {
+        "id": 611570,
+        "name": "Алушта 1964",
+        "city": "Хихон",
+        "begin": "19.09",
+        "system": "Olympic",
+        "tours_count": 6,
+        "min_rating": 2225.0,
+        "time_on_game": 136
+    },
+    {
+        "id": 314915,
+        "name": "Турнир претендентов 2008",
+        "city": "Тбилиси",
+        "begin": "07.09",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2446.0,
+        "time_on_game": 137
+    },
+    {
+        "id": 481189,
+        "name": "Лондон 1956",
+        "city": "Баку",
+        "begin": "28.12",
+        "system": "Olympic",
+        "tours_count": 6,
+        "min_rating": 2481.0,
+        "time_on_game": 138
+    },
+    {
+        "id": 511069,
+        "name": "Политика 1980",
+        "city": "Артейхо",
+        "begin": "20.02",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2341.0,
+        "time_on_game": 144
+    },
+    {
+        "id": 208505,
+        "name": "Ставангер 2015",
+        "city": "Алма-Ата",
+        "begin": "25.07",
+        "system": "Olympic",
+        "tours_count": 6,
+        "min_rating": 2216.0,
+        "time_on_game": 152
+    }
+]

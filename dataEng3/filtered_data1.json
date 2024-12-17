@@ -1,0 +1,145 @@
+[
+    {
+        "category": "фэнтези",
+        "title": "Бойня номер пять, или Крестовый поход детей",
+        "author": "Алан Александр Милн",
+        "pages": 428,
+        "year": 1957,
+        "ISBN": "113-8707354493",
+        "description": "Описаниеdescription",
+        "rating": 4.3,
+        "views": 99883
+    },
+    {
+        "category": "фэнтези",
+        "title": "1984",
+        "author": "Сельма Лагерлёф",
+        "pages": 408,
+        "year": 1942,
+        "ISBN": "246-8453651164\n    ",
+        "description": "    Описание\n     middle\n    ",
+        "rating": 3.5,
+        "views": 99543
+    },
+    {
+        "category": "фэнтези",
+        "title": "Лев, колдунья и платяной шкаф",
+        "author": "Федор Достоевский",
+        "pages": 417,
+        "year": 2012,
+        "ISBN": "278-3503963237",
+        "description": "Описаниеdescription",
+        "rating": 3.0,
+        "views": 18986
+    },
+    {
+        "category": "фэнтези",
+        "title": "Сумерки",
+        "author": "Ясунари Кавабата",
+        "pages": 460,
+        "year": 1828,
+        "ISBN": "248-6373092328\n    ",
+        "description": "    Описание\n     small\n    ",
+        "rating": 2.4,
+        "views": 54400
+    },
+    {
+        "category": "фэнтези",
+        "title": "Твин Пикс: Воспоминания специального агента ФБР Дейла Купера",
+        "author": "Антон Чехов",
+        "pages": 275,
+        "year": 1930,
+        "ISBN": "905-4570261597\n    ",
+        "description": "    Описание\n     write it yourself\n    ",
+        "rating": 2.5,
+        "views": 39351
+    },
+    {
+        "category": "фэнтези",
+        "title": "Портрет Дориана Грея",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "pages": 353,
+        "year": 1946,
+        "ISBN": "251-7740737140",
+        "description": "Описаниеsmall",
+        "rating": 2.7,
+        "views": 3614
+    },
+    {
+        "category": "фэнтези",
+        "title": "Кандида",
+        "author": "Исаак Бабель",
+        "pages": 363,
+        "year": 1816,
+        "ISBN": "752-8781122690\n    ",
+        "description": "    Описание\n     write it yourself\n    ",
+        "rating": 0.5,
+        "views": 20965
+    },
+    {
+        "category": "фэнтези",
+        "title": "Повелитель мух",
+        "author": "Ясунари Кавабата",
+        "pages": 456,
+        "year": 1927,
+        "ISBN": "500-2626295510",
+        "description": "Описаниеmiddle",
+        "rating": 2.3,
+        "views": 89549
+    },
+    {
+        "category": "фэнтези",
+        "title": "Идиот",
+        "author": "Лев Толстой",
+        "pages": 415,
+        "year": 1840,
+        "ISBN": "108-4691789223\n    ",
+        "description": "    Описание\n     description\n    ",
+        "rating": 1.8,
+        "views": 6896
+    },
+    {
+        "category": "фэнтези",
+        "title": "Сумерки",
+        "author": "Оскар Уайльд",
+        "pages": 250,
+        "year": 1857,
+        "ISBN": "109-1963517910\n    ",
+        "description": "    Описание\n     middle\n    ",
+        "rating": 4.2,
+        "views": 88892
+    },
+    {
+        "category": "фэнтези",
+        "title": "Прощай, оружие",
+        "author": "Ярослав Гашек",
+        "pages": 167,
+        "year": 2002,
+        "ISBN": "911-8620378297\n    ",
+        "description": "    Описание\n     middle\n    ",
+        "rating": 3.2,
+        "views": 62186
+    },
+    {
+        "category": "фэнтези",
+        "title": "Зеленая миля",
+        "author": "Иван Тургенев",
+        "pages": 322,
+        "year": 1924,
+        "ISBN": "814-3390372908",
+        "description": "Описаниеdescription",
+        "rating": 1.6,
+        "views": 15825
+    },
+    {
+        "category": "фэнтези",
+        "title": "О дивный новый мир",
+        "author": "Николай Гоголь",
+        "pages": 378,
+        "year": 1826,
+        "ISBN": "637-1016571598",
+        "description": "it yourself",
+        "rating": 3.1,
+        "views": 79061
+    }
+]
